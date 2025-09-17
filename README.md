@@ -9,7 +9,7 @@ It demonstrates the use of Hugging Face transformers in a real-world business an
 
 * Sentiment analysis using DistilBERT (`distilbert-base-uncased-finetuned-sst-2-english`)
 * Aggregated insights at the **business** and **city** level
-* Visualizations: Top/Bottom businesses, Top cities, Sentiment map
+* Visualizations: Top & Bottom cities
 * Exported CSVs for reproducibility
 
 ---
@@ -24,11 +24,7 @@ It demonstrates the use of Hugging Face transformers in a real-world business an
 
 ## 📊 Output
 
-* Top & Bottom 10 businesses by positive sentiment
-* Top 20 cities ranked by sentiment with state hue
-* Interactive business sentiment map
-
----
+* Top & Bottom cities businesses by positive sentiment with State as hue
 
 ## 🚀 Why It Matters
 
