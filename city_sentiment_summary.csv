@@ -1,0 +1,224 @@
+city,state,total_reviews,positive_percent
+Abington,PA,1,100.0
+Alton,IL,1,100.0
+Antioch,TN,3,0.0
+Ardmore,PA,4,50.0
+Audubon,NJ,1,100.0
+Audubon,PA,1,100.0
+Avon,IN,3,100.0
+Avondale,LA,1,0.0
+Bala Cynwyd,PA,1,100.0
+Ballwin,MO,2,50.0
+Belle Chasse,LA,2,50.0
+Belleville,IL,1,100.0
+Bellmawr,NJ,1,0.0
+Bensalem,PA,4,100.0
+Berwyn,PA,3,75.0
+Blackwood,NJ,2,50.0
+Blue Bell,PA,2,100.0
+Boise,ID,16,56.25
+Bordentown,NJ,1,100.0
+Brandon,FL,7,85.71428571428571
+Brentwood,MO,3,66.66666666666667
+Brentwood,TN,9,85.71428571428571
+Bridgeton,MO,1,100.0
+Bristol,PA,1,100.0
+Brookhaven,PA,1,0.0
+Brownsburg,IN,1,0.0
+Bryn Mawr,PA,5,75.0
+Buckingham,PA,1,100.0
+Burlington,NJ,1,100.0
+Carmel,IN,8,100.0
+Carpinteria,CA,7,93.33333333333333
+Chalfont,PA,3,50.0
+Cherry Hill,NJ,12,83.33333333333333
+Chester Springs,PA,2,100.0
+Chesterfield,MO,2,50.0
+Cinnaminson,NJ,1,100.0
+Clayton,MO,5,66.66666666666667
+Clearwater,FL,24,66.66666666666667
+Clearwater Beach,FL,1,100.0
+Clifton Heights,PA,1,100.0
+Collegeville,PA,4,66.66666666666667
+Collingswood,NJ,1,0.0
+Collinsville,IL,1,0.0
+Columbia,IL,1,100.0
+Conshohocken,PA,3,75.0
+Creve Coeur,MO,1,100.0
+Dade City,FL,1,100.0
+Delran,NJ,1,100.0
+Deptford,NJ,1,0.0
+Deptford Township,NJ,1,0.0
+Des Peres,MO,2,50.0
+Devon,PA,1,100.0
+Downingtown,PA,1,0.0
+Doylestown,PA,6,50.0
+Drexel Hill,PA,1,100.0
+Dunedin,FL,5,62.5
+Eagle,ID,1,100.0
+East Norriton,PA,2,50.0
+Edmonton,AB,32,74.71264367816092
+Edwardsville,IL,5,87.5
+Elkins Park,PA,2,50.0
+Exton,PA,7,50.0
+Fairview Heights,IL,4,66.66666666666667
+Feasterville Trevose,PA,1,0.0
+Fenton,MO,2,0.0
+Fishers,IN,6,50.0
+Florissant,MO,1,100.0
+Fort Washington,PA,1,100.0
+Franklin,TN,16,75.0
+Gallatin,TN,1,0.0
+Glassboro,NJ,1,100.0
+Glen Mills,PA,1,0.0
+Glenolden,PA,1,0.0
+Glenside,PA,4,83.33333333333334
+Goleta,CA,15,54.54545454545455
+Goodlettsville,TN,1,100.0
+Granite City,IL,1,100.0
+Green Valley,AZ,2,0.0
+Greenwood,IN,2,50.0
+Haddon Township,NJ,1,100.0
+Haddonfield,NJ,3,100.0
+Harahan,LA,1,0.0
+Harvey,LA,2,50.0
+Hatboro,PA,2,100.0
+Hendersonville,TN,1,100.0
+Hermitage,TN,2,50.0
+Hernando Beach,FL,1,100.0
+High Ridge,MO,1,0.0
+Holiday,FL,2,100.0
+Horsham,PA,2,100.0
+Hudson,FL,2,50.0
+Indian Rocks Beach,FL,3,100.0
+Indianapolis,IN,104,75.5868544600939
+Isla Vista,CA,1,0.0
+Jefferson,LA,1,100.0
+Jenkintown,PA,2,100.0
+Kenner,LA,10,80.0
+Kennett Square,PA,1,100.0
+King Of Prussia,PA,3,50.0
+King of Prussia,PA,3,33.333333333333336
+Lafayette Hill,PA,1,0.0
+Lambertville,NJ,1,0.0
+Land O Lakes,FL,1,100.0
+Land O' Lakes,FL,1,0.0
+Langhorne,PA,1,100.0
+Lansdale,PA,2,100.0
+Largo,FL,5,62.5
+Lutz,FL,4,100.0
+Madeira Beach,FL,1,100.0
+Madison,TN,1,100.0
+Malvern,PA,1,100.0
+Manchester,MO,1,0.0
+Maple Shade,NJ,1,100.0
+Maple Shade Township,NJ,1,100.0
+Maplewood,MO,2,0.0
+Marana,AZ,3,100.0
+Marlton,NJ,2,100.0
+Maryland Heights,MO,1,0.0
+Medford,NJ,2,50.0
+Media,PA,9,58.333333333333336
+Merchantville,NJ,1,100.0
+Meridian,ID,9,83.33333333333333
+Metairie,LA,18,70.0
+Montecito,CA,3,66.66666666666667
+Montgomeryville,PA,1,0.0
+Moorestown,NJ,3,50.0
+Morrisville,PA,1,100.0
+Mount Juliet,TN,1,100.0
+Mount Laurel,NJ,3,66.66666666666667
+Mt Juliet,TN,1,100.0
+Mt. Juliet,TN,1,100.0
+Mullica Hill,NJ,1,100.0
+NEW ORLEANS,LA,1,100.0
+Nashville,TN,146,68.44553913519431
+New Castle,DE,3,33.333333333333336
+New Hope,PA,5,75.0
+New Orleans,LA,227,79.95795618522891
+New Port Richey,FL,4,66.66666666666667
+Newark,DE,3,33.333333333333336
+Newtown,PA,2,100.0
+Newtown Square,PA,1,0.0
+Norristown,PA,2,50.0
+North Wales,PA,1,100.0
+Oakville,MO,1,100.0
+Odessa,FL,1,100.0
+Oldsmar,FL,2,100.0
+Oro Valley,AZ,4,100.0
+Palm Harbor,FL,6,83.33333333333333
+Palmyra,NJ,1,100.0
+Paoli,PA,4,66.66666666666667
+Philadelphia,PA,370,76.95802469135802
+Phoenixville,PA,2,50.0
+Pinellas Park,FL,7,87.5
+Plainfield,IN,2,50.0
+Plant City,FL,3,100.0
+Plymouth Meeting,PA,4,100.0
+Port Richey,FL,3,33.333333333333336
+Reno,NV,102,74.21911421911422
+Richboro,PA,1,100.0
+Ridley Park,PA,1,100.0
+Riverton,NJ,1,100.0
+Riverview,FL,7,66.66666666666667
+Royersford,PA,4,25.0
+Ruskin,FL,1,0.0
+Safety Harbor,FL,1,100.0
+Saint Albert,AB,1,100.0
+Saint Louis,MO,81,71.19444444444444
+Saint Pete Beach,FL,1,0.0
+Saint Petersburg,FL,31,82.6086956521739
+Santa Barbara,CA,74,77.40384615384616
+Sellersville,PA,1,100.0
+Sicklerville,NJ,5,50.0
+Smyrna,TN,2,100.0
+South Pasadena,FL,1,100.0
+Southampton,PA,3,100.0
+Southport,IN,1,0.0
+Sparks,NV,14,50.0
+Speedway,IN,1,100.0
+Spring City,PA,1,100.0
+Spring Hill,FL,1,0.0
+Springfield,PA,4,66.66666666666667
+St Albert,AB,1,0.0
+St Charles,MO,5,60.0
+St Louis,MO,4,100.0
+St Petersburg,FL,4,100.0
+St. Louis,MO,11,61.111111111111114
+St. Pete Beach,FL,5,60.0
+St. Petersburg,FL,13,84.61538461538461
+Swansea,IL,1,100.0
+Swedesboro,NJ,2,50.0
+Tampa,FL,116,69.5505617977528
+Tarpon Springs,FL,8,42.857142857142854
+Temple Terrace,FL,3,33.333333333333336
+Thorndale,PA,1,100.0
+Town and Country,MO,1,100.0
+Trappe,PA,1,100.0
+Treasure Island,FL,2,100.0
+Trenton,NJ,1,100.0
+Trooper,PA,1,100.0
+Tucson,AZ,92,77.30880230880231
+Turnersville,NJ,2,0.0
+Tuscon,AZ,1,0.0
+University City,MO,4,100.0
+Upper Darby,PA,1,0.0
+Valley Park,MO,2,50.0
+Valrico,FL,1,100.0
+Voorhees,NJ,5,100.0
+Voorhees Township,NJ,1,100.0
+Warminster,PA,2,50.0
+Warrington,PA,1,100.0
+Warson Woods,MO,1,100.0
+Washington Crossing,PA,2,50.0
+Wayne,PA,3,100.0
+Webster Groves,MO,3,100.0
+Wesley Chapel,FL,5,87.5
+West Berlin,NJ,2,0.0
+West Chester,PA,8,62.5
+West Conshohocken,PA,1,0.0
+Williamstown,NJ,1,100.0
+Willow Grove,PA,3,100.0
+Wilmington,DE,9,55.55555555555556
+Woodbury,NJ,2,50.0
+Wynnewood,PA,5,58.333333333333336
