@@ -1,7 +1,7 @@
 # Business Insights from Yelp Reviews 🛍️
 
-This project analyzes Yelp reviews to uncover **business- and city-level customer sentiment insights**.
-It demonstrates the use of Hugging Face transformers in a real-world business analytics case.
+This project analyzes Yelp reviews to uncover business- and city-level customer sentiment insights.
+It demonstrates the use of Hugging Face transformers in a real-world business analytics case, combining sentiment analysis with zero-shot classification to explore both customer satisfaction and themes behind the reviews.
 
 ---
 
