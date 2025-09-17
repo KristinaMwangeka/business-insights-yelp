@@ -1,0 +1,1397 @@
+business_id,name,city,state,total_reviews,positive_reviews,negative_reviews,avg_sentiment_score,positive_percent
+-02xFuruu85XmDn2xiynJw,Family Vision Center,Tucson,AZ,1,1,0,0.9997993111610413,100.0
+-2Axhv9AZ_n7qjQefECpVw,Greek Sotir Grill,Hermitage,TN,1,1,0,0.9882871508598328,100.0
+-3AooxIkg38UyUdlz5oXdw,Chase Restaurant,Santa Barbara,CA,1,1,0,0.999825656414032,100.0
+-ATiAtTikuGuqvaW2O6tNA,Marathon,Philadelphia,PA,4,2,2,0.9886565953493118,50.0
+-D_L4GHXJQvy2wv0RkrupA,Church's Chicken,St. Louis,MO,1,0,1,0.9996906518936157,0.0
+-K0zTgGyxo-AeSkcV0IVaA,Spiro's Restaurant,Chesterfield,MO,2,1,1,0.999317079782486,50.0
+-OIUunijjcq_ZzyyQhPPFQ,Zorba's Taverna,Philadelphia,PA,4,4,0,0.9685513973236084,100.0
+-Or44IdY51Ukd618kikmtA,Federal Donuts,Philadelphia,PA,2,2,0,0.9872011244297028,100.0
+-SP57kb0YH5OVygMepc-mg,Mailsource,Springfield,PA,1,1,0,0.9996533393859863,100.0
+-TCa3KBib07_1ko9L2Z0fQ,Yeoman's Cask and Lion,St. Petersburg,FL,1,1,0,0.9998155236244202,100.0
+-Tnsc_b8dsWuAq1wQugKZA,Mi Tenampa,Indianapolis,IN,1,0,1,0.99620121717453,0.0
+-V0vIgo6196MDn_x3ZaYmA,La Creperie Cafe,Philadelphia,PA,2,1,1,0.9960565268993378,50.0
+-ZaUz6ziBgs0zKZ2_wBPxg,Crown Hyundai,St Petersburg,FL,1,1,0,0.9998180270195007,100.0
+-bGw8ARHQucKWEHEkxpGFw,The Daily Bread Bakery & Cafe,St. Louis,MO,1,1,0,0.9998776912689209,100.0
+-cE9GrThz6HHn2zdpoqY_w,Cracker Barrel Old Country Store,Mount Laurel,NJ,1,1,0,0.9998358488082886,100.0
+-d8B04ueyxADRutlcHYewQ,Hickory Kitchen,Doylestown,PA,2,1,1,0.998650997877121,50.0
+-dsxu0V5X7OD17i8HcQovg,Cinnaholic,Meridian,ID,1,1,0,0.9998847246170044,100.0
+-e25gkrazUCBqcSdgsmHGQ,Papa John's Pizza,Brentwood,TN,1,1,0,0.7951386570930481,100.0
+-eBDRVn1mPwHFCF_hry20Q,Flatbreads,Tampa,FL,1,1,0,0.9917259216308594,100.0
+-gjfaNYXAVqk3N1fhQmB6Q,Cabelas,Edmonton,AB,1,0,1,0.9851447343826294,0.0
+-hVMfjPPEsSnga_gnYJx2w,Flowing Tide Pub 3,Reno,NV,1,0,1,0.9998002648353577,0.0
+-ikBycdroyTLDBHR9aC3HA,Sukho Thai,Nashville,TN,1,0,1,0.997657299041748,0.0
+-kAaeJxXCtLNAo3DosoXXA,The Burg Diner,Saint Petersburg,FL,1,1,0,0.9998735189437866,100.0
+-mq1DwgcLU96PQbmcv3jRQ,P J's Oyster Bar,Indian Rocks Beach,FL,1,1,0,0.9965207576751709,100.0
+-nJtYj93GiX1N615LlNOrQ,Blue Dream Vapor,Voorhees Township,NJ,1,1,0,0.9998496770858765,100.0
+-o6bah2j6_IH9pkwANXcLA,Fireside Pizza Cafe,Palm Harbor,FL,1,1,0,0.999639630317688,100.0
+-r4K0ZM0cQ-cjLlH3S-LAA,Helzberg Diamonds,Reno,NV,1,1,0,0.994584858417511,100.0
+-rqoQdOR3OPNy0j9SX0V1w,Woodbury Nissan,Woodbury,NJ,1,0,1,0.9997135996818542,0.0
+-uAXBDajcvIe-IsLWP72WA,Hilton Garden Inn Tampa Northwest/Oldsmar,Oldsmar,FL,1,1,0,0.9998024106025696,100.0
+0-Tim4ucmy8bNugnzKXG8g,Diamond Eyez Nola,New Orleans,LA,1,1,0,0.999554455280304,100.0
+00Vn4VUTWl71_cFPziRQNQ,Crab & Claw,Philadelphia,PA,1,1,0,0.9993791580200195,100.0
+05471AhNLv1NxKoaVs4gYw,Sam's Brick Oven Pizza,Ardmore,PA,1,1,0,0.9998749494552612,100.0
+0F2jyiUdl8CSKQeR1KwVig,Crooked Eye Brewery,Hatboro,PA,1,1,0,0.9998095631599426,100.0
+0JkPOvTyjnx2NbpYQBIkwA,Db Shoes,Reno,NV,1,0,1,0.9994426369667053,0.0
+0cMyW5RpRbr4-criIhZ8Pg,Wild Birds Unlimited,Cherry Hill,NJ,1,0,1,0.8236072659492493,0.0
+0hIXH9jMdHov1VrLC8ujUg,Al's Finger Licking Good Bar-B-Que,Tampa,FL,2,2,0,0.9998319447040558,100.0
+0pL-eq0ufX5jMDgVAvoHHw,Sakura,Sicklerville,NJ,1,0,1,0.9986647367477417,0.0
+0qu0fNTOsSmuREYVIMPuIQ,Cold Spring Tavern,Santa Barbara,CA,3,3,0,0.9947188893953959,100.0
+0wQCEcpZ57TmTm6EmEDsIw,Hendricks BBQ,St Charles,MO,5,3,2,0.9531396150588989,60.0
+0z-unL2UdJn40PYiou2bnQ,Manny's Sicilia Pizza,Palmyra,NJ,1,1,0,0.9996500015258789,100.0
+0zWAsCBzvuCI_Ydx7yH1Jw,Shing Kee,Philadelphia,PA,1,1,0,0.9780749082565308,100.0
+14JwHj1Cxs5bkkJg5iuPog,Alpine Lock and Key,Reno,NV,1,0,1,0.9954066276550293,0.0
+17Y8circEnkMMXKfLo8Ztg,Bitar's,Philadelphia,PA,1,1,0,0.999822199344635,100.0
+196CWwMAtAcA21jYiMyRzg,Cafe Pontalba,New Orleans,LA,2,0,2,0.9986192584037781,0.0
+19WNP2xXcsbWGCysShnupg,Lisa Nails & Spa,Hatboro,PA,1,1,0,0.9997405409812927,100.0
+1ENdYUfYzDu9yyI3-MVklA,Boostin' Bowls,Philadelphia,PA,1,0,1,0.9916231036186218,0.0
+1Efad30BdOeqqjX2d6P4sw,Ohana Cafe,Palm Harbor,FL,1,1,0,0.9998778104782104,100.0
+1FURjeGJi_LBXcJQg8eskw,Padaro Beach Grill,Carpinteria,CA,5,4,1,0.9172327637672424,80.0
+1Kmlr4Zm4_4kT2BwTlZvgg,Brows To Brazilian Wax & Skincare Salon,Santa Barbara,CA,1,1,0,0.9982994198799133,100.0
+1LVMlrAQeqLgiwFu06kFfw,The Workshop Eatery,Edmonton,AB,1,1,0,0.9998751878738403,100.0
+1LlTmir5rr__6xjel5XUQA,USA Baby & Kids,Franklin,TN,1,1,0,0.9996527433395386,100.0
+1MeIwdbTnZOBFCKOrgaxuw,Ricardo's Italian Cafe,Saint Louis,MO,1,1,0,0.8498998284339905,100.0
+1NM_by6H29DNqJwQWIliZw,Urban Oasis Hydroponic Farm,Tampa,FL,1,1,0,0.9998552799224854,100.0
+1PYqegX1SruVbkCsRF-4lA,Opry Backstage Grill,Nashville,TN,2,2,0,0.9998101890087128,100.0
+1P_mGUY1PyPq7_ZabrzpBw,Carmine's Steakhouse,Saint Louis,MO,1,0,1,0.9892644286155701,0.0
+1Pxg1AMf0rEn9QF__ZYoWw,Samurai Sushi,Nashville,TN,2,2,0,0.999213844537735,100.0
+1UNorskttXSWuEcgzKzXcA,Xochitl,Philadelphia,PA,2,2,0,0.999279260635376,100.0
+1XttS5NTqLxhyNb-Rt2fOQ,Keith's Oaks Bar & Grill,Brandon,FL,1,1,0,0.9998173117637634,100.0
+1Ye_elsSB-XjKgWAHDwPbw,Applebee's Grill + Bar,New Castle,DE,1,0,1,0.9974863529205322,0.0
+1_BzX6o0O6w_9yx9NczMrg,Wawa,Philadelphia,PA,1,1,0,0.9993674159049988,100.0
+1_hDCN3iioFR3XnUr32ZtA,Dooners,Saint Petersburg,FL,1,0,1,0.9989237189292908,0.0
+1_nd9Hcswx4K4FmZZQPMVw,Rosemary's Grill,Langhorne,PA,1,1,0,0.999049961566925,100.0
+1aOjfsDJOZMCKOi0xro3Xw,Feel Better Reflexology Center,Philadelphia,PA,1,1,0,0.9986411929130554,100.0
+1aj1hnqPt3rqoB8tVRHLEA,Hotel Monteleone,New Orleans,LA,3,3,0,0.9993429978688558,100.0
+1ddqdY_piKp-abaZ-bGRSA,Crescent City Steak House,New Orleans,LA,2,2,0,0.9988575279712677,100.0
+1feuZITxuTrl9mr7V11kwQ,Frost Gelato,Tucson,AZ,1,1,0,0.9998053908348083,100.0
+1hQobBzUoF-H26URYtT2WA,Philadelphia Auto Body,Philadelphia,PA,2,2,0,0.9998651742935181,100.0
+1ig2AJg8A08_XA3pFAMiRQ,Stoney River Steakhouse and Grill,Franklin,TN,1,1,0,0.9983165264129639,100.0
+1n1TzHTD2xLcyOPGV4b2-w,Peak Performance Chiropractic,Reno,NV,1,1,0,0.9995847344398499,100.0
+1w1H1kYUN60zpfdP-0qmGQ,Machismo Burrito Bar,Philadelphia,PA,1,0,1,0.9991957545280457,0.0
+1y8Y1LLHjkHuuI8mizESZg,LEX Nightclub,Reno,NV,1,1,0,0.9312846660614014,100.0
+2-XK9zDgSKqOwSyyMwgjzA,Alamo Rent A Car,Clearwater,FL,1,0,1,0.9995520710945129,0.0
+23wO6ic61V41UfGz9eCeQQ,Nothing Bundt Cakes,Tucson,AZ,1,1,0,0.9998613595962524,100.0
+26M-3o8bL-9MWAWKk3yjDQ,Freedom Smoke USA,Tucson,AZ,1,1,0,0.9996973276138306,100.0
+26Zx69vOllucV5OsHXst9A,Braid Masters,Philadelphia,PA,1,1,0,0.922458827495575,100.0
+29YqJwOGEuAWqlHZxMc1OA,Paradise Cafe,Santa Barbara,CA,1,1,0,0.9993367791175842,100.0
+2FnoLyEO0nq7g2Wz8x7Z5A,honeygrow,Bala Cynwyd,PA,1,1,0,0.8151016235351562,100.0
+2JPz-Kjps4FgTdPva8ZFEw,Learning Express Toys & Gifts - Richboro,Richboro,PA,1,1,0,0.9994059801101685,100.0
+2KIDQyTh-HzLxOUEDqtDBg,Mazzaro's Italian Market,Saint Petersburg,FL,5,5,0,0.9972315192222595,100.0
+2Q1R2OhBbAQ581vK_r7NhA,Ooka Restaurant,Willow Grove,PA,1,1,0,0.9997708201408386,100.0
+2S_CEQYBbp8RO1bJm_1mng,The Saint,New Orleans,LA,3,2,1,0.9919653932253519,66.66666666666667
+2W0P6hXCbE6EgP5R6y9eBw,Pearl Street Pizzeria & Pub,Indianapolis,IN,1,1,0,0.9998586177825928,100.0
+2XYPFRm7teCUr3eGsB2-qw,Thai Orchid,Blue Bell,PA,1,1,0,0.9991031885147095,100.0
+2YOLYLqNr-KOsPQVjTtYjQ,JOANN Fabrics and Crafts,Saint Petersburg,FL,1,0,1,0.9991105198860168,0.0
+2YTJa7DDWx2TQmHu-tPXlg,MOXI - The Wolf Museum Of Exploration + Innovation,Santa Barbara,CA,1,1,0,0.9997225403785706,100.0
+2Zhkl-UenNSc7XkdeG112g,Famous Famiglia,Nashville,TN,1,0,1,0.9956028461456299,0.0
+2bl6G1zgXUHbMGwEocqMSg,Daves Dogs - Cart,Santa Barbara,CA,1,1,0,0.9720811247825623,100.0
+2brttsiFBlW8070dsPzQDA,First Watch,Indianapolis,IN,1,1,0,0.9948242902755737,100.0
+2cF80ccNAPwhhHtht543Kw,Harold's Soul Food & Chicken,Indianapolis,IN,1,1,0,0.9997581839561462,100.0
+2dPiEMXII3wF4uNCeWDEpg,Clayton Plaza Hotel,Clayton,MO,2,1,1,0.9912334382534027,50.0
+2er_V-oAd7IbQ5YTY56r7A,Bareburger - Midtown Village,Philadelphia,PA,4,4,0,0.9757205992937088,100.0
+2fTfpN5SggLgW4LlzptMPg,Tzin Wine & Tapas,Edmonton,AB,1,1,0,0.9998735189437866,100.0
+2iQucreJtTqbEsLczhsgrA,India Sizzling II,Indianapolis,IN,1,1,0,0.9985589385032654,100.0
+2kWw4GEEZdSPuTc6KV_aRA,Pizza Hut,Indianapolis,IN,1,0,1,0.9990338087081909,0.0
+2kuhZOrWcLYe_XePccr4lA,Cappy's Pizzeria- Seminole Heights,Tampa,FL,1,0,1,0.9996415376663208,0.0
+2nk4hq2oRfym8ROQ5iS47g,The Red Piano,Santa Barbara,CA,2,1,1,0.906356930732727,50.0
+2oNlM0ANjE8JB0jEwY-mtw,Market Blooms,Philadelphia,PA,1,1,0,0.999822199344635,100.0
+2oav5QoWgnvTI2gO5xFMjw,Kimpton Hotel Monaco Philadelphia,Philadelphia,PA,1,0,1,0.9966529011726379,0.0
+2rQFgavS-942RapZTBSBTw,Gullifty's Restaurant,Bryn Mawr,PA,2,1,1,0.9855559468269348,50.0
+2x3wM06LEbaAR81AeKk44w,National Pizza Company,Saint Louis,MO,1,1,0,0.9998515844345093,100.0
+33JlrWf0kmHd2VzW58Wp0g,Blondie's Coffee and Wine Bar,Saint Louis,MO,3,2,1,0.9992296099662781,66.66666666666667
+34Eqv8jXgxg_EEwcsNgeeg,Backyard Bowls,Santa Barbara,CA,1,1,0,0.9996700286865234,100.0
+35BuVcbDU7D9mjmruxmnEw,McDonald's,Tampa,FL,1,0,1,0.9983280301094055,0.0
+35XA5-HmCdlGig97Lf3WUg,Tim Hortons,Edmonton,AB,1,0,1,0.9831562638282776,0.0
+37BpNvlEAT6WVGsksrHbBQ,Batter'd & Fried Boston Seafood House,Nashville,TN,1,1,0,0.8835906386375427,100.0
+39ATA1juYzPDCI0OS5Htzw,mudHoney salon,Edmonton,AB,1,0,1,0.9992501139640808,0.0
+3BJxm-HnvzdwD1zjmSbmyQ,Golden Chopstick Chinese Restaurant,Philadelphia,PA,1,1,0,0.9998396635055542,100.0
+3C9l3PNoadQ9U2JEb-Qtpg,Bar Louie - Carmel,Carmel,IN,2,2,0,0.9997748732566833,100.0
+3IjpO8tHrDkltcshN_m-7g,Southwest Airlines,Tucson,AZ,1,0,1,0.9990254640579224,0.0
+3NdRfVpi3-tfk9vdiJ_F7w,Renaissance New Orleans Arts Warehouse District Hotel,New Orleans,LA,1,1,0,0.9402186274528503,100.0
+3OGzmGqWwsyGLkhnxrA9Pw,Gourmet Pizza Company,Tampa,FL,5,2,3,0.9826082110404968,40.0
+3PlpoDgeAQAreL8FM2LelA,Kauboi Izakaya,Reno,NV,2,2,0,0.9998205602169037,100.0
+3ZynJ94VpIdDlaArmEp2Rg,More Than Just Ice Cream,Philadelphia,PA,1,0,1,0.9978837370872498,0.0
+3nM3QNlex3OkNqM7FZTFPg,Heng Fa Food Market,Philadelphia,PA,1,0,1,0.9901526570320129,0.0
+3sdlpskDaXr1P59BYjGoFw,Giovani Pizza,Philadelphia,PA,1,1,0,0.9993233680725098,100.0
+3swi9WaTqK63zsSrC9FZHA,Two Rivers Campground,Nashville,TN,1,1,0,0.999578058719635,100.0
+3vVFJ93wUPYqdVQ5Cf5z6Q,TRiMM Salon Color Bar,Santa Barbara,CA,2,1,1,0.9659503996372223,50.0
+3wogQmKw729tKKWaVbZvbg,World Famous N'awlins Cafe & Spice Emporium,New Orleans,LA,1,0,1,0.9796665906906128,0.0
+3zKG81wqSbEwHLlG3HGeQg,Escape,Reno,NV,1,1,0,0.9998127818107605,100.0
+4-MogH7DSctJCHmAwUoUug,Lakeside Massage Spa,Metairie,LA,1,1,0,0.9924793243408203,100.0
+41HvjLTN2auKuXvix5s-tw,Magic Nails,Brentwood,TN,1,0,1,0.9997357726097107,0.0
+45siW2fI0Cuv5ZKCS23knA,Brew D Licious,Saint Petersburg,FL,1,1,0,0.9998905658721924,100.0
+46_2e1hnQ4csLrYnhn6bkw,Whetstone Tavern,Philadelphia,PA,1,1,0,0.999830961227417,100.0
+46fEorqn2nVbxdclHdHdKg,Gentelin's On Broadway,Alton,IL,1,1,0,0.999698281288147,100.0
+4As-DeKQELpu0JCqBAP4kA,Nk Nails & Spa-Creve Coeur,Saint Louis,MO,1,1,0,0.9997410178184509,100.0
+4DTGsmjExLNCOZlXuqXL2g,Boiling Pot,New Orleans,LA,1,0,1,0.99935382604599,0.0
+4FaYG9qKDpDyr68bKmaIEw,Capitol Cellars,Boise,ID,1,1,0,0.9998834133148193,100.0
+4S_yN5o0EvXvV6GNvesTKw,Sister Muhammad's Kitchen,Philadelphia,PA,1,0,1,0.9996535778045654,0.0
+4WdDY97x4GdMYtyk1KQMnw,Lilly's Cafe,New Orleans,LA,4,3,1,0.9910767078399658,75.0
+4_W5pstoN1166TGjjPOrMg,Prohibition Taproom,Philadelphia,PA,1,1,0,0.9873594641685486,100.0
+4ajMQOHEfdHma8deYOXr1A,Whistle Stop Gourmet Coffee Shop,Plant City,FL,1,1,0,0.999678373336792,100.0
+4fR127n3kaOL2A9NPbw3PA,Hey Guys Comedy Club,Fairview Heights,IL,1,1,0,0.999846339225769,100.0
+4ib9kGHlwqWPalWjh-dZhQ,Yama-Taiyo Japanese Cuisine & Sushi Bar,Palm Harbor,FL,1,1,0,0.9987075328826904,100.0
+4puDEkq0E27Nrq5nQiVqzg,Five Guys,Indianapolis,IN,1,1,0,0.9995480179786682,100.0
+50MNOCMK3OxqR_VL3Bsupg,Sprint Store,Philadelphia,PA,1,0,1,0.9997233748435974,0.0
+50Q2uIgwUqmWGLjn_1HSlg,Hayman Jewelry Co,Tampa,FL,1,1,0,0.9996917247772217,100.0
+50TGaB-hcv4R3QiWUmIP_w,Haveli Indian Cuisine,Indianapolis,IN,1,1,0,0.9892686009407043,100.0
+54NQk8KBYd8lMD3bLVbrAQ,Pep Boys,Warminster,PA,1,0,1,0.9994140863418579,0.0
+56q_auFAzhHK9Dvrs03AVA,Deviate Brewing,Indianapolis,IN,2,2,0,0.994883805513382,100.0
+5BJVmYyAY87tWTRhv1Vfog,Willard Pest Control,Abington,PA,1,1,0,0.9996036887168884,100.0
+5F7ZVghsgRunOIY3qP8dxQ,Diva nails,Reno,NV,1,1,0,0.9998537302017212,100.0
+5FDt7sy-70y4_37Dh2qcbw,El Arado Mexican Grill,Indianapolis,IN,1,1,0,0.987787663936615,100.0
+5FuQbcHTF_I7PWJzhCMObw,Larry's Steaks,Philadelphia,PA,1,0,1,0.9989665746688843,0.0
+5GQPM14khrarsrlID5s2LA,Walgreens,Green Valley,AZ,1,0,1,0.9996846914291382,0.0
+5ICfe2tVpdclPijrG5vzZQ,Double Eagle Golf at Snipes Farm,Morrisville,PA,1,1,0,0.9965245127677917,100.0
+5JiFbBsbUdb-caBZWRyMSw,The C House,Tampa,FL,1,1,0,0.8723576068878174,100.0
+5NSA0-aOjOVQWJYIr8hA-Q,Dots Diner - by Central,Jefferson,LA,1,1,0,0.9687990546226501,100.0
+5QKzE17vyeQbxtZs-yKV1g,Le Saigon,Paoli,PA,2,0,2,0.938146561384201,0.0
+5RzJ2bjU8bLSaN5SuiUpYA,Plat 99,Indianapolis,IN,2,1,1,0.9991799592971802,50.0
+5X43mcuo8-oq9NUZi5m7Jg,Mojito Cuba Caribe,New Hope,PA,1,1,0,0.9998308420181274,100.0
+5_6rQ5RtLxypfNPTK7n8ew,Sprint Store,Fairview Heights,IL,2,0,2,0.9989955723285675,0.0
+5_sby6qh9I6rwnSuoURSaQ,Nordstrom The Plaza at King of Prussia,King Of Prussia,PA,1,1,0,0.9998395442962646,100.0
+5iuo1kvv0XZMS0bUOoLz2Q,Bistro St. Tropez,Philadelphia,PA,1,0,1,0.9496756196022034,0.0
+5j2ywRGhhYdia7CuQSzkoA,Funky 544,New Orleans,LA,1,1,0,0.9998112320899963,100.0
+5kZtETKu37RuwHATrB4a5g,City Fitness - Graduate Hospital,Philadelphia,PA,2,1,1,0.9620227813720703,50.0
+5l67axuAa5EmEV3lLuSa1Q,Smashburger,New Orleans,LA,1,1,0,0.9993593096733093,100.0
+5mfkdR_YjnxHUWlNIKnaDQ,Wok House,Saint Albert,AB,1,1,0,0.9996873140335083,100.0
+5nqmmrrm5Ux4i21w-xndPQ,Howards In Soulard,Saint Louis,MO,1,1,0,0.9998067021369934,100.0
+5qmNrtr0iNyhCk6ky3c97w,The Cheesecake Factory - Cool Springs,Franklin,TN,1,0,1,0.9995101690292358,0.0
+5rryuz2myZJI0EfWtrTMxw,MIUCHA,Philadelphia,PA,1,1,0,0.9986648559570312,100.0
+5v9Voa4a5MON7mAQO3gV3A,Montesano Bros Trattoria & Catering,Chester Springs,PA,1,1,0,0.9993566870689392,100.0
+5vpqoHruyjHALHjxJLSJbA,Gavi Italian Restaurant,Tucson,AZ,1,1,0,0.9776631593704224,100.0
+5wgoIQXyP3BEPZLiVi1W8A,The Howlin' Wolf,New Orleans,LA,2,2,0,0.9997306168079376,100.0
+5xokROlB8Zo5T-_qbHzsrQ,Buddy Brew Coffee ,Tampa,FL,3,3,0,0.8241986632347107,100.0
+61VCde2SRXSwoSPshjXn4Q,Shearz Salon,Sparks,NV,1,1,0,0.9996397495269775,100.0
+61YkH57gZYrRk1R5-P-AxA,Kebab Express,Edmonton,AB,1,0,1,0.9994346499443054,0.0
+68ThEdiK0eWCEgGEmV9Tng,Southgate,Philadelphia,PA,2,2,0,0.9865644574165344,100.0
+69MquJNC3BpgOZvHtutZ-w,Catrina's,Edwardsville,IL,2,1,1,0.9831904470920563,50.0
+6CsLAjWXFlLpErBZEmGQ5g,Sky Cafe,Philadelphia,PA,1,0,1,0.9925071597099304,0.0
+6FvC6w810uf6O7Ocd6Wpog,Yolklore,St. Louis,MO,2,2,0,0.9973574876785278,100.0
+6I_DA3uqOox50rBvjrQ_-g,Aloft Philadelphia Airport,Philadelphia,PA,3,1,2,0.998829702536265,33.333333333333336
+6JFTijOMHB46yBoyVOjPCA,Santa Barbara County Courthouse,Santa Barbara,CA,1,1,0,0.9961608648300171,100.0
+6JaHpWSKuJgTQTmxHxPe3A,Firestone Complete Auto Care,Saint Louis,MO,1,0,1,0.998963475227356,0.0
+6OBV0LXFHVQoUWuQxJxtwA,Fulin's Asian Cuisine,Mt. Juliet,TN,1,1,0,0.9889389276504517,100.0
+6ShzbSXGB9vjHHE-ZV_ejA,Side Wok Cafe,Indianapolis,IN,1,1,0,0.9987429976463318,100.0
+6UizqjvZhKZkQhHstXVPUg,China Empire,Reno,NV,1,0,1,0.9910749197006226,0.0
+6aoXAXNrL7KrGBVRYBMFWw,Andre Richard Salon,Philadelphia,PA,5,3,2,0.9987776875495911,60.0
+6bFx8j2KqPfmT0XEUS1RMg,Center City Emergency Dentist,Philadelphia,PA,1,1,0,0.9982585310935974,100.0
+6dDC5PSmPEoJYuM8r8dN_A,Whole Foods Market,Reno,NV,1,1,0,0.9932057857513428,100.0
+6exYCuj4iSl1Hd6hb0C_Bg,Delicious Designs,Reno,NV,1,1,0,0.9998620748519897,100.0
+6h98Tb1tE6hcrS-Ho_MKLw,Darrell and Sharon's Park Street Diner,Saint Petersburg,FL,1,1,0,0.9983470439910889,100.0
+6iqDIQCE8sq7Xq1xvhG1Tg,M3 Restaurant,Reno,NV,1,1,0,0.9980792999267578,100.0
+6kAXOzE7fqaBZINQV_-_mg,Kien Giang,Nashville,TN,1,1,0,0.9993641972541809,100.0
+6mCsrUp9Vl4iXMbOxWtVjA,Dosa Hut Indian Grill,Nashville,TN,2,1,1,0.9544636905193329,50.0
+6wPPhvw6cCB1FgNytfQAig,Tony's Pizza,Delran,NJ,1,1,0,0.9995075464248657,100.0
+6x6rR-SErwOo3xF2AzXVHA,Newfields: A Place for Nature and the Arts,Indianapolis,IN,1,1,0,0.9998111128807068,100.0
+6xrDP4-S2mky3wOprv686A,Atrium Bar,Kenner,LA,1,0,1,0.9726711511611938,0.0
+6z0vp2VdMqutVhKuPu-jvw,Free Will Taproom,New Hope,PA,1,1,0,0.9998185038566589,100.0
+71U7MxQEhwitJOm4CQpRwQ,KELP Sushi Joint,Tampa,FL,1,0,1,0.9953576922416687,0.0
+720J1v3TX-J95cdTJbCpKA,Ninki,Nashville,TN,1,0,1,0.999494194984436,0.0
+76xVA7wmqKLURF0tN82N5w,Bar Avalon,West Chester,PA,1,1,0,0.999848484992981,100.0
+79OfACVZ_vKmpGxBFF21KQ,Mystickal Tymes,New Hope,PA,2,2,0,0.9996664524078369,100.0
+7A-q7-bajt0NxMy36dUfIw,The Station,Merchantville,NJ,1,1,0,0.9997785687446594,100.0
+7CXSQYrIep0jdvoYPUIGdQ,Sephora,Philadelphia,PA,1,1,0,0.9085085988044739,100.0
+7EhTT4iEuA7JaaWA-eI3Qw,Seasons Cafe & Bakery,Pinellas Park,FL,3,3,0,0.9986385504404703,100.0
+7IdIGemGZodDAA_9mJCigA,Farmer Boy,Santa Barbara,CA,1,0,1,0.9962976574897766,0.0
+7L1kXfwU5XM6f6Jxo_L7Yg,Casa Molina Del Norte,Tucson,AZ,1,1,0,0.9998847246170044,100.0
+7Ld1DxAhSlGSateku0iqbg,Ristorante Attilio,Wilmington,DE,1,1,0,0.9998154044151306,100.0
+7O7YHTUB3uqXHsQSLKR0SA,El Jefe Restaurant & Mexican Grill,Newark,DE,1,0,1,0.9991193413734436,0.0
+7T1VAYHIS3cgsDj3iS6JWQ,The Frosted Fox Cake Shop,Philadelphia,PA,1,1,0,0.9998747110366821,100.0
+7WZ5EGb-Xk_uxQTWc52P4w,Tom Jones Family Restaurant,Brookhaven,PA,1,0,1,0.9994702935218811,0.0
+7_Y66S3FtpsdRupcXrTISQ,Sparkle Car Wash,Feasterville Trevose,PA,1,0,1,0.9993513226509094,0.0
+7fETFidBtAZuWKanTfa02w,GuestHouse Inn & Suites Music Valley,Nashville,TN,1,0,1,0.9991683959960938,0.0
+7gKh-cM6TvfpQPMjMoEbGg,The Naked Peach Waxing Boutique,Philadelphia,PA,1,1,0,0.9998810291290283,100.0
+7hsCR9k_GND2QoQyVkITBg,Pho Voorhees,Voorhees,NJ,1,1,0,0.8004563450813293,100.0
+7kko-9WTh53VZ_PmrffrSQ,Tasty Tom's,Edmonton,AB,1,1,0,0.9992768168449402,100.0
+7l-j0MBJr8KR7Hzk4uaaAQ,Wingstop,Metairie,LA,1,0,1,0.998610258102417,0.0
+7lwe7n-Yc-V9E_HfLAeylg,Pub & Kitchen,Philadelphia,PA,3,1,2,0.9914976755777994,33.333333333333336
+7mpYTDb24SywNMRn3yeakQ,The Twisted Tail,Philadelphia,PA,2,1,1,0.9446772634983063,50.0
+7oja7RjmLEjPvdVtT2mkgA,Hughes Automobile Co,Santa Barbara,CA,1,0,1,0.9995379447937012,0.0
+7pxE4BFDibv6Q7MBbNOPQA,Los Rancheros,Indianapolis,IN,1,1,0,0.9848324656486511,100.0
+7qDAeIsMVj1McNktlICETw,Contempo Hair Salon,Spring Hill,FL,1,0,1,0.8154034614562988,0.0
+7rtrGGsUkVWZFHJaEArJ7g,The Trappe Tavern,Trappe,PA,1,1,0,0.999799907207489,100.0
+7tN8hIXdQlfc7Lf5OOyjeg,Gator's Dockside - Tampa,Tampa,FL,1,1,0,0.9998014569282532,100.0
+7w-nj4YD5bhO_Jq4KglUOA,United Apparel Liquidators,Nashville,TN,1,1,0,0.9997112154960632,100.0
+7wpTBtY2kiMXmW42zvL-fw,Shishkabob House,Kenner,LA,1,1,0,0.9998311996459961,100.0
+7yPzOek7Af2dKWGYKpcHWA,Khmer Kitchen,Philadelphia,PA,1,1,0,0.9992990493774414,100.0
+8-j10_I745ITrczbkfD-Pw,Desi Village Indian Cuisine,King Of Prussia,PA,2,0,2,0.9767386317253113,0.0
+89COhCW-cAD5-fTXPfXYTw,Strange Donuts,Maplewood,MO,1,0,1,0.9997689127922058,0.0
+8FALz8g6oaTca0ufiUuF6w,Tabu Lounge & Sports Bar,Philadelphia,PA,2,1,1,0.9979851245880127,50.0
+8QJTzIaR5FceGds8HBSIig,Barrio Brewing,Tucson,AZ,2,2,0,0.9877438545227051,100.0
+8UPP3VykU0G3OdoRWXvwIA,Sage Yoga & Wellness,Boise,ID,1,1,0,0.9998557567596436,100.0
+8YJtf5v76SIz-4udyF4YmA,The Hideout Coffee House,Brandon,FL,1,1,0,0.9991869330406189,100.0
+8ZxrekldhUOBA45uGOtIww,Barbers Club of Cherry Hill,Cherry Hill,NJ,1,1,0,0.9996464252471924,100.0
+8eDkw7CE0NKqMknPIu26fw,Two Chicks Cafe,New Orleans,LA,2,2,0,0.9886064231395721,100.0
+8eaqI61j12B5iVp0yc_stQ,"Dizzy Dugout Cards, Comics & Games",Collinsville,IL,1,0,1,0.9982366561889648,0.0
+8mrSsF9x8kDebGiZ_V2kiQ,Battle Born Tattoo,Reno,NV,1,1,0,0.9998652935028076,100.0
+8msUuroLQ1Tj-aNWgzIovQ,Malvern Pizza,Malvern,PA,1,1,0,0.9838657975196838,100.0
+8sshLb4UU7emeUDvtJWnpA,DanceLine,Paoli,PA,1,1,0,0.9998290538787842,100.0
+8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,New Orleans,LA,8,8,0,0.9525182023644447,100.0
+8usO-H5uFTzlISfGZN8rSg,Devon Donut & Bagel Company,Devon,PA,1,1,0,0.9997288584709167,100.0
+8yDgFRYjTYdtBH9PVk9E_w,Amador Matchmaking,Santa Barbara,CA,1,1,0,0.9993680119514465,100.0
+8zTCu7guUenvlLeKya0AXg,Bimmerworks,West Chester,PA,1,1,0,0.9966037273406982,100.0
+8zUjBPx6hUtmTVeBBtqsyQ,Fitness Now!,Indianapolis,IN,1,0,1,0.9988196492195129,0.0
+8zvsq2duG2u0rB7R8ZDeMg,Crest Honda,Nashville,TN,1,0,1,0.998543381690979,0.0
+8zylrReA4CwjoPjAYMxXuA,The H Law Group,Santa Barbara,CA,1,1,0,0.9985263347625732,100.0
+98wodesqiL8lCHJNFmFgDg,Cash & Carry Paper,Indianapolis,IN,1,1,0,0.9995707869529724,100.0
+9A1ve-8MfJcUcOGQYCLlKA,Umami,Nashville,TN,2,1,1,0.9946807324886322,50.0
+9HUpW8t-GfzZbEmfX_kWYQ,The Grove Hotel,Boise,ID,1,1,0,0.9996302127838135,100.0
+9OG5YkX1g2GReZM0AskizA,Romano's Macaroni Grill,Reno,NV,2,1,1,0.9970934391021729,50.0
+9PWXCCgVpTMNQERLUAl5fw,Silver Door Spa,Carmel,IN,1,1,0,0.9995386600494385,100.0
+9V0LMtO1riRw9-pUuG4NFg,Delicia,Indianapolis,IN,4,1,3,0.9145128130912781,25.0
+9XkgYvXhYibe85V6mNE_TQ,Winners Bar and Grill Nashville,Nashville,TN,2,2,0,0.9983682036399841,100.0
+9XpU6r6ATXSWYfbU7kibaQ,Passero's Coffee Roasters,Philadelphia,PA,1,1,0,0.9995163679122925,100.0
+9_m_iA3VAqGBJEW5XLc-5w,The Cuban Sandwich Shop,Indianapolis,IN,2,2,0,0.9998599290847778,100.0
+9cJ9vOI-wmOBdfq_KyZnFw,Top Shop Automotive,Santa Barbara,CA,1,1,0,0.9998369216918945,100.0
+9dW3CVyvnTXdkXg2AOyBfw,Birds Nest Cafe,New Orleans,LA,1,1,0,0.9995470643043518,100.0
+9dm_v79s9-pefMahqp1SkA,Loco Mexican Restaurant & Cantina,Indianapolis,IN,1,0,1,0.9596072435379028,0.0
+9gObo5ltOMo6UgsaXaHPWA,R2L,Philadelphia,PA,4,4,0,0.9990449696779251,100.0
+9kjDMcm9zesdk5b-MQp0iw,Best Buy Harahan,New Orleans,LA,1,0,1,0.9997304081916809,0.0
+9mE7Xp0hH6TMv3eaf2Ylxg,Red Pony,Franklin,TN,1,1,0,0.9998144507408142,100.0
+9nkYaCQRyO0fi8SrXDFhGw,Rittenhouse Market,Philadelphia,PA,3,2,1,0.953391452630361,66.66666666666667
+9wSJ2hu_ALVSPfuk7N9O8Q,Sicilian Trattoria,Elkins Park,PA,2,1,1,0.9856591820716858,50.0
+A-8K66Kx7fMXkayG_3zdJQ,la Madeleine,Metairie,LA,1,1,0,0.9996356964111328,100.0
+A21srfWbl97OWsCn2lK-0Q,El Gallo Grande,St. Petersburg,FL,1,1,0,0.9998151659965515,100.0
+A2TDvUnOgCRKeyWN8V2WGg,WingHouse Bar & Grill,Largo,FL,1,0,1,0.7695171236991882,0.0
+A2q7d-CBM2-81tVkmS4JMw,The Buffet,Reno,NV,1,1,0,0.8852185606956482,100.0
+A7bjrO_5UCExdOvr8klrYg,Fixit Computer & iPhone Repair,Metairie,LA,1,1,0,0.9824663400650024,100.0
+AC-AONCfwy55yZcpdoZJJQ,Signature Flight Support,Nashville,TN,1,1,0,0.9947804808616638,100.0
+ADgeB1sfOGbzCR3LIi-4lg,Cafe Reconcile,New Orleans,LA,1,1,0,0.9997031092643738,100.0
+AIuczSOGI3zX0kwGxtPApg,Romano's Macaroni Grill,Boise,ID,1,0,1,0.9797857403755188,0.0
+AL3_t23te70PJpXklfw_HA,Newk's Eatery,Nashville,TN,1,0,1,0.9816572666168213,0.0
+ARZroZoAl06oPux6tas5Wg,Pete's Car Wash Express LP,East Norriton,PA,1,0,1,0.9990264177322388,0.0
+ARgidflSXPHj7uhK-Y7hwA,Kampai Sushi Bar,St Louis,MO,1,1,0,0.993550181388855,100.0
+AWnzFqIrlkLAKTc46_zmEg,Mena's Palace,New Orleans,LA,3,2,1,0.9994698961575826,66.66666666666667
+AYSZCdB7oUiKMaOy0yud6g,So Good Jewelry,Santa Barbara,CA,2,0,2,0.9976691007614136,0.0
+AaRe9p02qoeAcSFLIkvNNQ,The Home Depot,New Castle,DE,1,0,1,0.9983556866645813,0.0
+AaWmckcT3O1iQSAIUmzwUA,Basimo Beach Cafe,Clearwater,FL,1,1,0,0.999858021736145,100.0
+AbbIoHhBEMZndmIm07L4Og,WinCo Foods,Reno,NV,1,0,1,0.9980397820472717,0.0
+AbtYqoBGuvlWmR1gU0c3XA,Foodery,Philadelphia,PA,1,1,0,0.9901639819145203,100.0
+AcAT1O_gxk_RH8nzEoHwdg,Nola Tan,New Orleans,LA,1,1,0,0.9981231093406677,100.0
+AhcQA_ar0gDI_gGablg4WQ,Autozone,Saint Louis,MO,1,1,0,0.9992985725402832,100.0
+AlxnbBd2JNkozNvI0OvRLQ,Murph's Bar,Philadelphia,PA,1,0,1,0.9728485941886902,0.0
+AmnnsJq4Pz1jJUFzHwtsOA,Chipotle Mexican Grill,Indianapolis,IN,1,1,0,0.9994285702705383,100.0
+AoK_wXRDqiaiUcbA0d0MYg,Hand & Stone Massage and Facial Spa,Marlton,NJ,1,1,0,0.9997969269752502,100.0
+Ar7pUJ56ihD9ZDEMmvoX6Q,CYCLEBAR,Plymouth Meeting,PA,1,1,0,0.9974351525306702,100.0
+AtIGlkUITdQFhAG_JWp-Og,Cafe Bosna,Hermitage,TN,1,0,1,0.7077237367630005,0.0
+AyGJNTLh9abu8R14mYPAjA,Kopper Kitchen,Boise,ID,1,1,0,0.9998809099197388,100.0
+Az1Xl-Wz_VXgswIW4OyAGQ,Shops At Liberty Place,Philadelphia,PA,2,2,0,0.9961977303028107,100.0
+AzseSGgDC6bVtMPEYo1CNQ,Creole Creamery,New Orleans,LA,7,6,1,0.9987490177154541,85.71428571428571
+B-1tudB74EiffIDx7leEQw,Fifth Generation Home Inspection Services,New Orleans,LA,1,1,0,0.9996579885482788,100.0
+B-DiQpcSTJ7oMMnwzbAGTQ,Cucina Zapata,Philadelphia,PA,1,1,0,0.9995297193527222,100.0
+B10mqANgHvL8gBteo1UhAA,Caruso's,Tucson,AZ,1,1,0,0.8932823538780212,100.0
+B73uHrYlkCNOIS6JwGBqYg,Barrio Cuisine,Tucson,AZ,1,1,0,0.99978107213974,100.0
+B7nlRFe3EeQwAWpUpefGHA,Provisions Coffee & Kitchen,Wesley Chapel,FL,1,1,0,0.9998611211776733,100.0
+BMMcP9fBunmTyYY6XdtQtw,FIT n TAN,Saint Louis,MO,1,0,1,0.998711109161377,0.0
+BVndHaLihEYbr76Z0CMEGw,Mamas Kitchen,Tampa,FL,2,2,0,0.9986388981342316,100.0
+BWITd9JUXP3gSi1z3Y-z8g,In Riva,Philadelphia,PA,3,2,1,0.9872142473856608,66.66666666666667
+Bda92vtAuK-FcXAw_D0Pxw,Koizi,New Port Richey,FL,1,0,1,0.999487042427063,0.0
+BhVDlcm-qL5uJatFEyjiRw,Smith Volkswagen Service,Wilmington,DE,1,0,1,0.995672345161438,0.0
+BiBwdFcG0ynK50_g7zJTOg,Chopt Creative Salad Co.,Brentwood,TN,1,1,0,0.9995343685150146,100.0
+Bt7NBqA31uOI4H_hvasLLg,HORN'S EATERY,New Orleans,LA,1,1,0,0.9997883439064026,100.0
+BvQ02tI-7gVAfQwHe_U3bA,Taco Bell,Green Valley,AZ,1,0,1,0.9972820281982422,0.0
+BxhkoR6cscJwwex8gx31OA,Bar-B-Cutie,Madison,TN,1,1,0,0.9998499155044556,100.0
+BxveuvYElRjEIuVNiJAEtA,Best in the West Nugget Rib Cook-Off,Sparks,NV,2,1,1,0.9949902296066284,50.0
+C3dGeJ5FnETZ4rpwR5dQWw,BBQ BBQ,Horsham,PA,1,1,0,0.9996633529663086,100.0
+C5Nwl3I2luh-k5ePQ-kLmw,Parker's Paws Animal Hospital,Nashville,TN,1,1,0,0.9997908473014832,100.0
+C7ZNfxgDQWinNzRfTkevxg,The Men's Club Barber Shop,Philadelphia,PA,1,1,0,0.9994680285453796,100.0
+CA5BOxKRDPGJgdUQ8OUOpw,Maynards,Tucson,AZ,4,4,0,0.9834708720445633,100.0
+CAQFxeImeXVWnlBL4BzZwQ,Michaelangelo's Pizza Restaurant,Cherry Hill,NJ,1,1,0,0.988735020160675,100.0
+CBGqxzHew6PveH_YdKLYpw,Voodoo Authentica,New Orleans,LA,1,0,1,0.9703009724617004,0.0
+CJ3t6dw60CdpflWKe3b78Q,Benihana,Plymouth Meeting,PA,2,2,0,0.9966443181037903,100.0
+CPFKi2lZJazP6IdtCdDDyg,Coffeebar,Reno,NV,3,3,0,0.9997524420420328,100.0
+CPgWuWGZ4v2sZr5_-1kluw,Checkers,Philadelphia,PA,1,0,1,0.9997010827064514,0.0
+CS_GzUYlEPa6QHTRY224wQ,LongHorn Steakhouse,Norristown,PA,1,0,1,0.9272278547286987,0.0
+CTCYk-k84VA5vCkRgv03Dg,SLT - Philadelphia,Philadelphia,PA,1,1,0,0.9997187256813049,100.0
+CUsM2ZJAMUkUsf5-G7Js7Q,Clayton Nail Spa,Clayton,MO,2,1,1,0.9984245598316193,50.0
+CV1ZOJap9ZiEmtqgN3SKNQ,Wawa,Royersford,PA,1,0,1,0.6442762613296509,0.0
+CVrU9WrUHs2SShb6RRMwVA,Xenos Candy 'N' Gifts,Philadelphia,PA,1,1,0,0.9997552037239075,100.0
+CYJRj0lF120-WC3UKsuh5A,Cafe Fiorello's,West Chester,PA,1,1,0,0.9997261166572571,100.0
+C_EtrXTygRX5RTUOKtO6Dg,Copabanana,Philadelphia,PA,3,1,2,0.9959375262260437,33.333333333333336
+CgjtA5DXxQBqWSvcC8zl6Q,Castillo Inn at the Beach,Santa Barbara,CA,2,1,1,0.9832148551940918,50.0
+Cj4SH7N9HKtPhG_wp9ZiOA,TJ Smith's,Warrington,PA,1,1,0,0.9982093572616577,100.0
+CjkxTRergWcYWb4SVW3gxw,Smokin' Out,Holiday,FL,2,2,0,0.9997073113918304,100.0
+CmaMxRtf0NJxOR5r0Pw_mQ,B & C Market BBQ,Nashville,TN,1,1,0,0.9997641444206238,100.0
+CmjvsiafnWH60fuYz2LCmA,Orange Tint and Graphics,Tampa,FL,1,1,0,0.9931222796440125,100.0
+D4n4j_pBOhDJB6u1LRFaew,Dierbergs Markets,Saint Louis,MO,2,2,0,0.9969293475151062,100.0
+D5V0Fawd6ODVgqCY8xngsw,Loews Philadelphia Hotel,Philadelphia,PA,3,3,0,0.9991496006647745,100.0
+D9p7-HsY9llYP3BaCVg4DA,Cafe Soleil,St. Pete Beach,FL,1,1,0,0.9998564720153809,100.0
+DAVoDOQCp7HdnVnVjkmujw,The ScyFli Smoke Shop and Glass Gallery,Mount Laurel,NJ,1,0,1,0.9937665462493896,0.0
+DJJtybSWY0BygESsSrabqg,Texas Wieners,Philadelphia,PA,1,1,0,0.9992497563362122,100.0
+DJim4p_UABTUcIKsZTxARg,Buffalo Exchange,New Orleans,LA,1,1,0,0.9985402822494507,100.0
+DNkz1z53dS2CUUWI1Skg2g,Rollin' Oats Market,St. Petersburg,FL,1,1,0,0.9998534917831421,100.0
+DNtXVS0xYn0n8Cscmj9JSg,Syberg's on Market,Saint Louis,MO,1,1,0,0.9944698810577393,100.0
+DOl21AqtT74dUZ3kvXNNcA,Golden Triangle,Philadelphia,PA,1,1,0,0.9998743534088135,100.0
+DOydgEG9DzmM74QSz4btFA,Wendy's,Fishers,IN,1,0,1,0.9983205199241638,0.0
+DPG0mEHSfMMr53zR8mICGw,Pep Boys,Pinellas Park,FL,2,1,1,0.9990444481372833,50.0
+DRr5xdfHtqgWfhmdTU1B8Q,London Grill,Philadelphia,PA,1,1,0,0.9998716115951538,100.0
+DSbP-Z-khGxHnhu_0FqacQ,Complete Fitness Results,Brentwood,MO,1,1,0,0.999795138835907,100.0
+DXYhpEv17mWqSqFjau7vhg,Eatalia,Philadelphia,PA,1,1,0,0.9998432397842407,100.0
+DXnonn36Ug-YP9-xE4oIeA,Ambiance Salon & Spa,Riverview,FL,1,1,0,0.9995984435081482,100.0
+DeVlppoc8dPBhOCPrm4wmg,Harry & Izzy's,Indianapolis,IN,2,2,0,0.998965710401535,100.0
+Derr7dcpu_BRwl8OwGQtyg,Pizza Wings Steaks,Philadelphia,PA,1,1,0,0.9928983449935913,100.0
+DnnPX9r4VoZB7X09I0KtSg,Smith & Murphy Events and Design House,Santa Barbara,CA,1,1,0,0.989856481552124,100.0
+DsKzHnkLKnxZTVsFpts4oA,Red Owl Tavern,Philadelphia,PA,2,2,0,0.993909478187561,100.0
+Dtuf4vD0znzwJW9vk3iTNw,Tomo Japanese Steakhouse and Sushi Bar,Indianapolis,IN,1,1,0,0.9998373985290527,100.0
+DtxrbAIsSMs4Qshm99AFAQ,Reno Tahoe Shuttle,Reno,NV,1,1,0,0.9993472695350647,100.0
+DuPRwh_pNsp4LkbICuF3Ig,Hilton Garden Inn Nashville Vanderbilt,Nashville,TN,1,0,1,0.9984098672866821,0.0
+DuzsdCH0_Qrrs40qjj5dlg,Regal Cinema,Port Richey,FL,1,0,1,0.9995694756507874,0.0
+Dv6RfXLYe1atjgz3Xf4GGw,HipCityVeg,Philadelphia,PA,5,4,1,0.9988873481750489,80.0
+DvkSkF83xDONjkNIoEPRnQ,Greko Greek Street Food,Nashville,TN,1,1,0,0.9998738765716553,100.0
+E-4t5Hoon6aVFTWDPz26fQ,Biscuits Cafe,Indianapolis,IN,1,1,0,0.9997854828834534,100.0
+E9NdANM1gVijPPkl1K2CDg,Deluxe Hair Salon,Philadelphia,PA,1,1,0,0.9982839226722717,100.0
+EAtdpksdWfWAaqh3XdnNNg,Essene Market & Café,Philadelphia,PA,1,1,0,0.977534294128418,100.0
+EBn3U4mpnIRLIy2lKuilRQ,Logan's Roadhouse,Nashville,TN,1,0,1,0.9859885573387146,0.0
+EDjEVzmoQVHzboFqC-M6Ew,Local Taco,Nashville,TN,2,1,1,0.9994848072528839,50.0
+EERwPZdemE21aIwYsadjTg,Mirko Pasta,Nashville,TN,1,1,0,0.9996448755264282,100.0
+EMzQIuFn8XWVgYbuoR4JDA,Garbonzo's Pizza,Meridian,ID,1,0,1,0.9993218183517456,0.0
+EP2jFD3aGoSBCWb7irY5-w,Queen of Sheba,Temple Terrace,FL,3,1,2,0.9822027683258057,33.333333333333336
+EQ-TZ2eeD_E0BHuvoaeG5Q,Milktooth,Indianapolis,IN,4,4,0,0.9035615622997284,100.0
+ET5hD0a-Gr6xitL70iK1NA,Culver's,Indianapolis,IN,2,1,1,0.9987893402576447,50.0
+EWNsSQkF5YG88hQS0RdC9g,Skin Deep Spa,Tucson,AZ,1,1,0,0.996221661567688,100.0
+E_7rpLYo6uvByCi1ji16Mw,Alley Pub,Nashville,TN,1,1,0,0.994664192199707,100.0
+Ea2hPSFazxXITET4f6ZJhw,Beef 'O' Brady's,Lutz,FL,1,1,0,0.9997726082801819,100.0
+EaTbY8HFwwF7i3SjVbHGYw,Montecito Wine Bistro,Montecito,CA,1,1,0,0.9997765421867371,100.0
+EbBQI254WN0AoH-y21-gCA,Nouvelle Beauty Bar,St. Petersburg,FL,1,1,0,0.9998595714569092,100.0
+Edg22x3CZkIv0GUib2oEFA,Mellow Mushroom,New Orleans,LA,1,1,0,0.9989359974861145,100.0
+EjwrtCJDCZBUS_uTvpHMSw,Skeeter's Pub,Blackwood,NJ,1,0,1,0.9961338043212891,0.0
+EneM1oBFxncaR1nQCD3gYA,Heads & Tails Beauty Boutique,Philadelphia,PA,4,3,1,0.9993414878845215,75.0
+EpREWeEpmR8f1qLHzzF0AA,Schlafly Bottleworks,Saint Louis,MO,1,1,0,0.9726123213768005,100.0
+EqEcDeXqIq1YwnzHg_ZUFw,Frost Gelato,Tucson,AZ,2,2,0,0.9682865142822266,100.0
+EtKSTHV5Qx_Q7Aur9o4kQQ,Village Whiskey,Philadelphia,PA,2,1,1,0.9993103444576263,50.0
+EtkNplbYROY-8nZz0YQbMQ,Roly Poly,Metairie,LA,1,1,0,0.9994202852249146,100.0
+EwqQAb-UUN_BVrvnwr3hpg,Lee's Famous Recipe,Saint Louis,MO,1,0,1,0.9991995692253113,0.0
+F0AAzMdhv2RyjwHVned5bQ,Hendel's,Florissant,MO,1,1,0,0.9998610019683838,100.0
+F2C5ENuY8CXfgoW-gAMdDA,Revolucion,Indianapolis,IN,4,3,1,0.9981809258460999,75.0
+F2T2Ef5kcZuyTyUcJyh0rQ,Timeout Sports Pub & Restaurant,Boise,ID,1,0,1,0.9982439279556274,0.0
+F4zL3RYWlEhGLsns1xRR-A,Budget Motors,Reno,NV,1,1,0,0.999818742275238,100.0
+F6lNQPwg4gyg76wNyimxjQ,Ride The Ducks,Philadelphia,PA,1,1,0,0.9996978044509888,100.0
+F8yozE3NWnImNApHO347gQ,Marrakesh,Philadelphia,PA,6,5,1,0.9954963525136312,83.33333333333333
+FHNIvNgh3fS7VZQq2Y3dsA,Cheu Noodle Bar,Philadelphia,PA,2,1,1,0.9990693926811218,50.0
+FJDvhCGIwKuohPOK7JfLuA,Key One,Tucson,AZ,1,1,0,0.9997332692146301,100.0
+FKrP06TDAKtxNG1vrRQcQQ,Johnny Rockets,Philadelphia,PA,1,1,0,0.9994630217552185,100.0
+FYw5uf26ry8-MuPKD10z0Q,Josef's Vienna Bakery & Cafe,Reno,NV,2,1,1,0.9972953200340271,50.0
+Fbq_tc6W5uNmQNrInXpd5w,6 North Cafe,Ballwin,MO,1,1,0,0.8056355714797974,100.0
+Fow_6iQxoWj46ojqcWnibA,Once Upon A Child,Indianapolis,IN,1,0,1,0.9985999464988708,0.0
+FrjN8iGJBqRWhLW2E1brAg,Schnucks Telegraph,St. Louis,MO,1,0,1,0.9997155070304871,0.0
+Fv_snoYk6oI_t_YfLM3MFA,Cathey's Coffee Bar,West Chester,PA,1,1,0,0.9998621940612793,100.0
+G0xz3kyRhRi6oZl7KfR0pA,Esporta Fitness,East Norriton,PA,1,1,0,0.9991409778594971,100.0
+G3u9BQ7cc-IcXOfNyFKmnw,Wasabi Sushi Bar,Warson Woods,MO,1,1,0,0.9973540306091309,100.0
+G4P_3-Gj3b5pizqDmitP3w,Barbers On Broad,Philadelphia,PA,1,1,0,0.9972102046012878,100.0
+G4mEyZGeS_4JOuAQWg2dJA,Brothers Pizza & Pasta,West Chester,PA,1,0,1,0.998485267162323,0.0
+G6LoNkTHopeCB8mg1mG8Rw,Popeyes Louisiana Kitchen,Antioch,TN,1,0,1,0.993607759475708,0.0
+G6kRQylkjNNE-yUXM2muBg,Brandon Bagels,Brandon,FL,1,1,0,0.8687359094619751,100.0
+G84WORbq6Muqq2SIthWOeQ,Avis Rent A Car,Reno,NV,1,0,1,0.9993892908096313,0.0
+GARXhK4SYVcI7drvqjj3kw,McKay's Mill Dental,Franklin,TN,1,0,1,0.9308733344078064,0.0
+GApqfwJMxg4t2tk3K2PpMw,Zoes Kitchen,Tampa,FL,2,1,1,0.9328948855400085,50.0
+GBTPC53ZrG1ZBY3DT8Mbcw,Luke,New Orleans,LA,22,21,1,0.9847926687110554,95.45454545454545
+GIq9z7R9e497A4kv6rGhPQ,iDope Philly,Philadelphia,PA,1,0,1,0.999119222164154,0.0
+GJC3QI31IV5Q4kVHIM498Q,Dos Amores Mexican Cuisine,Newtown,PA,1,1,0,0.9988794922828674,100.0
+GJRL2aR72jk7xnQh3hn1fA,Cracker Barrel Old Country Store,Plymouth Meeting,PA,1,1,0,0.999302864074707,100.0
+GJnYFvk9kbM182bKMFSAvg,Peno,Clayton,MO,1,1,0,0.9998418092727661,100.0
+GUMVStVaJfWmCIpQA4TtHg,Crazy Sushi,Philadelphia,PA,3,3,0,0.9916724562644958,100.0
+GUNpbcLvHZLE3NpOifjNUQ,Slate,Philadelphia,PA,1,0,1,0.9987762570381165,0.0
+GV-e7Op4aU98xkjjoKlRhA,Modesto Tapas Bar & Restaurant,Saint Louis,MO,2,2,0,0.9996442496776581,100.0
+G_gkdBVK8N5Sp9CSGnYeMw,Shapiro's Delicatessen,Carmel,IN,1,1,0,0.9959712624549866,100.0
+GdPuJOLseQ5fusebEnvSXw,Venus Spa,Metairie,LA,1,1,0,0.9998006224632263,100.0
+GgkQtx8S_UvqO9vRJNqANA,Famous Szechuan Pavilion,Brentwood,MO,1,1,0,0.9990236759185791,100.0
+GjKxDvRl-Z2h4Fccung2eQ,Pet Supermarket,Sparks,NV,1,0,1,0.9491066336631775,0.0
+Gk2RW_SjR43QGCTJ-Tf1bw,Planet Fitness,Franklin,TN,1,1,0,0.9996902942657471,100.0
+GoSWAE96VOBsOEkoz2aTkw,Sears,Wilmington,DE,1,0,1,0.9995304346084595,0.0
+GphUtL7kAHxd1CXxntt-Jw,Starbucks,Bordentown,NJ,1,1,0,0.9994171857833862,100.0
+GtfM73QC1y4_j8ghKPSt_w,Parrot Pete's,Harvey,LA,1,0,1,0.9509168267250061,0.0
+Gw7UW0E2BguzL9suQnwDeg,SPOT Gourmet Burgers,Philadelphia,PA,2,2,0,0.999268651008606,100.0
+Gw_PUqVT9e4AiC_kj9BJJw,Soup Dumplings STL,St. Louis,MO,2,1,1,0.97069051861763,50.0
+GyC36Pn0Q1-qHnqXys6yFg,Cracker Barrel Old Country Store,Tampa,FL,1,1,0,0.9998186230659485,100.0
+H-1qpp_77KggOAr9htUrEw,Cava Restaurant & Bar,Montecito,CA,1,0,1,0.9901334047317505,0.0
+H2nFgEFitRk7ltE8IRH0xA,Taco Bell,Tampa,FL,1,1,0,0.9993990659713745,100.0
+H3JjbID9Zhukpqr9uupHAA,Jackson's Bar & Bistro - Nashville,Nashville,TN,3,3,0,0.993566652139028,100.0
+HA-X-YkTt9K7c-fkhE-g4Q,Spice Thai Cuisine,Doylestown,PA,1,0,1,0.9990559220314026,0.0
+HCbJPXWXvwN-C7XfmVy3gA,Granite City Food & Brewery,Indianapolis,IN,1,1,0,0.9998533725738525,100.0
+HCqmx4ENAZ76SAjoalj-MQ,Puckett's Grocery & Restaurant,Franklin,TN,2,2,0,0.9991390109062195,100.0
+HDuR_Dtb5xLQyTbz53DJ9Q,Dove Mountain Brewing,Marana,AZ,1,1,0,0.9080034494400024,100.0
+HJhFyeLCGJTe4UCEniG5XQ,Dolan Mazda,Reno,NV,1,1,0,0.9962072372436523,100.0
+HKbRmIZDRqeC6obLG0k_DQ,Jack in the Box,Nashville,TN,1,0,1,0.9953418970108032,0.0
+HTqXI5S2XcSlh_ylx9sE6g,Termini Bros Bakery,Philadelphia,PA,1,1,0,0.9993883371353149,100.0
+HUp0fqvl0XbZmrCp5FfBjw,Fresh Gulf Seafood,Philadelphia,PA,1,1,0,0.997266411781311,100.0
+HVtsnFYAHqqPhJ1-rlWPFQ,Hahka Kitchens,Goleta,CA,1,1,0,0.9985607266426086,100.0
+HbZDCqcp3wWEJ21M9sfTXw,Orchids Thai Restaurant,Port Richey,FL,1,1,0,0.9998903274536133,100.0
+HlSve6o5TAXbl4UDwCfcFw,Sonic Drive-In,Nashville,TN,1,1,0,0.9993245601654053,100.0
+Hpe-2Omu5-U3S2NrouHcdQ,Moreno Bakery,Brandon,FL,1,1,0,0.9997038245201111,100.0
+Hr2uEAG9O2q0nDwEs4cExg,Palace of Asia,Cherry Hill,NJ,1,1,0,0.9998433589935303,100.0
+HrIbP2-jdRJAU92yqyDmyw,Genoa Pizza and Grill,Glenolden,PA,1,0,1,0.9995668530464172,0.0
+HuxNO6TXUn1zcnCv5jpEbw,Om Eyebrows,Indianapolis,IN,1,1,0,0.9940020442008972,100.0
+I-nd4rixEsqUQssiszX67g,Osborne's Bi-Rite,Nashville,TN,1,1,0,0.9985815286636353,100.0
+I0I2mkCOPTYVSLpc8A8VVw,Compère Lapin,New Orleans,LA,2,2,0,0.9041412174701691,100.0
+I13c2-Yo7hn2BKwCI81HSQ,Bellacino's Pizza & Grinders,Saint Louis,MO,1,0,1,0.9985302686691284,0.0
+I1h0GRYp86eX-XqwVXsSGA,Zeko's Mediterranean Grill,Tampa,FL,1,1,0,0.998375654220581,100.0
+I2CxrvM0BGH1svfxqGGD2g,M.L.Rose Craft Beer & Burgers - Melrose,Nashville,TN,2,2,0,0.9924176931381226,100.0
+I3LSnL6UfkgoslMzXSYvDA,Anthropologie,Philadelphia,PA,1,0,1,0.9650395512580872,0.0
+I3nzb6O33IDZ6tp3Er0iIA,Reno Events Center,Reno,NV,1,1,0,0.978307843208313,100.0
+I5KZm-NnxYeEQsmp6nK5_w,Las Cazuelas Restaurant BYOB,Philadelphia,PA,3,3,0,0.9997732837994894,100.0
+I6L0Zxi5Ww0zEWSAVgngeQ,Cafe Beignet on Bourbon Street,New Orleans,LA,4,4,0,0.9989307522773743,100.0
+I7Wem5soprhYJhM2BhZNEQ,Lily of the Valley Cupcakery,Glenside,PA,1,1,0,0.9998502731323242,100.0
+I8eSWVzc_y9ORuKWgl07Tw,European Wax Center,Philadelphia,PA,2,1,1,0.999489814043045,50.0
+I9DCtzUgR4gamBFMVsdY8g,Capital Beer,Philadelphia,PA,1,1,0,0.9906558394432068,100.0
+IAyHcNx5IHoLf3V4dlgFCw,Pagoda Noodle Cafe,Philadelphia,PA,1,1,0,0.9995399713516235,100.0
+IBu2akNi2RhEnTwTgPZbmw,Champion Chevrolet,Reno,NV,1,1,0,0.9737758040428162,100.0
+ICqgjbOpBD9SUtE5PQC9sA,Captain Bill's Oyster Bar,Treasure Island,FL,1,1,0,0.9996446371078491,100.0
+IDtLPgUrqorrpqSLdfMhZQ,Helena Avenue Bakery,Santa Barbara,CA,2,2,0,0.9990881979465485,100.0
+IFKCqDKdrAOtph_TEi8ycw,Jack Patrick's Bar & Grill,Saint Louis,MO,1,0,1,0.9969819188117981,0.0
+IH_ZeeTh13jQURbh31d1Kw,Bui's,Philadelphia,PA,1,1,0,0.9930700659751892,100.0
+INWHqjudS0vDcVKlHyz69A,Shere-E-Punjab,Drexel Hill,PA,1,1,0,0.9986143112182617,100.0
+IW_uYAP59YwLVurBUfhs4A,Ratchada Thai Restaurant and Sushi Bar,St. Petersburg,FL,1,1,0,0.9980828762054443,100.0
+IYzBKfT_JolGL-MA4STQYA,Three  Flags Tavern,Saint Louis,MO,3,3,0,0.9992609222730001,100.0
+IZv79jZv6el1sBHrG7426g,J Gilbert's Wood-Fired Steaks & Seafood St Louis,Des Peres,MO,2,1,1,0.9864652752876282,50.0
+IzZSPrxML6TucW-iD1PrNw,Pump It Up - Tucson,Tucson,AZ,1,1,0,0.9998356103897095,100.0
+J3KU2B0A-_kKM2vlQGCuHA,Spot's Pet Supply & Dog Wash,Nashville,TN,1,1,0,0.9996520280838013,100.0
+J7LVwG2NNQG5RW1fVgQaZA,Snyder Ace Hardware,Media,PA,1,0,1,0.9891347885131836,0.0
+JBGNJR4pBRiyThsoKWsdnQ,St. Louis Bread,Creve Coeur,MO,1,1,0,0.9994705319404602,100.0
+JJNCJWaH2KV44r9aeEBlqA,Indiana City Brewing,Indianapolis,IN,1,1,0,0.9996747970581055,100.0
+JLggLAox_ABHrGERr2zybw,Adolf Biecker Spa/Salon,Philadelphia,PA,1,1,0,0.99974125623703,100.0
+JLixvCikc5JYGcnvaqHoJg,21st Amendment at La Louisiane,New Orleans,LA,2,1,1,0.9993734955787659,50.0
+JQz0_R70G3bjQ5dRqrhxKQ,Wildflower Cafe,Clearwater,FL,3,2,1,0.8852212031682333,66.66666666666667
+JRBj_cZHw_j3vw3FGTI0Fg,Friendly Kia,New Port Richey,FL,1,1,0,0.9984347224235535,100.0
+JRoY9Mx2LghIki2Uo1SOJA,The Wine Tap,Belleville,IL,1,1,0,0.9998855590820312,100.0
+JUlsvVAvZvGHWFfkKm0nlg,El Camino Real,Philadelphia,PA,6,5,1,0.9433916310469309,83.33333333333333
+JcP1z6eZBgTIcxWlyxSw0g,Iris,New Orleans,LA,1,0,1,0.9844664335250854,0.0
+JgORpZ2kB8DG2MECu7jvkQ,Tat Starz,New Orleans,LA,1,1,0,0.9998725652694702,100.0
+JgpnXv_0XhV3SfbfB50nxw,Joe's Pizza,Tampa,FL,1,1,0,0.999356210231781,100.0
+Jn_F3hYqknRTepCg6om04Q,Chile Burrito,Brentwood,TN,1,1,0,0.9988797307014465,100.0
+JszJI2Ewenggj8zh1o3B-Q,Peggs Restaurant On the Boulevard,High Ridge,MO,1,0,1,0.9962581396102905,0.0
+JvawJ9bSr22xn4R9oLvl_w,Desire Oyster Bar,New Orleans,LA,1,1,0,0.981063961982727,100.0
+Jvmj49D0GGnvCpjN0LXqEg,Angie's Restaurant,Clearwater,FL,1,1,0,0.9806624054908752,100.0
+Jx8vvRXwfCjkiaofXuNe8g,Wendy's,Tucson,AZ,1,0,1,0.9997941851615906,0.0
+K4TlU26IH19tM_VvTMnpyg,Rivista,New Orleans,LA,1,1,0,0.9988100528717041,100.0
+K51bVqlGcpTMDK3-SDkBeQ,Panera Bread,Nashville,TN,1,0,1,0.9976600408554077,0.0
+K9gaM9XdGqGWsQMdjpxFIQ,7-Eleven,Philadelphia,PA,1,1,0,0.9998087286949158,100.0
+KAk07Tbv0UsoY-s7RYfepg,C.I. Chu's Mongolian Barbeque,Tucson,AZ,1,0,1,0.9928601384162903,0.0
+KBWHXEI314W3Udm36PHQ-w,Advantage Air,Valley Park,MO,1,0,1,0.9972255229949951,0.0
+KCm9f7cROQ-f0iyYxFxQog,Ace Hotel New Orleans,New Orleans,LA,1,1,0,0.9993457198143005,100.0
+KHwncPVH4YKRpEPoJpiB1Q,Fire + Spice Tucson,Tucson,AZ,1,0,1,0.9845052361488342,0.0
+KK_vqJYW1Z-Ey6og_IKmHg,Hampton Inn & Suites New Orleans Downtown,New Orleans,LA,1,1,0,0.9976219534873962,100.0
+KMJwUFT2nK6uBfaBULv_mg,Sugar Rush Cupcakery,Boise,ID,1,1,0,0.9998747110366821,100.0
+KP5OncF2jhT7_J1phHPPww,Besito Mexican Restaurant,Tampa,FL,3,3,0,0.9998567899068197,100.0
+KUYGwEEEM8yFkCf-CxpRPQ,Singha Thai Cafe,New Orleans,LA,2,2,0,0.9952559471130371,100.0
+KVwQkBd8tJCDVc8O6_tMOg,Big Bok Choy Bistro,Oldsmar,FL,1,1,0,0.9992796778678894,100.0
+KZe5kpIHWVuJl6WgNYzceg,Please-U-Restaurant,New Orleans,LA,4,4,0,0.9995878636837006,100.0
+KaqBbo7wzsUH4wCGzAsP_g,Hotel Du Village,New Hope,PA,1,0,1,0.9987183809280396,0.0
+Kc14afuSa5Epecu8HDYFuA,Audi Fort Washington,Fort Washington,PA,1,1,0,0.9995555281639099,100.0
+KkpAwKzn5olmxH2K2GauNw,Pica's Restaurant,West Chester,PA,1,0,1,0.9964199066162109,0.0
+KuLi91b-N_0XY_3IA72RJQ,MexiPhilly Food Cart,Philadelphia,PA,1,1,0,0.9998579025268555,100.0
+L-YdO_NODKXXT3bkS0nUpg,RumFish Grill,Saint Pete Beach,FL,1,0,1,0.9989169836044312,0.0
+L9OhJMsHzsEcCo1THz9s2g,Carl Hesse's World Famous Tattoos,Sellersville,PA,1,1,0,0.9995594620704651,100.0
+L9sNYgV-TKTQdkaeEZBqEg,Thai Country Cafe,Saint Louis,MO,1,1,0,0.9995918869972229,100.0
+LEjVZUi2th79XWpW-gHmYA,Venzo's Pizza,Tucson,AZ,1,1,0,0.9927681684494019,100.0
+LEpQUdfFKz9UlVmU1XSmcw,fat Rooster diner,Indianapolis,IN,2,1,1,0.9997685551643372,50.0
+LPCelCpWQgeiya-4WdtPOQ,Great Clips,Tampa,FL,1,0,1,0.9995120763778687,0.0
+LQcGL4hfJAeK6bk2ZdhmXw,Aqui Con El Nene,Tucson,AZ,2,0,2,0.8047647476196289,0.0
+LUXRw-mr9emGL2gw4otvVA,Benjamin Franklin Bridge,Philadelphia,PA,1,1,0,0.9998636245727539,100.0
+LVYAXWQB3t7tdwWteyjfhw,Option 1 Barber Shop,Tampa,FL,1,1,0,0.9997914433479309,100.0
+LdK6Tqr9-QK8eNezCUes9A,Mel's Kitchen,Philadelphia,PA,1,1,0,0.999854564666748,100.0
+LnQRfj3pPz0369stRnwUWw,Sushi Ushi,Valrico,FL,1,1,0,0.9998857975006104,100.0
+LnZvGYbqozanOSevcftnrw,HipCityVeg - University City,Philadelphia,PA,2,2,0,0.9970640540122986,100.0
+LswO4EWgN99h6NEEJ7qtCA,Smoke 'N Barrel BBQ Shack,Goleta,CA,1,0,1,0.9966347813606262,0.0
+M0Cb0ufPxOSHSrZAKMmUmg,Caposey's Whole Works,New Port Richey,FL,2,2,0,0.9991786777973175,100.0
+M0c99tzIJPIbrY_RAO7KSQ,Hyatt Regency St. Louis at the Arch,Saint Louis,MO,4,3,1,0.9781363606452942,75.0
+M0r9lUn2gLFYgIwIfG8-bQ,Baileys' Range,Saint Louis,MO,2,2,0,0.9995297789573669,100.0
+M1BkW7JZZBrCfT4_Sr4NEQ,The Spot Sushi Burritos,Largo,FL,2,1,1,0.7113710343837738,50.0
+M2ZrrqseHE5xssUrOL0Gtg,The Three Coins Diner,Tampa,FL,2,2,0,0.9994017481803894,100.0
+M5rj-zpkCHcGXTxBbcrDXQ,Bandit Coffee Co.,Saint Petersburg,FL,2,2,0,0.9996871948242188,100.0
+MAIfD4kJDCydgoD1l2b_vw,Corks n' Crowns,Santa Barbara,CA,1,0,1,0.8599674701690674,0.0
+MAad69FdL2Y-kSDF6SkZ3A,Sushipop,Metairie,LA,1,1,0,0.999881386756897,100.0
+MF5-JPr0auUkY_WLTTVUaA,Tacodelphia,Philadelphia,PA,1,1,0,0.9998216032981873,100.0
+MHqeqoJEjsTHivmuXOW4iQ,3500 Winehaus,Saint Louis,MO,1,1,0,0.9998005032539368,100.0
+MMRRS6YhVRx_iN5-JhMRYg,Han Dynasty,Philadelphia,PA,5,2,3,0.9932098388671875,40.0
+MTwiz3yCBDPCaqAFIFSRRQ,Famous Sam's,Tucson,AZ,1,1,0,0.9986653327941895,100.0
+MaYb7qMN6BomP1zQGj3Wjg,Pi Pizzeria - Delmar Loop,Saint Louis,MO,1,1,0,0.9997708201408386,100.0
+MbzgGsMQpGyVrUJXi_Jw0Q,Dawn Patrol,Santa Barbara,CA,4,3,1,0.9983150660991669,75.0
+MfyUK58sdUokMdIZNdem0w,Sandpiper Lodge,Santa Barbara,CA,2,1,1,0.9293567538261414,50.0
+Mha77MN_BYGB-w7DONZ5YA,Cuenelli's Peruvian Restaurant,Tampa,FL,1,1,0,0.9998574256896973,100.0
+MkJ5kdhX3Jl48ykeMEVVIw,Martin Main Line Honda,Ardmore,PA,1,1,0,0.930006742477417,100.0
+MmIF3ZlBPwOknea6-IzlQg,PDQ Riverview,Riverview,FL,2,2,0,0.9997909963130951,100.0
+MnKgN5crTUuxROY2aoadtQ,Plush,Saint Louis,MO,1,0,1,0.9997617602348328,0.0
+MnlHMZ9RGVaS71rVwINyOA,Cha Cha Chow Food Truck,Saint Louis,MO,1,1,0,0.9995941519737244,100.0
+MnxMt3CErrx4dXll4ADqLg,The Flying Cupcake ,Indianapolis,IN,1,1,0,0.9998339414596558,100.0
+Modl9uEaNLB_gkrvDxGFCg,Rita's Italian Ice,Cinnaminson,NJ,1,1,0,0.9998801946640015,100.0
+MptP4Zxq3ZLbeGB4cY772A,Peg's Glorified Ham & Eggs,Reno,NV,1,1,0,0.993507981300354,100.0
+Mt1FB8hM4XTi3Tk4i0q5gQ,Nicola's Pizza,Lambertville,NJ,1,0,1,0.9926602244377136,0.0
+MxpGsmSp9h2dD8uff8wVkQ,Mr. Tire Auto Service Centers,Voorhees,NJ,1,1,0,0.9996823072433472,100.0
+MyON48Q_Ql9IjLc0PPXLDQ,Moe's Southwest Grill,Tampa,FL,1,1,0,0.9989883303642273,100.0
+N2i1U4Z6GHEw9V02N2u6JA,Hollander Hotel,St. Petersburg,FL,1,1,0,0.9998113512992859,100.0
+N5QQdPac1cXwOHr-ePr90g,5th St. Bakehouse,Reno,NV,3,3,0,0.9868709643681844,100.0
+N5ekxQd7wGHWJJK-p9qqXw,Moto Cucina + Enoteca,Nashville,TN,3,3,0,0.9997648994127909,100.0
+NA-WNQPlAOeRBs_S8G06Fw,Ringletts,New Orleans,LA,1,1,0,0.9996660947799683,100.0
+NFFS6Qow43IRG6dRPgZCzQ,Cafe DeLuxe,Reno,NV,2,1,1,0.99427330493927,50.0
+NMtUD873aWrNjljt3VOcFA,Juniper Commons,Philadelphia,PA,1,1,0,0.9998278617858887,100.0
+NQSnr4RPUScss607oxOaqw,Chase's Hop Shop,Philadelphia,PA,1,1,0,0.9954777359962463,100.0
+NT5S6JV5wPwKOd3s3Yh1zQ,Burger Up,Nashville,TN,1,0,1,0.994929850101471,0.0
+NU7bhQSrZ5GA76QqIpVIQQ,Mattress Unlimited,Montgomeryville,PA,1,0,1,0.9994460940361023,0.0
+NV6zZPb5OGVpyX4JrSzUPg,The Block,Saint Louis,MO,1,0,1,0.9722603559494019,0.0
+NZG9a_jMy5e6jC8TrDvP7Q,Holiday Inn,New Orleans,LA,1,1,0,0.9997602105140686,100.0
+NcO-pWiZmNM5zBg8H9zB6Q,La Tavola Ristorante Italiano,Smyrna,TN,1,1,0,0.999872088432312,100.0
+NwJoFxmYRDxVGXgPtrjQ3w,Ploy Thai,Brandon,FL,1,1,0,0.9998663663864136,100.0
+NwNGKIf_eQwvr6tzFX6eRA,ShopRite of Whitman Plaza,Philadelphia,PA,1,1,0,0.9997143149375916,100.0
+O3XiguiWmlOWR72KerRoDA,Hale & True,Philadelphia,PA,1,0,1,0.9982768297195435,0.0
+O6RCCmz8-x4NhWJpI8KQug,Breakfast Culture Club,Santa Barbara,CA,1,0,1,0.9961982369422913,0.0
+O6hY9yenifuRXrpc4TfgsQ,The Blue Duck,Philadelphia,PA,4,4,0,0.9845676720142365,100.0
+OHzX-ZD9qyoeoxR8Z0dlIA,Khyber Pass Pub,Philadelphia,PA,3,1,2,0.9956081708272299,33.333333333333336
+OINbC0rpDVJ5bfxt3LO9fw,Li'l Dizzy's Cafe,New Orleans,LA,1,1,0,0.999413013458252,100.0
+OPiBkXv9gHRoNv8lvdzPQg,Greyhound Bus Lines,Mount Laurel,NJ,1,1,0,0.6843445301055908,100.0
+ORL4JE6tz3rJxVqkdKfegA,Gaylord Opryland Resort & Convention Center,Nashville,TN,5,3,2,0.9974475622177124,60.0
+Od7ky707Ei3nizTxCmscnA,Nature's Table,St. Petersburg,FL,1,1,0,0.9997212290763855,100.0
+OfW-VK04qr7b7bPm5QbyLg,Taqueria Feliz,Horsham,PA,1,1,0,0.9998666048049927,100.0
+OiNtkzCzRaYQMyboHLo7Kw,Jin's Alterations,Largo,FL,1,1,0,0.9994809031486511,100.0
+OkH5E55n6FHpGWB19Dgdog,Mucho Burrito,Edmonton,AB,1,1,0,0.9989567995071411,100.0
+Okp9reNh6b53JwtjTlQAdw,Jack in the Box,Boise,ID,1,0,1,0.9995397329330444,0.0
+Oun4NN-u5yiHIxDqtJnxgA,Federal Donuts,Philadelphia,PA,2,2,0,0.9996340572834015,100.0
+Ouz6NevgUHn-rGXbcw7DOQ,American Thrift,Philadelphia,PA,1,1,0,0.9998319149017334,100.0
+Ow7Aa0xUUk0NaXnv_417IA,Cycle Exchange,Tampa,FL,1,0,1,0.9974972605705261,0.0
+Oy7rU9H76PN1hsDU9EUt5g,Philadelphia Room Escape,Philadelphia,PA,1,1,0,0.9997581839561462,100.0
+P48O-s2OOVq8UBtskQ90tQ,Uncle Ed's Restaurant,Edmonton,AB,2,0,2,0.765336275100708,0.0
+P61ecBVVPgBm-zH_SYq8FA,"St. Louis Union Station Hotel, Curio Collection by Hilton",St Louis,MO,2,2,0,0.9937464594841003,100.0
+P9VrCQBcyoDmMV5xtlOBsQ,Save-On-Foods,Edmonton,AB,1,1,0,0.9761959314346313,100.0
+PSK9GlS4UYmY7WP31kjt6w,Bagger Dave's Burger Tavern,Fishers,IN,1,0,1,0.9970241189002991,0.0
+PTzwrdncs2O-uZkPHH4m9w,West Elm,Indianapolis,IN,1,0,1,0.9070081114768982,0.0
+PY8vAG0UUhFOENjqvzI1Og,Skippers Seafood & Chowder House,Boise,ID,1,1,0,0.9993472695350647,100.0
+PY9GRfzr4nTZeINf346QOw,Peppermill Reno,Reno,NV,11,10,1,0.9914911768653176,90.9090909090909
+PYUI1OJVksGUbCrteU68bw,Bourbon & Branch,Philadelphia,PA,3,1,2,0.8867994546890259,33.333333333333336
+P_x9fEz8efemqOIV46S0tg,Red Mesa Restaurant,St Petersburg,FL,1,1,0,0.9998701810836792,100.0
+PaIGgIIci37Mlv1B_52uyw,Target,Turnersville,NJ,1,0,1,0.9991627931594849,0.0
+PdMXmOWDRHICAx6SLgu1dQ,24,Philadelphia,PA,1,1,0,0.9998050332069397,100.0
+Pm6qD9G_xWLoV24YIN8gwQ,Montauro Ristorante,Tampa,FL,1,0,1,0.9985841512680054,0.0
+PuKpOa7P3xjm4V_K3x-csw,Rico's Tires And Wheels,Metairie,LA,1,0,1,0.9893561005592346,0.0
+PxEiXqMAzzvp8GFlb5EoLg,Grain Exchange,Philadelphia,PA,1,1,0,0.9933187961578369,100.0
+PzhPMkaNYiKDTHoTG0r8rw,Pho Cam Ly,New Orleans,LA,1,1,0,0.9998847246170044,100.0
+Q-prSTdggNlxAEFV88BZOw,Tria Cafe Wash West,Philadelphia,PA,3,2,1,0.9930494626363119,66.66666666666667
+Q1-bq8MLTht0lqFx_pYuKg,Bank of America Financial Center,Reno,NV,1,1,0,0.9996966123580933,100.0
+Q1vgjj_LmsHC7DjSZR3ukA,Penn Therapy & Fitness Cherry Hill,Cherry Hill,NJ,1,1,0,0.9998005032539368,100.0
+Q4q9xFDxErreYTMrRshP_Q,Tijuana Flats,Clearwater,FL,1,0,1,0.9849958419799805,0.0
+Q8YTUFvcSrT8a8UWxZvhxw,The Mardi Gras School of Cooking,NEW ORLEANS,LA,1,1,0,0.9986187219619751,100.0
+QA1wjE4gcIPP_AuBjB_Y9Q,Target,Bensalem,PA,1,1,0,0.9662110805511475,100.0
+QCZvkvipsfyZ_5uBy3PkpQ,Wawa,Sicklerville,NJ,1,0,1,0.9989426732063293,0.0
+QExWORi8kxwQGdXlFXRc-Q,Frank's Diner,Hudson,FL,1,0,1,0.999479353427887,0.0
+QGUj9Za0iG_OJz0CqujE_Q,St. Pete Bagel Co.,Saint Petersburg,FL,2,2,0,0.898285448551178,100.0
+QUnvoceeKLK201dOflQThA,Pandora's Snowballs And Soft Serve Ice Cream,New Orleans,LA,1,1,0,0.987365186214447,100.0
+QVpQ_-e8t-ZX7man4ryCEQ,Artmart,Saint Louis,MO,1,1,0,0.9998816251754761,100.0
+QZU7TcrztBb3tXaPbVCkXg,805 Ink,Santa Barbara,CA,1,1,0,0.9998537302017212,100.0
+Qa1YQzo00sm9O0JUlwdCQw,Taste of Nawlins,New Orleans,LA,1,1,0,0.9967488050460815,100.0
+QkyEr9j7il9lJqseTbPe5w,Spasso Italian Grill,Media,PA,2,1,1,0.996231198310852,50.0
+Ql466RUZPLvKo_Cc9kIWzQ,New Kimono Sushi Bar Japanese & Chinese Restaurant,Lafayette Hill,PA,1,0,1,0.8786935806274414,0.0
+Ql5iL7HEEAX8ucM9PsWTHQ,Indy Massage Company,Indianapolis,IN,1,1,0,0.9998045563697815,100.0
+QtsmqZi1ezY-aQS1TkE5OA,Robert's Barber Lounge,Tucson,AZ,1,1,0,0.9764477610588074,100.0
+R07rb3FN2QoRIbB6r6HDxQ,Tastee Restaurant,Kenner,LA,1,1,0,0.9998539686203003,100.0
+R77LwVI3wPAFmDLrXt3zZA,Molldeli's Delicatessen,Saint Louis,MO,2,2,0,0.9983648359775543,100.0
+R7t3bFG3EoDM0szXDmp09w,Casas Adobes Oral & Maxillofacial Surgery,Tucson,AZ,1,1,0,0.9993461966514587,100.0
+R9PqDTs5JImT5dbdkE7CgQ,A Master Mechanic,Sparks,NV,1,1,0,0.9994620680809021,100.0
+RCKbAKRkm-kOPcx8hqJrtg,Dobbs Tire And Auto Center,Brentwood,MO,1,0,1,0.9993878602981567,0.0
+RCguFZat10TcbDMeeeM3IQ,El Pollo Loco,Reno,NV,1,0,1,0.9989219903945923,0.0
+RHKhrJeq5iDRxYgobK4mCQ,Dunkin',New Castle,DE,1,1,0,0.9972118735313416,100.0
+RJu855uVd3DzmSlyb8Vc6A,Francis Park,Saint Louis,MO,1,1,0,0.9995535016059875,100.0
+RKVZbcCKNcAM5Jk_cV7I9A,Sage,Saint Louis,MO,2,1,1,0.9992777705192566,50.0
+RKinKfvubtajsSDN3w5eCw,Cambio Salon Spa,Media,PA,1,0,1,0.9982402324676514,0.0
+RMjHlAejNrLHzF4-G4uyng,Brady's BBQ,Safety Harbor,FL,1,1,0,0.7375555038452148,100.0
+ROeacJQwBeh05Rqg7F6TCg,BAP,Philadelphia,PA,2,2,0,0.9990699589252472,100.0
+RPszRvgRQR5q7WMGhVNLCA,Wawa,Lansdale,PA,1,1,0,0.9998793601989746,100.0
+RTEdyP_6wGvXQugln1jxbg,Judge Bean's BBQ,Brentwood,TN,2,2,0,0.9996589720249176,100.0
+RVqj00jeAxTtopbgRSbsmQ,Old Hickory Grill - Sheraton Music City,Nashville,TN,1,1,0,0.9987189769744873,100.0
+RY1qY03QfETdrGWCEOugVw,Donnie Russell's Pic III Wings & Things,Medford,NJ,1,1,0,0.9998375177383423,100.0
+RZtGWDLCAtuipwaZ-UfjmQ,LaScala's,Philadelphia,PA,3,2,1,0.9542313814163208,66.66666666666667
+RgAUDZXDJYwz7BI6u9aP5w,Reeds American Table,Maplewood,MO,1,0,1,0.9982666969299316,0.0
+RgoaC4wgsOxaGGhzPjo3eA,Ice Cream Delight,Wilmington,DE,1,1,0,0.9995642304420471,100.0
+RjiHOpvivcEm-vCPNCd6eg,Diamondback Police Supply,Tucson,AZ,1,1,0,0.9909761548042297,100.0
+Rl7W2JPAUWFo2ZZdVeGAWA,Koffee Korner Cafe,Lansdale,PA,1,1,0,0.9998433589935303,100.0
+RrqRin8BYGrTlJbCDwtLzA,Wawa,Philadelphia,PA,1,1,0,0.9997853636741638,100.0
+RuEIK45gBF5iDbYoSa9tOA,The Underground Tap & Grill,Edmonton,AB,3,2,1,0.8884955048561096,66.66666666666667
+Rv6P37KiiuowrXti2JHZNQ,Nuevo Vallarta Authentic Mexican Food,Pinellas Park,FL,1,1,0,0.9979573488235474,100.0
+RykQaoqinB4ZST_F-fODZg,AT&T Store,Tampa,FL,1,0,1,0.9997782111167908,0.0
+Ryt1Fhgz7sixMQSJiLyP_g,Zocalo,Philadelphia,PA,1,0,1,0.9920810461044312,0.0
+S1Zg0C2mo4D5jSsCw80yDg,Hardee's,Saint Louis,MO,1,0,1,0.9964244961738586,0.0
+S2Ho8yLxhKAa26pBAm6rxA,Creole House Restaurant & Oyster Bar,New Orleans,LA,3,1,2,0.9990678429603577,33.333333333333336
+S2vd-D9_xQn0Jx4Iz1GbKQ,Polly's Big Slice,Indianapolis,IN,1,1,0,0.9998780488967896,100.0
+S3QHy1sshUeZwXOYviVsXQ,Tre Lune,Montecito,CA,1,1,0,0.9998161196708679,100.0
+S7qVBYA8wpvfbJqmouoBZQ,Once Upon A Child Brandon,Brandon,FL,1,0,1,0.9949931502342224,0.0
+SFKjUQ1gmfwm7cJhMCFmkA,ZigZag Scallop,Hernando Beach,FL,1,1,0,0.9997319579124451,100.0
+SIoCIxjn4jLt2O-4DajWJw,Mac's Tavern,Philadelphia,PA,1,1,0,0.9972975850105286,100.0
+SKgD0jRWVKk3NqOtSs3VFA,Jerry Bob's On Broadway,Tucson,AZ,1,1,0,0.9995493292808533,100.0
+SLreQZjicOqB_7MCfJ8MdQ,Biscuits Country Cafe,Tucson,AZ,1,0,1,0.9956661462783813,0.0
+SVBhx4NFTQ7WmfUAG3kzmw,Sani Jan Cleaning,Blue Bell,PA,1,1,0,0.999112069606781,100.0
+SVSafDWg9r2Q5XEVOLPSSA,Chinese Duck House,Reno,NV,1,1,0,0.9996769428253174,100.0
+SVdYIdv7EWVipdqT0ifIEw,Snarf's Sandwiches - Saint Louis,Saint Louis,MO,1,1,0,0.9997023940086365,100.0
+SYv9JIHI7y6L7XiqONqq1g,Microsoft Store,Edmonton,AB,1,1,0,0.9964650869369507,100.0
+SYy81zP4MPF4DtOqjRq4qg,Yuengling Brewing Company of Tampa,Tampa,FL,1,0,1,0.9990750551223755,0.0
+SZU9c8V2GuREDN5KgyHFJw,Santa Barbara Shellfish Company,Santa Barbara,CA,6,3,3,0.9792943696180979,50.0
+SaUbh0sMSev8gKNJYtC76g,Hob Nob,Santa Barbara,CA,1,1,0,0.9991601705551147,100.0
+SbdL-8NSmTWgSwdGZBa7WQ,Fresco Pizzeria,Tucson,AZ,2,2,0,0.9998035728931427,100.0
+SdqWfhXPB5w4FvmHzW0UIA,Villa Feliz Flowers,Tucson,AZ,1,1,0,0.9997733235359192,100.0
+Sh5x88Ty9NGgMvLoIKxAiQ,Ole Red,Nashville,TN,1,1,0,0.999811589717865,100.0
+SkQoz2Fi-z1Jz-0Oo-jtcg,Locals Only,Indianapolis,IN,1,0,1,0.9944739937782288,0.0
+SlGNxQI23jc9iTZNTs_I3g,The Drafting Room Tap Room & Grill,Exton,PA,2,0,2,0.9797104001045227,0.0
+Spq-2DVE8nilFhSFk0jLug,Tony B's Pizzeria,Fenton,MO,1,0,1,0.9963833093643188,0.0
+SsRsSSifdOtKAQDGST_m_g,Three Carrots Fountain Square,Indianapolis,IN,1,1,0,0.9943748712539673,100.0
+Sv1VsMRwedFaRgodPlmBVA,In Style Hair Studio,Philadelphia,PA,1,1,0,0.9998444318771362,100.0
+Sw7qcWQ5_iOUjBZMhSxyOQ,Ted Peter's Famous Smoked Fish,South Pasadena,FL,1,1,0,0.9909308552742004,100.0
+SwBhaxfQPbyhsi0QHUAN0A,Seminole Hard Rock Hotel & Casino Tampa,Tampa,FL,2,0,2,0.9958193600177765,0.0
+SwWfW3vBn5QkDE7T3urGAg,Persis Biryani Indian Grill,Mount Juliet,TN,1,1,0,0.9997566342353821,100.0
+Swjkmg5qAHT6hwXQRWQoHQ,Tampa Bay Brewing Company Westchase,Tampa,FL,2,2,0,0.9842358231544495,100.0
+SySSMQNIfXN4KZyMtEukEw,Boizao,Tampa,FL,1,1,0,0.9998434782028198,100.0
+SyfP3r24NyOICnWrAYZgeQ,La Fusion Cafe,Willow Grove,PA,2,2,0,0.823152631521225,100.0
+SyrELEDXKWjuBM6Pekx9Fw,The Irish Pol,Philadelphia,PA,1,1,0,0.9935000538825989,100.0
+T-uphPk44OFt6sR8F-0uHA,Iron Hill Brewery & Restaurant,Voorhees,NJ,2,2,0,0.9710574746131897,100.0
+T91QQ82DRr7LVHFs5A0G0g,Swigwam Beach Bar on Corey,St. Pete Beach,FL,1,1,0,0.9997125267982483,100.0
+T9n_LqUUhC2b1ALhg57Y5Q,Texas Roadhouse,Bensalem,PA,1,1,0,0.9958009123802185,100.0
+TCHh4RIrvp7h2BucXt1kvA,Snap Custom Pizza,Ardmore,PA,1,0,1,0.9965476393699646,0.0
+TCdNYh5tdjoNmA1WMx3ZPg,Roselena's,Philadelphia,PA,1,1,0,0.9997472167015076,100.0
+TDKBPcViJQDMrdUm6a9XZA,The Depot Craft Brewery Distillery,Reno,NV,6,3,3,0.9699491163094839,50.0
+TFnGJlA5l_HDdzGDkNTdTA,Smiths Restaurant and Bar,Philadelphia,PA,1,0,1,0.9650754928588867,0.0
+TI4p9i21JONcud4TigOn0Q,Olive Garden Italian Restaurant,Voorhees,NJ,1,1,0,0.9989362359046936,100.0
+TK9x9sCWRDwtiV5UAzrRTg,Viet Pho,Reno,NV,1,0,1,0.9984388947486877,0.0
+TMT9U2da4ewGbk38X54KJA,Hackett's Causeway Cafe and Creamery,Dunedin,FL,1,1,0,0.9998418092727661,100.0
+TTl2V6mG7IAMi_JK16bgow,Teavana,Tucson,AZ,1,0,1,0.9885860085487366,0.0
+TV81bpCQ6p6o4Hau5hk-zw,Hellas Restaurant,Tarpon Springs,FL,7,6,1,0.9986091596739632,85.71428571428571
+TV_WvVzoSJfVWe-utW651Q,Erzulie's,New Orleans,LA,1,1,0,0.9995194673538208,100.0
+TZodoH7csDIwQ5EfWqqsJw,Bourbon Orleans Hotel,New Orleans,LA,1,1,0,0.9979840517044067,100.0
+Tcf5_PclJOpuLMfYQUG8jw,Los Rancheros,Avon,IN,1,1,0,0.9997602105140686,100.0
+TfcpJBiFNnDaochnmp4M2Q,The Garden Brunch Cafe,Nashville,TN,1,1,0,0.9996936321258545,100.0
+TkQy8DWCUBtcrmHYtR87uQ,Best Buy Downingtown,Downingtown,PA,1,0,1,0.998339056968689,0.0
+Tq5jFk_BMSJG8-flqj5Bgw,Dewey's Pizza,University City,MO,1,1,0,0.9992731213569641,100.0
+TuYx8LUw7shzFGXQuUmbNA,Short Hills Restaurant & Deli,Cherry Hill,NJ,1,1,0,0.9993384480476379,100.0
+TvAgXHsAt1s2PgxA1pQa-w,Rembrandts,Eagle,ID,1,1,0,0.9998688697814941,100.0
+U18r2iiKDtuXtwmiEnsmlQ,Paradise Sweets,St. Pete Beach,FL,1,0,1,0.982062041759491,0.0
+U30ggGzFpXvc2NZYwOW3qg,Mood Cafe,Philadelphia,PA,3,3,0,0.9996544520060221,100.0
+U3WKSiu7OquPEnRuEchthQ,Sunshine Cafe,Ruskin,FL,1,0,1,0.8599390983581543,0.0
+U3cudGMQsFqpAgpnonvYqA,El Maguey,Bridgeton,MO,1,1,0,0.9997292160987854,100.0
+U6e8OQ-YEUOqMyrym3jhOw,Foothills Barbers,Tucson,AZ,1,1,0,0.9998831748962402,100.0
+UCMSWPqzXjd7QHq7v8PJjQ,Prep & Pastry,Tucson,AZ,7,6,1,0.9407085861478534,85.71428571428571
+ULbd1Bjuvns732BhhWJv3Q,Scream-A-Geddon,Dade City,FL,1,1,0,0.9998353719711304,100.0
+UM6XgOtTX4DWWcGDTWtjEg,HandleBar,St Louis,MO,1,1,0,0.9997678399085999,100.0
+US2-dEVvnOdde7Syi18TTw,The Mason Jar,Metairie,LA,1,0,1,0.9996352195739746,0.0
+USekrAG0-4tJUs9V2gBBOQ,The Honu,Dunedin,FL,1,1,0,0.9998195767402649,100.0
+USyJiGIvZ8fHjRVaVTu1Zw,Tony Jr's,Philadelphia,PA,1,1,0,0.9989412426948547,100.0
+UUpwoAAZcJyUWOqp81_3mA,Cajun Encounters Tour Company,New Orleans,LA,2,2,0,0.9962143003940582,100.0
+UX3eq0WsVva-cqlVrzyzFg,Cantina Los Tres Hombres,Sparks,NV,1,1,0,0.9994404911994934,100.0
+UakVMT3xrpbFB2pHdxPjnw,Crown & Bull,Dunedin,FL,2,1,1,0.9995408058166504,50.0
+Uc6PdjT_MO5bRPQsUUEy5Q,Anthony's Coal Fired Pizza,Tampa,FL,1,1,0,0.9995338916778564,100.0
+Ucl9Vo5lwrUmYbV8Dv8X5g,O'Briens Irish Pub,Tampa,FL,1,1,0,0.9994219541549683,100.0
+Ugoyu-TIppruxRTkbej3lA,Sole II Soul,Philadelphia,PA,1,0,1,0.9984105825424194,0.0
+UmjITdXHhEF46ho6IhaGQg,Dave & Buster's,New Orleans,LA,1,0,1,0.9989703893661499,0.0
+UvkcB1iSZBdcJ-DE1z7YcQ,National Car Rental,Boise,ID,1,0,1,0.9212462902069092,0.0
+Uy0r4bzRmY5LFtDfzNgkag,Mi Ranchito,University City,MO,1,1,0,0.9998831748962402,100.0
+UyD7FJamt_pw1V4d00lwjA,Naf Naf Grill,King of Prussia,PA,1,0,1,0.995972216129303,0.0
+V378VWx4D8BstWNRFwDULg,Icesmile,Tampa,FL,2,2,0,0.9534613192081451,100.0
+V4THIJk9uhoxL7f06fK5VA,Roundabout Catering,Sparks,NV,1,1,0,0.9998273253440857,100.0
+V6Om7YZhlRQRU7WfuxHq8Q,Beck's Cajun Cafe,Philadelphia,PA,2,2,0,0.9997432231903076,100.0
+V7AcrIBcBiGT6l5_tub_Jw,Spirit Salon & Day Spa And Mobile,Tucson,AZ,1,1,0,0.9989787340164185,100.0
+V8H6z5ulGJEkaFUyRfmLKw,Sculley's Waterfront Restaurant,Madeira Beach,FL,1,1,0,0.9995577931404114,100.0
+V9XlikTxq0My4gE8LULsjw,Claim Jumper Steakhouse & Bar,Tucson,AZ,2,1,1,0.9997282326221466,50.0
+VBWUdluhRQf5kqawykM6Nw,Bayou Bistro Louisiana Cuisine,New Orleans,LA,1,1,0,0.9987860321998596,100.0
+VCjvaX_78oEKG3I9oTJEag,Fair Grinds Coffee House,New Orleans,LA,1,1,0,0.9986680746078491,100.0
+VJEzpfLs_Jnzgqh5A_FVTg,Jasmine Rice - Rittenhouse,Philadelphia,PA,2,1,1,0.9839071333408356,50.0
+VKBuUNM_9TGvle-Agq-bjg,Regrub,Edmonton,AB,1,1,0,0.9993426203727722,100.0
+VOEN8f9WEysinBsLqbiVqg,Andrea's Restaurant,Metairie,LA,3,3,0,0.9997954964637756,100.0
+VRGYwKE_Z77frm5NwLvJhw,Burger Republic,Nashville,TN,1,1,0,0.9998563528060913,100.0
+VUe_7JxmIauXFRxFuurCdQ,The Woodhouse Day Spa - New Orleans,New Orleans,LA,1,1,0,0.99982088804245,100.0
+VVvUBlc_WIEb8obKGq39dA,Four Green Fields,Tampa,FL,1,1,0,0.99978107213974,100.0
+VYTFqb1NVLleeStQaUEP0Q,Burger Bar at Lumiere Place,Saint Louis,MO,1,1,0,0.9981583952903748,100.0
+VZfc50XVwgdCecH4YbGNFg,EATS! American Grill,Tampa,FL,1,1,0,0.9994169473648071,100.0
+VeqkfRUzZAKlQer3npXPdQ,New India's Kitchen,Ballwin,MO,1,0,1,0.9996997117996216,0.0
+Vf1je11xO_8RtFeBUiV2tg,Golden China Restaurant,Tucson,AZ,1,1,0,0.9998822212219238,100.0
+VfgEzpaIHpq4sR2s2P6o5w,Fresh Bar,New Orleans,LA,1,0,1,0.9975074529647827,0.0
+Vnob_w_Aohf7ZDqxcJ9z2A,Mint Modern Vietnamese Bistro & Bar,New Orleans,LA,2,2,0,0.9959179759025574,100.0
+VrGxoSNZfSiT-G4OqRRGIw,Sunset 44 Bistro,Saint Louis,MO,1,1,0,0.9998366832733154,100.0
+Vz1QSF4nurQv2-dok55jZg,"Howard Gross, MD",Santa Barbara,CA,1,1,0,0.9998451471328735,100.0
+W0vdz23JQtVQX5vJkiCj3g,Cask And Ale,Saint Petersburg,FL,1,1,0,0.9990629553794861,100.0
+W2LI1oOtH6Hr6w3K2LIGWA,Hickory Hollow Mall,Antioch,TN,2,0,2,0.996868908405304,0.0
+W4ZEKkva9HpAdZG88juwyQ,Mr. B's Bistro,New Orleans,LA,7,6,1,0.9910091587475368,85.71428571428571
+W4rgF_1eKzFZiGUOsgbGMA,Amber Indian Restaurant,Carmel,IN,1,1,0,0.9998055100440979,100.0
+W57cR9a7XP6RX56MSWHJJA,Las Margaritas,New Orleans,LA,1,1,0,0.9989649057388306,100.0
+W5tIz4sl1yRW_fOXHoGVzQ,barre3 Nashville - The Gulch,Nashville,TN,1,0,1,0.9931634664535522,0.0
+W6S482dRQ_9nCcLjfv8VNg,Bawarchi Indian Restaurant,Wilmington,DE,1,1,0,0.9943190217018127,100.0
+W78GCXLuneV5b6prO-X4aw,Tace Lounge New Orleans Cuisine & Jazz,Tampa,FL,1,1,0,0.9933714866638184,100.0
+WARb17HevgrkmZDDRXRhGw,Badar's Hair & All,Wesley Chapel,FL,2,1,1,0.9991734325885773,50.0
+WCVFqK84i2H5EClSoow7ZA,Itty-Bitty,Granite City,IL,1,1,0,0.9996023774147034,100.0
+WDXC3W5lDt2pK2qvw6ds3Q,Tortugas Mexican Eatery,Collegeville,PA,1,0,1,0.9911648631095886,0.0
+WE3D52UfHvvVdTHgzJ_1vw,Double D Lounge,Saint Louis,MO,1,1,0,0.9942926168441772,100.0
+WFdIA0fpqQwO_219H8zfQw,San Jose Mexican Restaurant Webster Groves,Webster Groves,MO,2,2,0,0.9949787557125092,100.0
+WHFYn-b52ApOFymcKuGoFw,Steak-Out,Swansea,IL,1,1,0,0.9975219368934631,100.0
+WHkMM8OCQhZMsSPnwItsKg,Twistee Treat - Tarpon Springs,Tarpon Springs,FL,1,0,1,0.9993194341659546,0.0
+WIAXP2w2t5jPT21GGzzhJw,Studio Nails,Metairie,LA,1,0,1,0.9906253814697266,0.0
+WM3q-7scdPUei6fu4SJFYw,Nick's Old Original Roast Beef,Springfield,PA,2,2,0,0.8264991641044617,100.0
+WMgB7_odx8hk3BFQAIZ5hQ,Thai Phooket Smyrna,Smyrna,TN,1,1,0,0.9998348951339722,100.0
+WO5nr-4sjVs506BdCLL0aA,Kuchi Sushi & Hibachi,Tampa,FL,3,2,1,0.9997873107592264,66.66666666666667
+WQ832PDnsDshhbQFm83ISg,Villagio Cinemas,Tampa,FL,1,1,0,0.9995768666267395,100.0
+WStdI9NGcytFT7PEz6aS3g,Saint Louis BBQ & More,Saint Louis,MO,1,0,1,0.9994274377822876,0.0
+WWnRdTjwaTnsLSJX95j-Zw,Hablo Taco,Tampa,FL,1,0,1,0.9960712194442749,0.0
+WYVSBflcMz2byr1OmzQd4g,Yama Sushi,Reno,NV,1,0,1,0.9989979863166809,0.0
+WaRZsQEcEHwRk0T2dJ-cuA,La Casita,New Orleans,LA,1,1,0,0.9996798038482666,100.0
+WbA5ud4InNWkizW7HE5kRQ,Penca,Tucson,AZ,3,2,1,0.9994651079177856,66.66666666666667
+Wjutpifh3rVa7bS1UK3dmA,V Vegaz Style,Saint Louis,MO,2,1,1,0.9416309595108032,50.0
+WnOqsDmuiXbOWL2b6CSbBw,Eye Bar,Saint Louis,MO,1,1,0,0.9935854077339172,100.0
+Wndkw2PinAwTgjeUJOTdCg,Old World Coffee Lab - Midtown,Reno,NV,3,2,1,0.9992622335751852,66.66666666666667
+Wr2k0Vz8RbcumYulp-jIrA,Han Dynasty,Cherry Hill,NJ,1,1,0,0.9991803765296936,100.0
+WsFZqQ8X78nOVb9Lz4vcKA,Edmonton Craft Beer Festival,Edmonton,AB,1,1,0,0.9721063375473022,100.0
+Wt1W6qwCvna1KzIuJRJbwA,Tokyo Mandarin,Glassboro,NJ,1,1,0,0.9997740387916565,100.0
+X0yZMHwB1yUyzISAqRyYtQ,Tampa Airport Marriott,Tampa,FL,1,1,0,0.9965211153030396,100.0
+X2D42cGnqxadT_jbNJxHsg,The Sultans of Schlep,Philadelphia,PA,1,0,1,0.9904749989509583,0.0
+X46tKBT7vTEGeaYj6GkZ-g,Philadelphia Independents,Philadelphia,PA,1,1,0,0.9997308850288391,100.0
+X5fWO9e82EICHXzzs6eQMg,Rescue Spa,Philadelphia,PA,3,2,1,0.9986562530199686,66.66666666666667
+X7FQ5k29A_RRYep7TOfjtw,"Dawna Ara, DACM, LAc",Santa Barbara,CA,2,2,0,0.9976028800010681,100.0
+X7YBx8CybmIPymZ0ThCmng,Ninth Street Deli at Howards,Saint Louis,MO,1,1,0,0.999858021736145,100.0
+X8-9_vPEd4f5Yw-Q6AN7xQ,Leggio Dental Group,New Orleans,LA,1,1,0,0.9986132383346558,100.0
+XBdaG2kQ2Iz9VNGPZokjYg,Maria's Ristorante on Summit,Philadelphia,PA,1,1,0,0.9997286200523376,100.0
+XMGjDIAFbu9VSmWDs-Ev5w,The Haven,St. Louis,MO,1,1,0,0.9964861869812012,100.0
+XV-jiJ6yb0LXlh4EyEWbqQ,Joey's New York Pizza and Italian Restaurant,Palm Harbor,FL,1,1,0,0.9997209906578064,100.0
+Xd8wTHTsd5uXdDJDXlxY5w,Meadows Diner,Blackwood,NJ,1,1,0,0.9998395442962646,100.0
+Xm5idKcLE1CK5aDCTpNRPw,Mandala Massage Supply & Apothecary,Reno,NV,1,1,0,0.9996989965438843,100.0
+Xq-8-I0U8Artr7d70SjX-g,30th Street Station,Philadelphia,PA,1,1,0,0.9936165809631348,100.0
+Xsvi9wYhD7u5XrK2EKDd8w,Five Star Pizza,Tampa,FL,1,0,1,0.9421659111976624,0.0
+XxQsXPGrKO3B-JdXhFdfWQ,Sandy's Tailor & Alterations,Saint Louis,MO,1,1,0,0.9994438290596008,100.0
+Xxo58tuutnV2nPAvQwzSmQ,Masquerade,Philadelphia,PA,1,0,1,0.9978705644607544,0.0
+Y2rYM2crYfTC25y6iquPgw,Landmark Americana,Wayne,PA,1,1,0,0.9978888630867004,100.0
+Y6t4pnKm5LF8y5ChHA27ow,Meineke Car Care Center,Land O Lakes,FL,1,1,0,0.999803364276886,100.0
+YAUUdbESr8BYQ_TFgDjT5Q,Tokai Sushi Hibachi Steakhouses,Philadelphia,PA,1,1,0,0.9998407363891602,100.0
+YB689VFiOlzUTBRPiauDFA,Terraza Cafe,Santa Barbara,CA,1,1,0,0.9997038245201111,100.0
+YCHBSWYErsKAI9AXeoPxhQ,Sabrina's West Street Kitchen,Reno,NV,2,2,0,0.999877393245697,100.0
+YFMYMfz9L3Wraqb9I9TnfA,Midas,Tucson,AZ,1,0,1,0.998001754283905,0.0
+YGxpTJ3fcU96uSoL2kHRAA,Gregs,Indianapolis,IN,1,1,0,0.9952558875083923,100.0
+YIdYc6tQIFRJPNIaPBupYQ,Zio Pizza Palace & Grill,Philadelphia,PA,1,1,0,0.9998261332511902,100.0
+YNm4WrEHejsVIEfkZ0MZFQ,Penske Truck Rental,Sparks,NV,1,1,0,0.9994314312934875,100.0
+YSJZZ1_8uHIIV4w44RSllA,Flying Pie Pizzaria,Meridian,ID,2,2,0,0.9058412313461304,100.0
+Yh4OgbXQSpQ_ycK_FmNiGw,Suis Generis,New Orleans,LA,1,0,1,0.8565360903739929,0.0
+Yh_KhyVD6ZBwsIQQ1wSUpw,Pho An Hoa Restaurant,Tampa,FL,1,1,0,0.9993162155151367,100.0
+YjRsQ94c3wpUQbsnU9jhHA,Frisco Train Store,Valley Park,MO,1,1,0,0.9997376799583435,100.0
+YlEBQLfRHocJDn4gRlgczw,Brick City Eatery,Lutz,FL,1,1,0,0.9998483657836914,100.0
+Yll7kUVI7j0gArBMQKpEaQ,High Brow Coffee + Tea,Franklin,TN,1,1,0,0.9998648166656494,100.0
+YtSqYv1Q_pOltsVPSx54SA,Rittenhouse Grill,Philadelphia,PA,2,1,1,0.9985097050666809,50.0
+YyJ781Cb4ZUlZv35BoBhMw,Target,Harvey,LA,1,1,0,0.9995222091674805,100.0
+Z2LtuIH3Sthc49Pi3Yg8Jw,Hi Tech Nail,Riverton,NJ,1,1,0,0.9994986057281494,100.0
+Z42GbJnnbVMTSBCERfoPtw,Blaze Pizza,Reno,NV,2,1,1,0.9987607598304749,50.0
+Z5po0aTuzKKblek5y6Sp8Q,500 Degrees,Philadelphia,PA,8,4,4,0.9973389282822609,50.0
+ZDkfI5rpM4sywZG0G3bhcg,Dobbs Tire And Auto Center,Oakville,MO,1,1,0,0.9969850182533264,100.0
+ZGdk6tO1g6odmfFS94KY4Q,211 York,Jenkintown,PA,1,1,0,0.9998794794082642,100.0
+ZKnzTLxLFkMmipKcvC8FrQ,Halcyon Floats,Philadelphia,PA,2,2,0,0.9996747672557831,100.0
+ZPjUG5wOJcQdNCbbqhVrdQ,The Golden Eagle Diner and Restaurant,Bristol,PA,1,1,0,0.993800938129425,100.0
+ZY8VxKtXDjZB5V4G-hgpaw,Jiffy Lube,Sparks,NV,1,0,1,0.9990569949150085,0.0
+Zdw5rbtAWguwcT9h_X4xRA,Johnson's Corner Farm,Medford,NJ,1,0,1,0.9996926784515381,0.0
+ZhSFkJjDeD08F88F84fcOA,UV Nightclub,Nashville,TN,1,0,1,0.9846417307853699,0.0
+Zi-F-YvyVOK0k5QD7lrLOg,Muriel's Jackson Square,New Orleans,LA,5,3,2,0.9982576727867126,60.0
+ZiJfb924ewMO9S2f-9W9Pw,Advanced Towing & Recovery,Nashville,TN,1,1,0,0.8295956254005432,100.0
+ZiQiMlvgk19GrEEkN9kyRA,The Blind Tiger Cafe - Ybor City,Tampa,FL,1,1,0,0.9997914433479309,100.0
+ZnAr0AxYpEYK1ZHNc4fk7g,Tako Japanese Restaurant,Bensalem,PA,2,2,0,0.9981502592563629,100.0
+ZwfEKmmIktIhHmBwF1SuHg,Thorntons,Nashville,TN,1,1,0,0.9997797608375549,100.0
+Zx7n8mdt8OzLRXVzolXNhQ,Milk and Honey Nashville,Nashville,TN,7,5,2,0.998961056981768,71.42857142857143
+ZzrmvjyqfloRhlz6LIURyQ,The Home Depot,Kenner,LA,1,1,0,0.9997774958610535,100.0
+_49FsmTfruZSTjxU4OwOsg,Taziki's Mediterranean Cafe - West End,Nashville,TN,1,0,1,0.996557891368866,0.0
+_7lj5Anv74yWRA_JphK__Q,Palladium Theatre,Saint Petersburg,FL,1,1,0,0.9996347427368164,100.0
+_7wLfTpbf-1O7zS3uzzHEA,Harry's Beach Bar,St. Pete Beach,FL,1,1,0,0.9973605275154114,100.0
+_8JrzxWYNODeyo2rDCR_IQ,Dolan's Irish Pub,Burlington,NJ,1,1,0,0.999087929725647,100.0
+_9JumTIHEQgTV9-gGe_TWg,Sligo,Glen Mills,PA,1,0,1,0.9970468878746033,0.0
+_D7QoWuQKMXk0mEE7r_Ftw,Chateau La VIn,Columbia,IL,1,1,0,0.9920483231544495,100.0
+_E0WPHfJEYmwOUCAj-Jq1A,Western Village Inn and Casino,Sparks,NV,1,0,1,0.9707756042480469,0.0
+_GwN0kWZOs3DFpNDZIblRw,Redhound Grille,Paoli,PA,1,1,0,0.9998716115951538,100.0
+_KSRzh-ZxwKB3YcRlZQsGA,Dairy Joy,Tampa,FL,1,1,0,0.9986600875854492,100.0
+_KsPtBhwco4D9yoKgncB8A,Grand Pavilion Condominiums by Greystar Real Estate,Tampa,FL,1,0,1,0.9995478987693787,0.0
+_PRReGRG73wT8edwsfWbuQ,Tower Grove Farmers' Market,Saint Louis,MO,1,1,0,0.9998540878295898,100.0
+_RwlMTw9uFeOkfX9Ctf1HA,Dinardo's Famous Crabs,Philadelphia,PA,2,1,1,0.9671207070350647,50.0
+_SjdrpSZdiXVSwaJR5T9jw,Squeal,New Orleans,LA,2,1,1,0.8881128132343292,50.0
+_W9lITxMHNInaS2Lv2XoUw,Casa Del Mar Inn,Santa Barbara,CA,2,2,0,0.9985893666744232,100.0
+_aKr7POnacW_VizRKBpCiA,Blues City Deli,Saint Louis,MO,1,1,0,0.9995881915092468,100.0
+_cdy7hVc32mleVooP8x0Sw,The Roost,Fishers,IN,1,1,0,0.9994001388549805,100.0
+_cndcbuaqSRW5f-MeZasNw,Toyama Japanese Steak House,Nashville,TN,1,1,0,0.9998010993003845,100.0
+_uOkk1lO4LXWU22DwEhj-Q,Fox Fitness,Tampa,FL,1,1,0,0.999751627445221,100.0
+a-vPYRgZKeCX9pKEi0n0jg,Elite Fireplace,Collegeville,PA,1,1,0,0.9980035424232483,100.0
+a0_wSrpAqg_eHnNej273Sw,Gusto Osteria,Tucson,AZ,1,1,0,0.9912574291229248,100.0
+a2GIcDZ0P6ABM-_siJfmjg,Ascendant Books,Edmonton,AB,1,1,0,0.9997838139533997,100.0
+a2ITIJRAY4Eo-xTH0vN95A,Chili's,Tampa,FL,1,0,1,0.9983525276184082,0.0
+a3rSJaJ12Cw3MkKwm-sNVg,Auracle Salon,Saint Petersburg,FL,1,1,0,0.9998853206634521,100.0
+a61STG1g8Zlwz_k7MJtrAw,"David  Freilich, DMD",Clifton Heights,PA,1,1,0,0.9995120763778687,100.0
+a7ZmzKZRhVjKaJBZ7zIGzg,The Dish Bistro,Tucson,AZ,1,0,1,0.9990922212600708,0.0
+aFaNett57VujMH61zCeeYg,The Human's Mechanic,Wesley Chapel,FL,1,1,0,0.9997147917747498,100.0
+aGuJYGl_Vj6ctot_1mW3tA,Camp Bow Wow Tampa Airport,Tampa,FL,1,1,0,0.9940306544303894,100.0
+aIdLyMLvkVuqUMJWuqwkbw,Jhonnys Pest Control,Goleta,CA,1,0,1,0.9993019104003906,0.0
+aIflpZXlmofFGelTlqgGEQ,Inchin's Bamboo Garden,Nashville,TN,1,1,0,0.9998648166656494,100.0
+aJ2AVfEFHbPIUO6sTyOjOw,Nashville Cleaners,Nashville,TN,1,0,1,0.9961135387420654,0.0
+aJet5OBtxIEbmLZwA4VphA,Emmanuelle,Philadelphia,PA,1,1,0,0.9991376399993896,100.0
+aRNncWB2RgrKw76eyPCiPg,Seaside Dry Cleaners,St. Petersburg,FL,1,0,1,0.9922261238098145,0.0
+aSgAsCVVOhBVk0ci4OQQxA,Lulu' s Pet Grooming,Reno,NV,1,1,0,0.9995562434196472,100.0
+aUAJXrctg5DkJW7bJ0Q2PA,D's Yoga Home,University City,MO,1,1,0,0.9996931552886963,100.0
+aZNiVR6oAMQX5__yGPvYsg,Susanna Foo Chinese Cuisine,Philadelphia,PA,1,1,0,0.9997913241386414,100.0
+aaBlYQpHUuSYEv1EtWgxuQ,Chick-fil-A,Plainfield,IN,1,1,0,0.9998239874839783,100.0
+ab3pRv-b0o-BwMK2jVbH3Q,Saki Endless Sushi & Hibachi Eatery,Clearwater,FL,3,1,2,0.9308406909306844,33.333333333333336
+adb1hOYICrJ1Ix8M0sRpbw,Kuzina By Sofia,Cherry Hill,NJ,1,1,0,0.9994252920150757,100.0
+afWmWtt1VVQbfi2v0Nf1fw,Biggest Little Baby,Reno,NV,1,1,0,0.9998401403427124,100.0
+aiqbuqwA8ZyTuu4W5JaD3g,Danny's Baboquivari Restaurant & Lounge,Tucson,AZ,1,1,0,0.9997511506080627,100.0
+ajfBGoRGUzhD0fTXLENcrw,Asahi Sushi & Asian Grill,Belle Chasse,LA,2,1,1,0.999679684638977,50.0
+alUk6OwNhofyc90NDMDY-Q,Fabio's Chicken Restaurant Takeout,Philadelphia,PA,1,1,0,0.9933775067329407,100.0
+aqWE8jXPqIQ5Tt80gNmuSA,Taqueria Chazumba,Clearwater,FL,1,1,0,0.9997889399528503,100.0
+aw5GN4yk6r0r9e_5TdiLFQ,Carmine's Parkside Pizza,Chester Springs,PA,1,1,0,0.9993321299552917,100.0
+b-uHE90-iF8aErfDsdbcBA,New York Bagel Shops,Saint Petersburg,FL,1,0,1,0.9968735575675964,0.0
+b2IDM2SC0HkcflLl_nSTrA,Danny Boy Beer Works,Carmel,IN,1,1,0,0.9998557567596436,100.0
+b4lalqAv4MalXtB51QzLaA,"Terance Cochran, OD-Cochrane Family Eyecare",Reno,NV,1,1,0,0.9995095729827881,100.0
+b7V_5q22_eTeHlYzq1bpFw,Harbor Seafood & Oyster Bar,Kenner,LA,6,6,0,0.9795600672562917,100.0
+b9KOyYWdQ8Xz8CrDdE4SOw,PolyEsther's Costume Boutique,Reno,NV,1,1,0,0.9997522234916687,100.0
+bJAY2baMKSTlWRc-QZGopQ,Lilly's Cafe America,Doylestown,PA,1,1,0,0.9998691082000732,100.0
+bMIVLkX6-0U2NVPaVwt94A,Poblanos Mexican Grill & Bar,Clearwater,FL,1,1,0,0.9993129968643188,100.0
+bMpKXcKFetJQsa42UR25cQ,Pravda!,New Orleans,LA,1,1,0,0.9994913339614868,100.0
+bN7-A2GlVz2Job3frIPy9w,The Screamery HandCrafted Ice Cream,Tucson,AZ,1,1,0,0.9998800754547119,100.0
+bRhnVTfuxDchyFguyDzuDQ,Queen Sushi,Glenside,PA,3,2,1,0.995415449142456,66.66666666666667
+bSJczuohHVko33UT82hnfA,Blaze Pizza,New Orleans,LA,1,1,0,0.9998613595962524,100.0
+bSWL0YxfawjS03_g2kgujA,Allegro Pizza,Philadelphia,PA,3,1,2,0.9995789329210917,33.333333333333336
+bXjnfT69E8DJinX-ifOofA,Wings Over Broadway,Tucson,AZ,2,2,0,0.9992340505123138,100.0
+bbEXAEFr4RYHLlZ-HFssTA,The Original Habit Burger Grill,Goleta,CA,3,3,0,0.9904570778210958,100.0
+bdfZdB2MTXlT6-RBjSIpQg,Pho Bistro,Isla Vista,CA,1,0,1,0.986574113368988,0.0
+bjhCtlYHrkgA5Ku8l-rB3g,Our Daily Bread,Santa Barbara,CA,2,1,1,0.8319288492202759,50.0
+bmz4siaejdjs4_yS_mYW4A,Cool Springs Brewery,Franklin,TN,1,1,0,0.9998189806938171,100.0
+boLOUdV5T1O5a1cWaClfDA,Mary Brown's Famous Chicken & Taters,Edmonton,AB,1,0,1,0.9994144439697266,0.0
+brxzxPTpbukDPTlaq7gOMw,Wimpys Original,Media,PA,1,1,0,0.996626615524292,100.0
+bxDk3YLoMOTdmmf_4AN_4g,Pacific Crest Hotel Santa Barbara,Santa Barbara,CA,1,1,0,0.9984563589096069,100.0
+c-IgS6Pk6vMyax7Rbr38eA,Barbecue and Bourbon,Speedway,IN,1,1,0,0.9998461008071899,100.0
+c1lnt8TTtcxhmeg2R4IKpg,Luxury Nails,Tucson,AZ,1,0,1,0.7959142327308655,0.0
+c37aDysgwNQsLpMWNedhTg,Bascettis Italian Grille,Dunedin,FL,1,0,1,0.9982415437698364,0.0
+c6GTImF01z981_BNJIye2g,Chef JJ's Back Yard,Indianapolis,IN,1,0,1,0.9944156408309937,0.0
+c7OfNRMIqAhtNOMEat3Rbg,Fellini Cafe,Newtown Square,PA,1,0,1,0.9454431533813477,0.0
+c8rjE6NcfeyzLB_aU1GdMA,Sláinte Pub & Grill,Philadelphia,PA,1,0,1,0.7389746308326721,0.0
+cB_9eHHfo9me96cZup-lZQ,"The Saint Hotel, Autograph Collection",New Orleans,LA,5,1,4,0.9990984797477722,20.0
+cBp1fn2LXpSHe4VbTXLYEw,Bab Café - Reno,Reno,NV,2,1,1,0.762003630399704,50.0
+cCwGNGOCvhigKOLSFUaVDg,Kahwa St Pete Drive Thru,Saint Petersburg,FL,1,1,0,0.9984884262084961,100.0
+cMf3Ej3KNBoN2sIpLCm9Rg,Zoes Kitchen,Collegeville,PA,2,2,0,0.9998274147510529,100.0
+cN4Y09a7clgjFd1tY-wSZw,Don Pablo's,Woodbury,NJ,1,1,0,0.9997307658195496,100.0
+cOXVi0GEeQC6m8SN0Q522g,Sal & Pat's Pizza,Bellmawr,NJ,1,0,1,0.9992120265960693,0.0
+cPmeskhu9fAdyf-SC9oxYA,Fox & Hound,Goodlettsville,TN,1,1,0,0.940609335899353,100.0
+cUYw6i8MF_2WEdd2d8t9yg,Starbucks,Doylestown,PA,1,0,1,0.9971248507499695,0.0
+cX1VH_vpqGoLrio4sV9xcA,Ron's Original Bar & Grille,Exton,PA,1,1,0,0.9998401403427124,100.0
+cXAKeC-EgVChIxhS7fscmw,Ghini's French Caffe,Tucson,AZ,2,1,1,0.9677490592002869,50.0
+cXEx8dhmoFZcsJjXS2lLuQ,The Pasta House,Saint Louis,MO,1,1,0,0.9998657703399658,100.0
+cXSyVvOr9YRN9diDkaWs0Q,Honey's Sit-N-Eat,Philadelphia,PA,5,4,1,0.9978073000907898,80.0
+caGpaptBP4BKJkpH5W6cvA,Bing's Boba Tea,Tucson,AZ,1,1,0,0.999756395816803,100.0
+caYHsI0eWE0UyEcSm04uMQ,Simply Delicious - Country Market & Deli,Saint Petersburg,FL,1,1,0,0.9757408499717712,100.0
+cbkrO0zra1OiNGvtjw2igQ,Wok On the Wild Side,Goleta,CA,1,0,1,0.9987159967422485,0.0
+cfjXBXseOIBKKnAIVf4fMw,Tbar,Philadelphia,PA,1,1,0,0.9993411898612976,100.0
+cg4JFJcCxRTTMmcg9O9KtA,Ava,Tampa,FL,3,2,1,0.9960877299308777,66.66666666666667
+cp3pRJJuQo0urJZm2inr_A,Veekoo,Royersford,PA,1,1,0,0.9973942041397095,100.0
+cvrIE1rLPWk-Nxb_ZNv5lA,Candlewood Suites Tucson,Tucson,AZ,1,1,0,0.9997686743736267,100.0
+cxupofYLq46bxBHpKyFwsQ,Wyndham New Orleans - French Quarter,New Orleans,LA,1,0,1,0.9747797846794128,0.0
+d-37SrSuOew0uqwuOM_w7w,Thai Fusion,Indianapolis,IN,1,1,0,0.999861478805542,100.0
+d6bUs1pohZndzv-76YpcYw,Pet Health Center,Philadelphia,PA,1,0,1,0.9996598958969116,0.0
+d8tLbQ9o3aVdOLgueJtYXw,Jay Bee's Diner,Edmonton,AB,1,1,0,0.9994431138038635,100.0
+d91RHJeZE-I7TaeQdBp6MQ,Five Guys,Harahan,LA,1,0,1,0.5856760144233704,0.0
+d9vapPUlJCSSrltRRKO9ig,Sushi Avenue,Tampa,FL,1,1,0,0.9998716115951538,100.0
+dBCNUSbz5-8nQNrxWo5deg,Blue Sage Vegetarian Grille,Southampton,PA,3,3,0,0.9993941187858582,100.0
+dCFptNgnFQ8t0IG1Mj1NQA,Ham + Bone,Philadelphia,PA,1,1,0,0.9997581839561462,100.0
+dChRGpit9fM_kZK5pafNyA,The Love,Philadelphia,PA,1,1,0,0.9981915354728699,100.0
+dD2p903p8lU0IgXT3OFluA,Edgehill Cafe,Nashville,TN,2,1,1,0.8667443990707397,50.0
+dERS4qwl9v-Gwft-Ug8APA,West Ave Grille Jenkintown Restaurant and Food Truck ,Jenkintown,PA,1,1,0,0.9996775388717651,100.0
+dIpTuL2T1L98GQGU17IeSw,The Bricks,Tampa,FL,3,3,0,0.9997784892717997,100.0
+dJfkfBbJz7wi0RgW-ph_Eg,Sake House,Tampa,FL,1,0,1,0.9994400143623352,0.0
+dL2hANhOK-V9iF60UVkLAw,Jessi Sgarlata - The Southbound Group,Franklin,TN,1,1,0,0.9996887445449829,100.0
+dMhslmjZ0dJov0sMCxf39Q,Anaya's Mexican Restaurant,Greenwood,IN,1,1,0,0.999703586101532,100.0
+dNR-b-CsrFGYhMo9zLMrCw,Soy Bistro,Brentwood,TN,2,2,0,0.9931606650352478,100.0
+dQMchzUdDwnSQcvzPlro1A,Ciao-A Fine Salon,Santa Barbara,CA,1,0,1,0.5398515462875366,0.0
+dSPA4yql9vUwnYRxHiVtHA,Makiman Sushi,Philadelphia,PA,4,3,1,0.9978902637958527,75.0
+dWWOryYimQs3EzmejrVt7w,Boulevard Pizza,Sparks,NV,1,1,0,0.9641721248626709,100.0
+dYYkzkiAQoOtRjdR0kcspw,Tennessee Brew Works,Nashville,TN,2,2,0,0.9996204376220703,100.0
+d_tRshM-w6S4QxE4VVi8tQ,Jones,Philadelphia,PA,9,8,1,0.9994939963022867,88.88888888888889
+deVwhY98J_r69DVedK2x8A,Sonrisa Old City Dental,Philadelphia,PA,1,1,0,0.99945467710495,100.0
+dfKF-oAUf3yjnD0WBYDyZQ,The Cow and The Curd,Philadelphia,PA,1,1,0,0.9993653893470764,100.0
+dfwymI9Qgt1QCgLiByzE9w,Sierra Car Care - Village Service,Reno,NV,1,1,0,0.9998041987419128,100.0
+diwwt5QBU3-Thig9SVlsOA,Brew Brothers,Reno,NV,1,0,1,0.9977003931999207,0.0
+doDLC83cBMVNLIMhpZWSuQ,It Is Finished,Lutz,FL,1,1,0,0.9998681545257568,100.0
+dpwkz52tHB2MCPv53I2aRA,Jazmine,Reno,NV,4,4,0,0.9860914200544357,100.0
+dsn0I8baOgtiKX0NkeVguA,Burger King,Indianapolis,IN,1,0,1,0.9836481213569641,0.0
+dwoqTu3q0D_T2UfT7cgHqw,Pia Urban Cafe & Market,Indianapolis,IN,1,1,0,0.9995266199111938,100.0
+dyVKL3qKsz_XDxtjpbNcgQ,El Charro Cafe,Oro Valley,AZ,2,2,0,0.9883249998092651,100.0
+e-Ve1GkV0esUdUP4B6uPWA,Grayline Trolley Tour,Nashville,TN,1,0,1,0.9984639883041382,0.0
+e1jylvnhcMVr1ER8PO4dpA,Black Diamond BBQ & Catering,Indianapolis,IN,1,1,0,0.9998056292533875,100.0
+e4Vwtrqf-wpJfwesgvdgxQ,Melt,New Orleans,LA,1,1,0,0.9985314607620239,100.0
+e9J0IWHyYGU-AcCqTQ7lSA,Kaisen Sushi,Tampa,FL,1,1,0,0.9997978806495667,100.0
+e9YiQo_CGJrnjJXBilAEWQ,Vieux Carre Wine & Spirits,New Orleans,LA,2,1,1,0.9576305747032166,50.0
+e9lqPiNqcCfu97uCZerq0g,Uptown Carwash & Xpress Lube,New Orleans,LA,1,0,1,0.5937379002571106,0.0
+eBGWJYj9meGtvgw0Tm7KwA,Mela's Raspados & Antojitos,Tucson,AZ,1,1,0,0.9997610449790955,100.0
+eFvzHawVJofxSnD7TgbZtg,Good Karma Cafe,Philadelphia,PA,1,1,0,0.999139666557312,100.0
+eHiwKescTxEtPDZNLRp2sw,Dairy Queen,Royersford,PA,1,0,1,0.9994078874588013,0.0
+eJYvM2Zy5BloOYGldWmAVw,Chateau Cafe,New Orleans,LA,1,1,0,0.9998745918273926,100.0
+eL4lyE7LNoXEMvpcJ8WNVw,Deep Sea Tasting Room,Santa Barbara,CA,1,1,0,0.9824199676513672,100.0
+eMiN8nm70jjKg8izikVWDA,Chickie's & Pete's,Philadelphia,PA,3,2,1,0.9987486402193705,66.66666666666667
+e_9qxd4k6z58I9-b3vBxBA,Pho Anh Sang,St Albert,AB,1,0,1,0.9997387528419495,0.0
+eaDZlSuVS0EY67Ke6pRP6Q,Penang,Philadelphia,PA,2,1,1,0.9923404157161713,50.0
+eaJCpC6IhYphj7bwCDHTwQ,Three Brothers Coffee,Nashville,TN,2,2,0,0.9992139041423798,100.0
+eaV07HGOcyb27XobHVl8LQ,Jean Madeline Aveda Institute Salon,Philadelphia,PA,1,1,0,0.9939075112342834,100.0
+eaVcAlPmz-3C2ICy4zqbfw,Sport Clips Haircuts of Del Monte Plaza,Reno,NV,1,1,0,0.9998642206192017,100.0
+ejEVU5o5F56e7XIO07xpcA,Fox & Hounds Tavern,Saint Louis,MO,1,0,1,0.9842496514320374,0.0
+emTNYy-Ct6pitGa0vIV03A,I.C. Sharks Seafood Market,Saint Petersburg,FL,1,1,0,0.9998672008514404,100.0
+encfXG_jrG1M6gX1IqrHrw,Ballyhoo Grill,Tampa,FL,1,1,0,0.9995679259300232,100.0
+etzkwuhZGHUXJhdPC_y4pA,Pure Design,Philadelphia,PA,2,2,0,0.9995566010475159,100.0
+euu_JA0YFf63f75uaVSyng,Americano - Freestyle Tapas Bar,Nashville,TN,3,1,2,0.9631065527598063,33.333333333333336
+f2r0YzFcaFl3jSg4cST68w,Coco Deep Fried Chicken,Edmonton,AB,1,1,0,0.9995529055595398,100.0
+f4PA-f1tcN1bIpZJLdFsQQ,Deccan Spice,Clearwater,FL,2,2,0,0.9519878625869751,100.0
+f4vbnGoGo3eWorVekctVGQ,Refuel Cafe,New Orleans,LA,1,1,0,0.9998171925544739,100.0
+f82dhKNiUXsDVPMLqKYiIQ,Sher-e-Punjab,Tucson,AZ,1,1,0,0.9998576641082764,100.0
+fEFCglnS2V7MzqoxBoJVWA,Pei Wei,Moorestown,NJ,2,0,2,0.8692570328712463,0.0
+fFG_tetXNiW9u0lN1W2dBQ,Prowax Auto Detailing,Philadelphia,PA,1,0,1,0.9996359348297119,0.0
+fGYnHzFr1z2kv7bPRW6VMA,Limoncello Ristorante & Caterers,West Chester,PA,1,1,0,0.9993659853935242,100.0
+fJNSx1WOo77TmP7Bl26w_g,Washington Crossing Inn,Washington Crossing,PA,1,0,1,0.9982656836509705,0.0
+fNssGWMjae-SUzyyGblspQ,Apron,Haddonfield,NJ,1,1,0,0.9998606443405151,100.0
+fV8N6THXG35kFIQddVOHSg,Sally Beauty Supply,Upper Darby,PA,1,0,1,0.9818369746208191,0.0
+fWMPbickerGWohPy2vDL5A,Ulta Beauty,Plainfield,IN,1,0,1,0.9984443783760071,0.0
+fWbQiSAErNcznezzkfCdvg,Ferrel's Chiropractic,Santa Barbara,CA,1,1,0,0.9496240019798279,100.0
+f_wQSF0AmV8GbE27g_3mVw,Rituals by Dona French,Doylestown,PA,1,1,0,0.9997683167457581,100.0
+fa6InRseC0Uxnt5d90E3LQ,Trophy Fish,Saint Petersburg,FL,2,1,1,0.9989325404167175,50.0
+fbyvLKxT0LZX7VGokTBipw,Indique Virgin Hair Extensions,Philadelphia,PA,1,1,0,0.9993545413017273,100.0
+fnO03-RX7UDC1TzXETWEsQ,Pinocchio's Restaurant,Media,PA,1,1,0,0.9972061514854431,100.0
+frP495KRIim9ebe-XAcVyw,Jim's Buffet,North Wales,PA,1,1,0,0.9148364067077637,100.0
+fsFZQ2ZbTutgUlnWPhTU6A,J's Seafood Dock,New Orleans,LA,1,1,0,0.9993762373924255,100.0
+g04aAvgol7IW8buqSbT4xA,Cafe Fleur De Lis,New Orleans,LA,4,2,2,0.9451670795679092,50.0
+g0P142xWZpgrbEvrFUpCxQ,Goodwill Superstore,Brandon,FL,1,1,0,0.9994947910308838,100.0
+g3LweOTJlJoALtaShN4SLA,Barrel 55,Meridian,ID,2,2,0,0.9993918836116791,100.0
+g4KzJc8y7BhW66ieNIwJEA,The Old Spaghetti Factory,Nashville,TN,1,1,0,0.9995195865631104,100.0
+g5ogvPhw3PSobtaZFkdEXg,Bittersweet Confections,New Orleans,LA,2,2,0,0.9930862188339233,100.0
+g79jYJz3FEvgvglXqOUWxw,IHOP,Metairie,LA,1,1,0,0.9995089769363403,100.0
+g9VjloFtS0S2p4_XoV1ReQ,Springhill Suites by Marriott Tampa North/I-75 Tampa Palms,Tampa,FL,1,0,1,0.9949997663497925,0.0
+gC8i-lxwvGhVpOXM5eYdtA,Taqueria Guerrero,New Orleans,LA,1,1,0,0.9998718500137329,100.0
+gCcJTKC40CL0XtYYGfcXDw,Smiley's Cafe,Philadelphia,PA,1,0,1,0.9979307651519775,0.0
+gEcrWktXXAR2YB2ruXg2Zw,Roundin' Third,Goleta,CA,1,1,0,0.9986454844474792,100.0
+gGyqnAlpFrka_qzpO7j4lQ,Citizens Bank Park,Philadelphia,PA,3,2,1,0.9444792866706848,66.66666666666667
+gK9CdFaCXmHoW8aLfXiSqg,Tired Hands Fermentaria,Ardmore,PA,1,0,1,0.9995549321174622,0.0
+gKPWC7F219oEbu5NXPzH4g,Sam's Beach Bar,Hudson,FL,1,1,0,0.5241827368736267,100.0
+gM9GAwQUJxGXzmSHuJUF1w,Pep Boys,Tampa,FL,1,1,0,0.9995216131210327,100.0
+gMpYdAe1lZWDuBRw2bPEhg,Marco's Pizza,Oro Valley,AZ,1,1,0,0.9996905326843262,100.0
+gNqYUPKGfZJycaZhCsi7xQ,Marty's Cafe,Tampa,FL,1,0,1,0.9949530363082886,0.0
+gOtY7zJ1rIu6UIHXEvh5sA,Southern Candymakers,New Orleans,LA,1,1,0,0.9995627999305725,100.0
+gUCTzS2K_PkrJzTokZZSIw,Sunset Grille,Saint Petersburg,FL,1,1,0,0.9998295307159424,100.0
+gUyfJlJRxu1fHuZ4dpBheQ,Santa Fe,New Orleans,LA,1,0,1,0.9929008483886719,0.0
+gV89NXiZ3C0RNz1STGoWNQ,Fort Edmonton Park,Edmonton,AB,1,1,0,0.9997547268867493,100.0
+gVfnWwDXmjXXuZPBW85XPA,Desi Spice,Trooper,PA,1,1,0,0.9997259974479675,100.0
+gXg277YblY5xsaeMzJ73TA,Wang Gang Asian,Edwardsville,IL,1,1,0,0.9997277855873108,100.0
+ga7jZd-JccpMqdSTgY2lUA,Marjie's Grill,New Orleans,LA,1,1,0,0.9996380805969238,100.0
+geUiM_VTRmUz6dViO7E-jg,Brixx Wood Fired Pizza,Fishers,IN,3,3,0,0.9934173226356506,100.0
+gebiRewfieSdtt17PTW6Zg,Hibachi Steak House & Sushi Bar,Santa Barbara,CA,1,0,1,0.9965183734893799,0.0
+gmjsEdUsKpj9Xxu6pdjH0g,The Voodoo Bone Lady Tours,New Orleans,LA,1,1,0,0.9998687505722046,100.0
+gqMRM12j5mder76t3bPxJw,Siam Cafe,Nashville,TN,1,1,0,0.9886636137962341,100.0
+grjFEAN9gXOKQFEta4yBJg,Tropical Isle Original,New Orleans,LA,1,1,0,0.9862226843833923,100.0
+gyUBYwpUO_u0nqZdre4l1g,Shanghai Express,Marlton,NJ,1,1,0,0.9998413324356079,100.0
+h0Zxv2SpGNzZGZuJAiS1yA,Jackson Bar + Eatery,Tucson,AZ,1,1,0,0.9998646974563599,100.0
+h2nBTqJVHAyltyeq7sZZ-w,Blueplate,Mullica Hill,NJ,1,1,0,0.9968478083610535,100.0
+h4RaM9E8C0d20Uw-nLR5aw,The Children's Museum of Indianapolis,Indianapolis,IN,1,1,0,0.9997521042823792,100.0
+h5-Ay4V4XbRu-MvWyYC5yQ,The Groomin Room,Philadelphia,PA,1,1,0,0.9988864064216614,100.0
+hAmuto6UndVroyd_DaD-TA,Lobster Haven,Tampa,FL,1,0,1,0.9970245957374573,0.0
+hJWeckeGVJ9FTzshPG-T5Q,Volvo Cars West County,Manchester,MO,1,0,1,0.9997884631156921,0.0
+hLEzfH2aE8UyMm_cnS-3zQ,Kohl's,Tucson,AZ,1,1,0,0.7845849394798279,100.0
+hRHhP3fhMy3LktPyQa3s_A,Landry's Seafood House,Saint Louis,MO,1,1,0,0.9997501969337463,100.0
+hS6KNGCQVTYUdLb2edt58g,Steamboat Natchez,New Orleans,LA,4,2,2,0.9324049204587936,50.0
+hUQ9Z7kQeabvhPOAQOVV1A,Rathbone Mansions,New Orleans,LA,1,1,0,0.9993002414703369,100.0
+hYonVJe6xzVBHHT2FLo4zg,312 Pizza Company,Nashville,TN,2,1,1,0.9984188675880432,50.0
+hehd01egY8RSpCxnPyMbQA,Loa Bar,New Orleans,LA,1,1,0,0.9989295601844788,100.0
+hfN3l0gJ-XszD1XFGNvA6A,Akira,Collingswood,NJ,1,0,1,0.9443084001541138,0.0
+hkh5iyDeGLNhu-JUQFRE1Q,Royal Sonesta New Orleans,New Orleans,LA,2,1,1,0.9996511042118073,50.0
+hmmiyt6KljD5G3a861qsKw,K & S World Market,Nashville,TN,1,1,0,0.9983458518981934,100.0
+hqm2zJ1WY5UaVGZ6j07NNA,The Turning Point - Cherry Hill,Cherry Hill,NJ,1,0,1,0.5487573146820068,0.0
+htO_nlxkEsYHzDrtbiUxew,La Colombe Coffee,Philadelphia,PA,4,4,0,0.9995886981487274,100.0
+hx-qUirkgRqX2Bk8A2U0nA,Pima County Fair,Tucson,AZ,1,1,0,0.9998407363891602,100.0
+i7akkU95QVETwwX8D2qH-Q,Joe Gambino's Bakery,Metairie,LA,1,1,0,0.911119282245636,100.0
+i7syG2Gyr_qVPR1GwehzuA,Fleming's Prime Steakhouse & Wine Bar - Indianapolis,Indianapolis,IN,1,0,1,0.9948457479476929,0.0
+iCKF72z3fqRTF1vxdBZINQ,Village Pub & Beer Garden,Nashville,TN,2,2,0,0.9931776821613312,100.0
+iDtIMWJVIGYspg5JvJKaOw,Mad Mex - Wynnewood,Wynnewood,PA,3,2,1,0.9933603604634603,66.66666666666667
+iHC-f9m5EEOIJMXCW3bmBA,Swagruha Indian Cuisine,Maryland Heights,MO,1,0,1,0.9996824264526367,0.0
+iI090K0JMViyPPh7Viovrg,Germantown Pub,Nashville,TN,1,1,0,0.996273398399353,100.0
+iIJDIIUVmcvFUZrgnj983g,Sierra Car Wash,Reno,NV,1,0,1,0.988825261592865,0.0
+iKeEhlGU9R8vUchNwF5__Q,Dewey's Pizza,Edwardsville,IL,1,1,0,0.9998723268508911,100.0
+iXemjTj5TOByT1-cNTSaDw,PureBread Deli,Newark,DE,1,1,0,0.9987919926643372,100.0
+i_5PaxI8DK9EErsHBdwP1A,Tiffin-Etc,Philadelphia,PA,1,1,0,0.9511023759841919,100.0
+idf-eiurCrbsLRcH7c9zmw,Oakleys Bistro,Indianapolis,IN,1,1,0,0.9992823004722595,100.0
+ioxgFKdqjRowAj4dFM7VoA,TaTa Cuban Cafe,Indianapolis,IN,1,0,1,0.9992419481277466,0.0
+irwBGAGqMPam4YLbn04TYQ,Drexel Family Medicine - Tower Health,Philadelphia,PA,1,1,0,0.9989169836044312,100.0
+itAhmbhHOyQQparfwicjDQ,Mammoth Espresso,New Orleans,LA,1,1,0,0.9977810978889465,100.0
+iw2SbQ8sude6uyklxzQzLw,Suburban Extended Stay Hotel Airport,Tampa,FL,1,1,0,0.9994753003120422,100.0
+ixPTo6Hum7nNZ7A4VPhTXg,Brick House Tavern + Tap,Tampa,FL,3,2,1,0.885229766368866,66.66666666666667
+j0kqlcG_HluOEEFsA7WwCg,Em J's Cafe,Berwyn,PA,2,1,1,0.9112654626369476,50.0
+j8JOZvfeHEfUWq3gEz6ABQ,Bacchanal Fine Wine & Spirits,New Orleans,LA,2,2,0,0.9983107149600983,100.0
+j99PtxlKTW_u5alE4jiqHQ,Ralphs Italian Restaurant,Philadelphia,PA,2,2,0,0.9992270767688751,100.0
+j9Kaj_6tSeXmVMYCgZithg,Noble Crust,Wesley Chapel,FL,1,1,0,0.9998687505722046,100.0
+jE8o7lX3NMmcG0iMlqoo7A,Candlewyck Beef & Ale,Buckingham,PA,1,1,0,0.9994385838508606,100.0
+jFmS7S0kU5ZQHSm4jqymQw,Vegetate,Philadelphia,PA,1,0,1,0.9997010231018066,0.0
+jIBjZcqVOU4pOVT-sVQcfA,IRB Sushi,Indian Rocks Beach,FL,1,1,0,0.9998149275779724,100.0
+jLaPtjlLfRSaoBWIcHcSQg,The Mad Crab,University City,MO,1,1,0,0.9140802621841431,100.0
+jMZ56S8Y1t7cA1Ob-d-qeA,Three Muses,New Orleans,LA,7,6,1,0.9996021134512765,85.71428571428571
+jOOOrH5n2ijnsZKxzPSAiw,Chick-fil-A,Nashville,TN,1,0,1,0.9867395162582397,0.0
+jQBPO3rYkNwIaOdQS5ktgQ,The Fountain On Locust,Saint Louis,MO,3,3,0,0.9997609257698059,100.0
+jRLskcm_icZIKs81mYC4iQ,Abyssinia Ethiopian Restaurant,Indianapolis,IN,1,1,0,0.9995399713516235,100.0
+jTI5Xjk27An8ceJ6VwpXiQ,DoubleTree by Hilton Hotel Philadelphia Center City,Philadelphia,PA,1,1,0,0.9996346235275269,100.0
+jW4a3W9-UkFxpglHvo_Kqg,Meun Fan Thai Cafe,Santa Barbara,CA,1,1,0,0.9991515874862671,100.0
+jcQ2ykQjVjSiVFf0EtH6eg,Michael's Grill,Tampa,FL,2,2,0,0.9998524785041809,100.0
+jg1YxrBaK9cB4OT1Zx49Hg,Beer Garden At Reilly Craft Pizza,Tucson,AZ,1,1,0,0.9998935461044312,100.0
+jmwasbZfgj3honf79qKsnA,Street- Taco and Beer Co.,Tucson,AZ,1,1,0,0.9998887777328491,100.0
+jn7yLpUT9OvU0UMlCux8XA,River's Edge,Tampa,FL,1,1,0,0.9998685121536255,100.0
+jnpuQlMSsSUr8WFablTTLQ,Valley Garden Park,Wilmington,DE,1,1,0,0.9565211534500122,100.0
+joeRm-_7T0XTkMdKo2nbaA,Paola's Pizzeria,Wayne,PA,1,1,0,0.9995854496955872,100.0
+jtsckI_01hlbGLpEFwJu0A,Buff Beauty Bar,New Orleans,LA,1,1,0,0.9998337030410767,100.0
+ju4YP8SLdR_BmWr_-Xh83Q,Phamous Cafe,Goleta,CA,2,2,0,0.9863508343696594,100.0
+jxfAi7UDmtbhyPw7ZsfKVw,Fellini Cafe of Media,Media,PA,3,3,0,0.9995136658350626,100.0
+k3lTRgvPvYUI-cX7_TAqNA,University Club of Santa Barbara,Santa Barbara,CA,1,1,0,0.9995827078819275,100.0
+kBbNlvMglJRrPmlpdCHLuw,Ybor Eats,Tampa,FL,1,1,0,0.9995575547218323,100.0
+kGl2zBnLWTUBQLFkd0u_FQ,Louis Pappas Fresh Greek,Tampa,FL,2,2,0,0.9996868968009949,100.0
+kHuIRfZq3aadONNFO0vEnQ,Cheddar's Scratch Kitchen,Mt Juliet,TN,1,1,0,0.9989292025566101,100.0
+kJpoduG3wdA35WzOF_T1Aw,Mexico Lindo,Pinellas Park,FL,1,1,0,0.9993439316749573,100.0
+kJputVxFc4-tvwTI6MVm3g,Fort Ben Pub,Indianapolis,IN,1,1,0,0.9998016953468323,100.0
+kKPJLiHIr9Gd9sYs3GhxDQ,Brick & Mortar,Saint Petersburg,FL,2,1,1,0.9776227176189423,50.0
+kZtl_NJjUnlIQgzFrBhXyQ,Ichiban,Santa Barbara,CA,1,1,0,0.9997746348381042,100.0
+kd0Sv_ZjnBhbMxs0U4KgQw,Buhos Latin Fusion & Bar,Phoenixville,PA,1,0,1,0.9989898800849915,0.0
+kdJMzQCyG9X07lEgTWWveQ,Sun Diner,Nashville,TN,3,3,0,0.9824881553649902,100.0
+kfN6roQlTHWvMNlYdq2zgw,Gourmet Wok,Chalfont,PA,1,0,1,0.9998037219047546,0.0
+kfcz8iJOkltAvkp6TqNMcA,Fairmount Pet Shoppe,Philadelphia,PA,1,1,0,0.9998757839202881,100.0
+kgeiJzWSiXPnf-3wx7LHIQ,Panera Bread,Meridian,ID,1,1,0,0.5551509857177734,100.0
+kjhIbW8NKRvXmLDwz7lzhw,Margaritaville - Nashville,Nashville,TN,3,1,2,0.9978745182355245,33.333333333333336
+kkcQYuF3w5iHnHMf0EnRhQ,Joe's Steaks + Soda Shop,Philadelphia,PA,1,1,0,0.9955209493637085,100.0
+kkjxBPi9BnHLcbUv3Rw_Bg,Lucky Nails,Saint Louis,MO,1,0,1,0.9948659539222717,0.0
+kpK6SmxIiNoGPNhlEGiL4w,Trattoria Marcella,Saint Louis,MO,1,1,0,0.9998440742492676,100.0
+kq5Ghhh14r-eCxlVmlyd8w,The Coventry Deli,Philadelphia,PA,1,1,0,0.9997929930686951,100.0
+kqAa2CtPGA-QsZhhbzpzUQ,Blu Fig,Nashville,TN,2,2,0,0.9996977150440216,100.0
+kxX2SOes4o-D3ZQBkiMRfA,Zaika,Philadelphia,PA,1,1,0,0.9998286962509155,100.0
+kz8OeP88ZYjDBWb0LePJ3A,Chill On the Hill,Philadelphia,PA,1,1,0,0.9998531341552734,100.0
+l2iCpfaBZSGlPrmmqjRmrg,LaLa Lash Couture Boutique,Tucson,AZ,1,1,0,0.996723473072052,100.0
+l46sjKxPfJCzCJCTQEEKUg,Café Jems,Tampa,FL,1,1,0,0.9800540804862976,100.0
+l6VYP8AxIoW6U52aDo8fXg,HMV Superstore,Edmonton,AB,1,1,0,0.9978163242340088,100.0
+l7b33ubze8Jqw7C4I1CAuA,Embassy Suites by Hilton Tampa Airport Westshore,Tampa,FL,1,1,0,0.9997994303703308,100.0
+lB6jIOb1UBATmdfot4KJew,Soco's Gyros,Saint Louis,MO,2,1,1,0.9996192753314972,50.0
+lDxNtg8_j5aL6jm4foYorg,REM Air Conditioning of Tampa,Tampa,FL,1,0,1,0.9974532723426819,0.0
+lN_9tSK-zUZyCAkVykKfoA,Side Splitters Comedy Club,Tampa,FL,1,1,0,0.9995781779289246,100.0
+lRbHFOIFuusN2WOR_ypQ_A,Ants Pants Café,Philadelphia,PA,4,2,2,0.9972552508115768,50.0
+lS1dmSXpAtQqT04eRm9kiA,No Anchovies,Tucson,AZ,1,1,0,0.9998378753662109,100.0
+lTlii3QHEVvsagPGsCtu9w,Han Dynasty,Exton,PA,2,1,1,0.9752331376075745,50.0
+lWkkGw0wbVrxDAxYKvC1KQ,Art of Acupuncture,St. Petersburg,FL,1,1,0,0.9998750686645508,100.0
+lXCFcmhoRsyW-mnzzl6fkA,Ledo Pizza,Tampa,FL,2,1,1,0.9308156669139862,50.0
+lXQd2KpnT0OHYKi9q9nVcg,Goodland Signs & Designs,Goleta,CA,1,1,0,0.9998587369918823,100.0
+lcnVZZeY0AOaK4s68B5Syg,The One Salon,Edmonton,AB,1,0,1,0.9878777265548706,0.0
+lk9IwjZXqUMqqOhM774DtQ,Caviar & Bananas,Nashville,TN,1,1,0,0.7185193300247192,100.0
+llYsxQ0IuKh0HXULlqu6fw,Filipiniana Philippine Café,Tampa,FL,1,1,0,0.9995535016059875,100.0
+lmgCjE_h9VkpJYjsD2Li0A,Target,Tampa,FL,1,0,1,0.9997766613960266,0.0
+lsGZzXIJbjrWtcFGLAW5sw,AM@FM,Nashville,TN,1,1,0,0.99969482421875,100.0
+ltBBYdNzkeKdCNPDAsxwAA,Tavern,Nashville,TN,5,4,1,0.9933238863945008,80.0
+lwcHFUojDNhs-euprXrXOQ,Boise Bicycle Project,Boise,ID,1,1,0,0.9990014433860779,100.0
+m1EGAIfFEN9nG2_bJqnAcQ,Sushi Minato,Reno,NV,3,2,1,0.9971582889556885,66.66666666666667
+m4lkv5ksqtdXvlIVIftH_A,Pearl,Philadelphia,PA,1,1,0,0.9625583291053772,100.0
+m5-FtgWRd4qA7j0vaOXiXQ,Preservation Hall,New Orleans,LA,5,4,1,0.9979315519332885,80.0
+m6KZGTxRb9_ZyDpB1G6O1Q,Freddy's Frozen Custard & Steakburgers,Marana,AZ,1,1,0,0.9998705387115479,100.0
+mA1v8uVY5IzQfOyVy7xbTw,Beyond Sweet,St. Louis,MO,1,0,1,0.8311086893081665,0.0
+mBeSTUmigL9HGcfAjGRTQQ,One Lucky Dog,Saint Petersburg,FL,1,1,0,0.9992239475250244,100.0
+mCo2uVTTGYrEhRrkQW-CMw,Empress Garden,Philadelphia,PA,3,1,2,0.7166440288225809,33.333333333333336
+mLNSOU8Ki0Fm09xd6ZKkcA,Timpano Hyde Park,Tampa,FL,1,1,0,0.9997847676277161,100.0
+mLUWI7YYwaqTWgmbjOXvKw,Tony Luke's,Maple Shade Township,NJ,1,1,0,0.834640622138977,100.0
+mO0NXx8gr5wX4yQRQC4wRQ,Cafe Vienna,Saint Petersburg,FL,1,1,0,0.9974361062049866,100.0
+mQvRi0nm84Www71d4qOheQ,Ekta Indian Cuisine,Bryn Mawr,PA,3,3,0,0.9978757500648499,100.0
+mUIBtlWNPD7sz3rGGWQ1RA,Kanella,Philadelphia,PA,4,4,0,0.9967265725135803,100.0
+mY02hIpeZSVCaWObvvyECA,The Good Pie,Saint Louis,MO,1,1,0,0.9800446629524231,100.0
+mZJNutHNRxjEeLF297v_-A,Vintage Vogue by GW,Indianapolis,IN,1,0,1,0.9979597330093384,0.0
+m_hMeLTodOd07zWtfD-IPg,PetSmart,Philadelphia,PA,1,1,0,0.9989427924156189,100.0
+mbglgx3nbRRPKxh0SxDjNQ,Parada Maimon,Philadelphia,PA,1,1,0,0.9997859597206116,100.0
+mcr1lAEdvGLMJhuPwI3I2A,101 Taiwanese Cuisine,Reno,NV,4,4,0,0.9988463968038559,100.0
+mmBwAe9q062vKWanRfoagQ,Free Tours By Foot,Philadelphia,PA,3,3,0,0.9997182885805765,100.0
+mnejSSj4h_EYHnmKJkP61A,Applegate Wood Floors,Washington Crossing,PA,1,1,0,0.9998676776885986,100.0
+mpVZG520RL-K1YeQi55ZPg,The Blarney Stone,Philadelphia,PA,1,1,0,0.9995445609092712,100.0
+mtHxMNtlbDIkgH6IfzBgMg,Cold Stone Creamery,Greenwood,IN,1,0,1,0.626688539981842,0.0
+mzZ_WTb2zvyJMBkm84B-WA,Dorignac's Food Center,Metairie,LA,2,1,1,0.9977324604988098,50.0
+n-iPn34tLaqnq-dI8m8Bkw,Howl At the Moon Philadelphia,Philadelphia,PA,2,2,0,0.999855250120163,100.0
+n5P6-HWN3kFSYBxfVfDxEg,Shephard's Beach Resort,Clearwater Beach,FL,1,1,0,0.9998606443405151,100.0
+n6EspciV-aGB0qqieOo-3A,Bliss Nails,Indianapolis,IN,1,1,0,0.9998413324356079,100.0
+nBFs70QJ40fvV5SwwBa1Mg,Alaska Airlines,Reno,NV,1,0,1,0.92901211977005,0.0
+nFSqTOt1LZSHQQKQsUZiKw,Stargate Diner,Ridley Park,PA,1,1,0,0.9907934069633484,100.0
+nP4LqTcK1USiw5WnbOjW7A,Marrakesh Express,Philadelphia,PA,1,1,0,0.9979737401008606,100.0
+nQTJn9kdpU9Mns-b_qduVw,The Barbary,Philadelphia,PA,1,1,0,0.9992408752441406,100.0
+nRKndeZLQ3eDL10UMwS2rQ,Ted Drewes,Saint Louis,MO,5,4,1,0.9985532522201538,80.0
+nSSoWHnmdkTRj8MA3Gj4AA,IceMax,Philadelphia,PA,1,0,1,0.9946032166481018,0.0
+nVfkNZLElDdhqWcnaDPtPQ,Ruby Tuesday,Riverview,FL,1,1,0,0.9979109168052673,100.0
+nX2105_S9lUhB5rbhC2n2w,Donut Drive-In,Saint Louis,MO,1,1,0,0.9996039271354675,100.0
+nXug6_eCfZsp29j_pUrxtw,Styles Brandywine Barber Shop,Wilmington,DE,1,0,1,0.9987921118736267,0.0
+nYuwfmjaYdeJgZU_Q_ugaA,Bangkokville Thai Cuisine,Nashville,TN,1,1,0,0.9998542070388794,100.0
+nZwERuCO2GWBqRTlMKYSQw,5 de Mayo Bakery,Clearwater,FL,1,1,0,0.9992465972900391,100.0
+ncNeXDDNtO1nhwQ0Gm6pfw,Madara's Seafood,Newtown,PA,1,1,0,0.9997832179069519,100.0
+ndJrd9xvEhtLHNmoGkC2sg,Jefferson's,Brentwood,TN,1,1,0,0.9998190999031067,100.0
+niO5BJmsVDVqxQ47TZBoxw,Domino's Pizza,Indianapolis,IN,1,1,0,0.9870545864105225,100.0
+nk2a2nI1jfln9zLpxEvTnw,Crime & Punishment Brewing,Philadelphia,PA,1,1,0,0.9997896552085876,100.0
+nnJ8r-RN80f-Iaunp6smyA,1911 Smoke House Barbeque,Trenton,NJ,1,1,0,0.9997541308403015,100.0
+nt1jLHRIeV5HqB5PfFWbKA,Kary's Beauty Salon,Philadelphia,PA,1,1,0,0.9995059967041016,100.0
+ntk3HonjsNzd2cY9o1RpZA,Famous Dave's,Franklin,TN,1,1,0,0.998561680316925,100.0
+o1bd3WLl4McflqjDTJTdHQ,Phat Bites,Nashville,TN,1,1,0,0.9994364380836487,100.0
+o3HubYII2z42Bi8kokVm3A,Magic Walking Tours,New Orleans,LA,1,1,0,0.9977554678916931,100.0
+o3RGMdSY37_PX1k1vZsXpA,Cafe Ponte,Clearwater,FL,4,4,0,0.9997971504926682,100.0
+o6jfwLREaGy1mwAEybjOkg,Stefano Greek Italian Restaurant,Tampa,FL,1,0,1,0.999739944934845,0.0
+o9Gru-QFoxGK26FSWRCLXA,National Car Rental,Philadelphia,PA,1,1,0,0.9738675951957703,100.0
+oBhJuukGRqPVvYBfTkhuZA,Square 1682,Philadelphia,PA,1,1,0,0.9997738003730774,100.0
+oCbJpGl8IkH1WdYa25TDBA,Morrow's,New Orleans,LA,2,0,2,0.9967546761035919,0.0
+oGdbvXKXVCQ8WC_GQePDkQ,3 Sisters Café,Indianapolis,IN,1,1,0,0.9996309280395508,100.0
+oHAAlU_Yts_avncJK0hJpw,Barro's Pizza,Marana,AZ,1,1,0,0.999060332775116,100.0
+oJ4ik-4PZe6gexxW-tSmsw,Broad Ripple Brewpub,Indianapolis,IN,3,3,0,0.9989303549130758,100.0
+oJ980EJI9bGAABaaOWFesw,Katherine Reginato's Wallpaper Service,Santa Barbara,CA,1,1,0,0.9738537669181824,100.0
+oLc7k78_YcDMnMCdbC-h1A,Lucy's Retired Surfers Bar & Restaurant,New Orleans,LA,4,2,2,0.952560618519783,50.0
+oLuOJ-3q8zJ-mhrwcR28eg,B&B Breakfast and Lunch,Philadelphia,PA,1,1,0,0.9996882677078247,100.0
+oQ5CPRt0R3AzFvcjNOqB1w,Edley's Bar-B-Que - 12 South,Nashville,TN,6,4,2,0.9974054495493571,66.66666666666667
+oRZzKWdyMQld6N_y4UWkAg,Terra Sur Cafe,Tampa,FL,1,1,0,0.9998756647109985,100.0
+oVdmgPooxFdR6oZ83ohERw,John's Village Market - Berwyn,Berwyn,PA,1,1,0,0.9980016350746155,100.0
+oVfTDLW0bg4VMXlSI-tpTA,Smoke BBQ,Audubon,NJ,1,1,0,0.9998651742935181,100.0
+oYzq49fG7jokPLQ38bFMOw,Hachi,Chalfont,PA,2,2,0,0.9998035132884979,100.0
+oaboaRBUgGjbo2kfUIKDLQ,Mike's Ice Cream,Nashville,TN,6,5,1,0.9976434806982676,83.33333333333333
+ofIygj_t4vvNd4WD9Gl-Ng,Joey's Pizza,Thorndale,PA,1,1,0,0.9896501302719116,100.0
+okKaZt47m3hhUi24KwBadQ,Golden Eagle Tattoo,Santa Barbara,CA,1,1,0,0.9998045563697815,100.0
+omCrR-ptw2Mq6KuIoYkqKA,Le Nails,Boise,ID,1,0,1,0.9997832179069519,0.0
+ompDR5sUDpoI6gnTldmneQ,The Praline Connection,New Orleans,LA,3,1,2,0.9466349681218466,33.333333333333336
+osOONoA8wMF5ZpLWUS7VOw,Henry's Coffee Bistro,Indianapolis,IN,3,2,1,0.9988769094149271,66.66666666666667
+otQS34_MymijPTdNBoBdCw,BK Tacos,Tucson,AZ,3,2,1,0.9788878560066223,66.66666666666667
+p0UtMDuBcPkTmP9x3SEZlw,The Skin Studio,New Orleans,LA,1,1,0,0.9996343851089478,100.0
+p9hTISqPZrULTkdbsvMuyg,Fusion 1560 - RAM Partners,St. Petersburg,FL,1,0,1,0.9929004907608032,0.0
+pAgtmlIGqFYaWdBoCUeitw,Holiday Inn Nashville-Vanderbilt,Nashville,TN,1,1,0,0.6640241742134094,100.0
+pEYs1oVeJ6YM2SG5WEr5Pg,Burger Theory,Indianapolis,IN,1,1,0,0.9998173117637634,100.0
+pO26EJWkGf1J_QkI-B7Eeg,The Gyro House,Boise,ID,1,0,1,0.9958742260932922,0.0
+pP4q0Mym-qt20nRqTKbzhQ,Morton's The Steakhouse,Philadelphia,PA,1,1,0,0.9998536109924316,100.0
+pRyf3q0VIMgZngyHb3Gfog,Fireside Lounge,Reno,NV,1,1,0,0.7096685767173767,100.0
+pSmOH4a3HNNpYM82J5ycLA,The Pancake Pantry,Nashville,TN,5,3,2,0.9897624373435974,60.0
+pUVRCYL8rT4I5Ry5FYkRsA,Topa Topa Brewing Company,Santa Barbara,CA,1,1,0,0.9997144341468811,100.0
+pVHbXwsqLxNzAx9rdwy2EA,Marmont Steakhouse & Bar,Philadelphia,PA,2,2,0,0.9961592257022858,100.0
+pafrjSu3h0v0N8GR3ghNtQ,Yats,Indianapolis,IN,4,4,0,0.9997466653585434,100.0
+peL7F35gY6nXuXDD-08LAA,Asian Kitchen,Palm Harbor,FL,1,1,0,0.9998470544815063,100.0
+pj8Y-5vfbRitnnm2xJFH9w,Jamaican Jerk Hut,Philadelphia,PA,1,1,0,0.999150276184082,100.0
+pjb3xGA9ccjl49B5ERH46w,Carmelita's Mexican Restaurant,Largo,FL,1,1,0,0.9998886585235596,100.0
+plobBsTtVUODb353xxFT_g,Sushi Rose,Reno,NV,1,1,0,0.9998472929000854,100.0
+pmuuoDqNZp7518AUd-YmPA,Bagelicious - King Of Prussia,King of Prussia,PA,1,1,0,0.9836506247520447,100.0
+pqe1pCQx--uybdm6EQ8AqQ,Elevation Burger,Wynnewood,PA,2,1,1,0.9990997612476349,50.0
+pqmpsRtNxntXcCfkExPvmA,Pennhurst  Asylum,Spring City,PA,1,1,0,0.9983408451080322,100.0
+pvQqt8VOEZu8lOHbl3hkGw,Lucky Wishbone,Tucson,AZ,1,1,0,0.9998462200164795,100.0
+pwblP3G6LkVT03I4z9kb0A,Mad Dogs,Santa Barbara,CA,2,1,1,0.9987135231494904,50.0
+pxKusAXJv6shyoRXdbd9Uw,Darrell Waltrip Honda,Franklin,TN,1,0,1,0.9996999502182007,0.0
+py5aKmlTB2NarfsfcOpHOQ,Cafe Con Leche,Tampa,FL,1,0,1,0.9997643828392029,0.0
+pym7c6ZFEtmoH16xN2ApBg,Katie's Restaurant & Bar,New Orleans,LA,5,4,1,0.9836851000785828,80.0
+q-ertx54pv90p5pl1SE3qA,Baymont by Wyndham Indianapolis South,Indianapolis,IN,1,0,1,0.9997878670692444,0.0
+q39t6-a47CLf1RTyqu9CYg,Sake Cafe of Elmwood,New Orleans,LA,1,1,0,0.9998476505279541,100.0
+q72up2Av5yNNVPk7vdKg9w,The Egg & I,Carmel,IN,1,1,0,0.9994776844978333,100.0
+qAsPmtzmj3EAUjPSu-dqug,The Depot,Tucson,AZ,1,0,1,0.9887140393257141,0.0
+qDkbudGRfmJvf7trQZea4g,Ruth's Chris Steak House,Philadelphia,PA,2,1,1,0.9989642798900604,50.0
+qNXAR7i6Tb3m0J0UBurj6g,The Food Liaison,Carpinteria,CA,1,1,0,0.9998888969421387,100.0
+qNdDhnauAdhkWyZJHVqUNQ,Meagan Q Macklin,Philadelphia,PA,1,1,0,0.9997422099113464,100.0
+qONvIS94nZhXYm-jccXyuw,Top Hog,Gallatin,TN,1,0,1,0.9992921352386475,0.0
+qQmdJFMWoDe2T2lbacBE8g,Best Western Plus Pepper Tree Inn,Santa Barbara,CA,1,1,0,0.999544084072113,100.0
+qVTTPVz4W91yJiQMrK-R1A,MOD Pizza,Oro Valley,AZ,1,1,0,0.9998542070388794,100.0
+qXZooaeOrKHCrLHK99VHwg,Chick-fil-A,Fairview Heights,IL,1,1,0,0.9998049139976501,100.0
+qa1fGa9u0_awl-A8CinLRg,McAlister's Deli,Tampa,FL,1,1,0,0.9997565150260925,100.0
+qdpdUjdkEUpzYDdce2yZng,Plaza Deli,Santa Barbara,CA,1,1,0,0.9991446733474731,100.0
+qfWJmJ0g96eM_fWma3ja0g,Doc Magrogan's Oyster House - West Chester,West Chester,PA,1,0,1,0.9982638955116272,0.0
+qgott66PgfZhxt9fpstGiA,Kabob House,Boise,ID,1,1,0,0.9998780488967896,100.0
+qhVG2z0V6VDtOrb1E8utKA,Verizon,Tucson,AZ,1,0,1,0.997404158115387,0.0
+qhsJbgxVNDb0973r3Gjrow,The Block,Webster Groves,MO,1,1,0,0.9997078776359558,100.0
+qjGS_7iaQDpbVhS6W8qkHQ,The Sweet Life Bakeshop,Philadelphia,PA,1,1,0,0.9985600113868713,100.0
+qkxVnEA80Qppl2IJFknf1Q,Pier House 60 Beach Marina Hotel,Clearwater,FL,3,1,2,0.9847556749979655,33.333333333333336
+qlC5ojQRLe26shP1Kt7hQg,Waffle House,Avondale,LA,1,0,1,0.8179340958595276,0.0
+qma1sGQv7ArUtzuUTQElRg,Katie's Pizza & Pasta Osteria,Town and Country,MO,1,1,0,0.9986467957496643,100.0
+qppGA9vCUPfw9ngOy_R90w,Cru Cellars - Palma Ceia,Tampa,FL,1,1,0,0.9998866319656372,100.0
+quCIR7UcrMmpaKXYwet8pw,Convivio Italian Artisan Cuisine,Carmel,IN,1,1,0,0.9998791217803955,100.0
+qxDVtIq0EtvOtVKDwbYOiQ,Tony Roma's,Edmonton,AB,1,1,0,0.9979217648506165,100.0
+qy4L5mVOJbeLHtAkRcF1mQ,Kinsmen Sports Centre,Edmonton,AB,1,1,0,0.9975407123565674,100.0
+qz8ANVVHdgsyxAfktFabIQ,Uncle Mike's Smokehouse Grill,Plant City,FL,2,2,0,0.9984334409236908,100.0
+r-kln94enJMMmCWmzbXO2g,Kermit's Bake Shoppe,Philadelphia,PA,1,1,0,0.9829301238059998,100.0
+r1XrdSiWFp-CeZJ4ik7zoQ,The Silverspoon,Wayne,PA,1,1,0,0.9998626708984375,100.0
+r43DrfYAbAgifsYyNkljZw,Red Hot & Blue Restaurant,Cherry Hill,NJ,1,1,0,0.9811449646949768,100.0
+r7E8H-n2DXiKouAsLKAo6A,Sterling Optical - Cross Key Commons,Turnersville,NJ,1,0,1,0.9983370304107666,0.0
+rE35KDAIC_nIAhurQCaCMA,Texas Roadhouse,Avon,IN,1,1,0,0.9995437264442444,100.0
+rG0UTjvbmVVsh9-kGzeliQ,City Limits Bakery & Cafe,Nashville,TN,1,0,1,0.9995821118354797,0.0
+rKlPSPn0wF5tkCrWZzBnbA,Audubon Ale House,Audubon,PA,1,1,0,0.989800751209259,100.0
+rL68WmPRYvmSjRaQUoKwkQ,Social Gastropub,Edwardsville,IL,1,1,0,0.5672300457954407,100.0
+rQ2CSHRkZSn5WCu7OfVI-Q,Trend Eye Care,Philadelphia,PA,1,1,0,0.999295711517334,100.0
+rQCTWNMzIZTfqWEAjxDpKQ,Culver's,Tampa,FL,2,1,1,0.9979383647441864,50.0
+rTW2Og0Tg-OkLTvRwgYO9Q,Courtyard by Marriott Nashville Downtown,Nashville,TN,1,1,0,0.9996127486228943,100.0
+rViAhfKLKmwbhTKROM9m0w,Casino Del Sol,Tucson,AZ,3,1,2,0.9975908398628235,33.333333333333336
+radib3GHt_Up9-zhUjM1ew,Red Robin Gourmet Burgers and Brews,Clearwater,FL,1,0,1,0.9817749261856079,0.0
+rgkz13vQnU2WFZBQBMqMAg,Retrospect Vintage,Philadelphia,PA,1,1,0,0.9970983266830444,100.0
+rnioJAG4aQp2TJHUxLy7CQ,Pikpon Thai,Sicklerville,NJ,1,1,0,0.9955611228942871,100.0
+rpwbAOwCTITborAK6fkGHA,Ritz Theatre Co,Haddon Township,NJ,1,1,0,0.9943544864654541,100.0
+s1PNBO9o5jIgNd5YWUDLXQ,The Independent Hotel,Philadelphia,PA,1,1,0,0.9996126294136047,100.0
+s3FRhtaNU8dt-mKkLKUQaQ,RuSan's Sushi and Seafood,Nashville,TN,1,1,0,0.9993934631347656,100.0
+s7MaEXwDnzUcqG16pG7Wfg,Latteria,Swedesboro,NJ,1,1,0,0.9998865127563477,100.0
+sB45WFgysT617bKWP_WJwA,Budweiser Brewery Experience,Saint Louis,MO,2,2,0,0.9981149137020111,100.0
+sCaB7oJvvwdg1ymuSx2Stg,Studio on 4th Bar & Venue,Reno,NV,1,1,0,0.9979250431060791,100.0
+sGbjViru0iJfxH5cBpMeHQ,August Moon Chinese Restaurant,New Orleans,LA,1,1,0,0.977929413318634,100.0
+sIAkisIQNKwDTxBBfGRnJA,White Fleet Rollins Cab,New Orleans,LA,1,1,0,0.9785122275352478,100.0
+sJz2WhvVGW8jsdQhZ_BlUQ,Foundation Room,New Orleans,LA,1,1,0,0.9997281432151794,100.0
+sLgnx_WFCjEoPsS6NwU70Q,Le Peep,Meridian,ID,2,2,0,0.9998654127120972,100.0
+sQPNcVLTkI0s6mpNiBEVdg,Knockouts Bar and Hookah Lounge,Reno,NV,1,1,0,0.989926815032959,100.0
+sRvEhzWLYVrR3HH5PDhL-A,Tone Zone Fitness Studio,Conshohocken,PA,1,1,0,0.9995421171188354,100.0
+sV22U6poI2ru77UXDhH8kg,The Summit Shopping Center,Reno,NV,1,1,0,0.9952764511108398,100.0
+sV2veMdYGpoLteISw6kjzg,Mis en Chic,Saint Petersburg,FL,1,1,0,0.9998466968536377,100.0
+sVWUxesVKseXGq78UwwajA,Steak ’n Shake,Port Richey,FL,1,0,1,0.9235243201255798,0.0
+sWCCxY1-9B1FGlSVeQvnHg,CD Roma Restaurant,St Petersburg,FL,2,2,0,0.9998158812522888,100.0
+s_EQ1JQvZ32bqFfhZSgj_A,Ladue Nails & Spa,Saint Louis,MO,1,0,1,0.9995482563972473,0.0
+saJFbz12EnzanelpD8_xXQ,Starbucks,Riverview,FL,1,0,1,0.9944692850112915,0.0
+scoHdh0XDA_W7xAZW3zAKQ,Boise Bistro Market,Boise,ID,1,1,0,0.999882698059082,100.0
+sdFJSq-EgmtplIwUamRwTQ,Bayou Burger & Sports Company,New Orleans,LA,3,3,0,0.9992241064707438,100.0
+sdWuLh-auc0nC2Jy6_26AQ,The Black Sheep Pub & Restaurant,Philadelphia,PA,2,1,1,0.999363124370575,50.0
+sdry33zdnowRzDrWaNdcFw,Ciconte's - Swedesboro,Swedesboro,NJ,1,0,1,0.9996562004089355,0.0
+sfl0HOsTCVyvsQZb6c9ExQ,Surya Namaskar Yoga & Massage,St. Petersburg,FL,1,1,0,0.5279473066329956,100.0
+shi2MHna5oLRSU_rLDJN6A,Walmart Supercenter,Nashville,TN,1,0,1,0.999182403087616,0.0
+sjNVeNqhDjEFHoOybnt2ug,Meun Fan Thai Cafe,Goleta,CA,2,2,0,0.9998411238193512,100.0
+skJ1w8B5YusIibyxH4ohxQ,Fulton Alley,New Orleans,LA,1,1,0,0.9986011385917664,100.0
+skN2XhKXlcjf53uIwzAedw,Burger Up - Franklin,Franklin,TN,2,1,1,0.9991807043552399,50.0
+skW4boArIApRw9DXKXukkA,Champps Penn's Landing,Philadelphia,PA,1,0,1,0.9990548491477966,0.0
+sr-5EY6bmp4jINhea06MjA,The Cake Bake Shop by Gwendolyn Rogers-Broad Ripple Village,Indianapolis,IN,3,3,0,0.9979328314463297,100.0
+sr9RI_LHMXGZfpDApPsDEw,Luxe Nails,Philadelphia,PA,1,1,0,0.9974283576011658,100.0
+swUT7AsP776D0XEBQrSznA,Bubba Gump Shrimp Co.,Edmonton,AB,1,1,0,0.9996507167816162,100.0
+t-_pLJLaIJZDomaDQaWwaA,HotBox Pizza,Southport,IN,1,0,1,0.9976303577423096,0.0
+t0XZeA0MP0P66QyLQn_NUw,Yellow Submarine,Sparks,NV,1,0,1,0.9890570044517517,0.0
+t1P8sQvq-XkljRDPocBZSQ,Bruno's Pizza & Restaurant,Haddonfield,NJ,2,2,0,0.9997877776622772,100.0
+t1qF12NdW8KvCqxqbvy-Hg,Cafe Envie & Espresso Bar,New Orleans,LA,3,3,0,0.9946028590202332,100.0
+t4uYspSBFG90ks_CNnhJQw,Pediatric Surgery Centers,Odessa,FL,1,1,0,0.9992614388465881,100.0
+t5Ca7rn3NsjfZcpfbhRZKA,Beaucoup Juice,New Orleans,LA,1,1,0,0.9998847246170044,100.0
+tFUJRLtNgIGg8ifaDtM_Kg,Perfect Arch,Indianapolis,IN,1,0,1,0.9992201328277588,0.0
+tHKobCOXI4SCX9KJ_Ldcww,Johnnie Brock's Dungeon,Saint Louis,MO,1,1,0,0.9985622763633728,100.0
+tHq2BHHqam5eiOQkFpFcBA,3am Liquor,Palm Harbor,FL,1,0,1,0.9986944794654846,0.0
+tNOLXgYTykXmLaAZnvo1vg,Chipotle Mexican Grill,Exton,PA,1,0,1,0.9994325041770935,0.0
+tP8wd-9CrI_RkHK424oifQ,Panera Bread,Tucson,AZ,2,1,1,0.9978713095188141,50.0
+tQ6VNQ9ezkxRE4bvu9WShQ,CBQ Cowboy Bar & 'Que,Sparks,NV,1,0,1,0.9964501857757568,0.0
+tVNP5Ap6EAypgwsiPHWW2g,Keva Juice,Reno,NV,1,0,1,0.9997255206108093,0.0
+tXf6TpqHOLiwyMNbYAOOCQ,The Little Lamb,Clearwater,FL,1,1,0,0.9998537302017212,100.0
+tXfeVYKJq-bGPx1sjHOMHA,Village Inn,Land O' Lakes,FL,1,0,1,0.99925297498703,0.0
+tYCok-NtWvg8_k7woeB83w,Grand Lux Cafe,Cherry Hill,NJ,1,1,0,0.9996781349182129,100.0
+tbzgofyYkQkz3buirsNkdQ,Salon Rouge,Cherry Hill,NJ,1,1,0,0.9994828701019287,100.0
+tg0HtzW8471rkWJNWbvqXA,Massage Envy - Lutz,Lutz,FL,1,1,0,0.9997666478157043,100.0
+thCbLZ69suCvVNr4gPQU1Q,JW Marriott Indianapolis,Indianapolis,IN,2,1,1,0.9937968254089355,50.0
+tr366vgAkbcpJBVKSdBxZg,Aldertos Fresh Mexican Food,Reno,NV,1,1,0,0.9995062351226807,100.0
+tvbFcYCEQWc76CUK-nBw8w,Seoul Garden,Nashville,TN,2,2,0,0.9995138943195343,100.0
+twNHYgtUkxoeFbLHxdhsOw,Daddy Jack's Restaurant & Bar,Indianapolis,IN,1,1,0,0.9998286962509155,100.0
+tzVLTQNUtiCAxUZmEuF0vQ,1 Tippling Place,Philadelphia,PA,1,1,0,0.9952888488769531,100.0
+u-8sFq05DQ6PYCR5HiKZ2w,Axis Pizza,Philadelphia,PA,1,0,1,0.9557487964630127,0.0
+u-MF7O0mULjBnjz71fNplQ,Advanced Urgent Care,Philadelphia,PA,1,0,1,0.9963855743408203,0.0
+u-eaBrfpqjXTS2TD_cTioA,Roy Foster's Automotive,Reno,NV,1,1,0,0.9953849911689758,100.0
+u-w0dEUZAUF3JyGS_-KiTQ,Black 13 Tattoo Parlor,Nashville,TN,1,1,0,0.999819815158844,100.0
+u2v1Ml7xb-l5NUmOk5bcNA,Wilensky Locks & Hardware,Philadelphia,PA,1,0,1,0.9906352162361145,0.0
+u4SoM_ljOMxmuQ8GIr1m8A,Dosa Hut & Chaat House,Norristown,PA,1,1,0,0.9996964931488037,100.0
+u7_3L1NBWgxhBM_B-cmmnA,Pizzeria Vetri,Philadelphia,PA,3,2,1,0.9996179739634196,66.66666666666667
+uE40984_YDgVvPeRpFcCaQ,The Fat Ham,Philadelphia,PA,3,1,2,0.9938305417696635,33.333333333333336
+uEWsfftrJ7ukPv1xyMVcrg,Savers,Tucson,AZ,1,1,0,0.9996045231819153,100.0
+uI15YInpDsGBUZcNfm_TfQ,Borrello's Pizza & Pastaria,Carpinteria,CA,1,1,0,0.9996234178543091,100.0
+uKAbrDSJJzZliY1Yqu5KxQ,Scannicchio's,Philadelphia,PA,1,1,0,0.999573290348053,100.0
+uMT7H0shZK4-pQ_J2qMEWA,The Spice Corner,Philadelphia,PA,1,1,0,0.9997355341911316,100.0
+uO39--k_hrCFgZh-Bl8m8A,Taqueria Cuernavaca,Santa Barbara,CA,2,2,0,0.999350517988205,100.0
+uTq9qVkOuxjBPjqC7K0XYA,Crumb de la Crumb,Nashville,TN,2,2,0,0.9246519207954407,100.0
+uVCMVOTyL4-j4M37o01MwA,Imperial Woodpecker Snoballs,New Orleans,LA,1,0,1,0.999794065952301,0.0
+uVJkqQ1U9MH7hBorrwGhBg,Wishbone,Philadelphia,PA,2,1,1,0.8104131519794464,50.0
+uW8L6awmCyjovD9OhWPo7g,Casa Video,Tucson,AZ,1,1,0,0.8283416032791138,100.0
+u_S84xiDCRJ3CV204CIYuQ,Silver In the City,Indianapolis,IN,1,1,0,0.997786283493042,100.0
+uaipZDBSvzDzUUlazpyGCg,Minato Noodles,Reno,NV,1,1,0,0.9998838901519775,100.0
+ufPe9U9-rE4RI4K9qdb5aw,Winners,Edmonton,AB,1,1,0,0.9987334609031677,100.0
+ukhkivp_eCkyCpNcujoDtQ,Goleta Mufflers & Brakes,Goleta,CA,1,0,1,0.9987886548042297,0.0
+ulFLsCym5q7H-ZuL93csSw,Happy Pets Grooming Spa,Fenton,MO,1,0,1,0.9970959424972534,0.0
+uoMWvXch6sWnI9FMsE_-Vg,Cafe Napoli Restaurant & Pizzeria,Wilmington,DE,1,1,0,0.9997023940086365,100.0
+uqXYVxIwoEsFFjEHBlMZQA,Cyrano's,Saint Louis,MO,1,0,1,0.9883700609207153,0.0
+uvQQlr5ye4ReQTxuyB7kCA,Poseidon,New Orleans,LA,1,1,0,0.999537467956543,100.0
+uyQGW7kZKk90vEwGo8A7mA,Courtesy Hyundai Tampa,Tampa,FL,1,1,0,0.9995917677879333,100.0
+v-ROZ8qWggTWmmnslshG7w,Sky Zone Trampoline Park,Maple Shade,NJ,1,1,0,0.9986633062362671,100.0
+v5-iWb3HSIbnjMzQxYE4JA,Alston Stucco,Philadelphia,PA,1,1,0,0.9910004734992981,100.0
+v72HalBu5fQIFTD-oqhSgQ,1200 Chophouse,St. Petersburg,FL,1,1,0,0.999858021736145,100.0
+v8IbZ6wcvdyGqWpbDKDvfA,YO! Sushi,Tampa,FL,1,0,1,0.9969700574874878,0.0
+vA5MHe9LqNQcp8k_CaFkHg,Dagwood's Pub,Philadelphia,PA,1,1,0,0.9998588562011719,100.0
+vAoCutZiiFsaZ7i8EQromg,Old Glory,Nashville,TN,1,0,1,0.9485589861869812,0.0
+vCHNWdW-ys-nWUx3Cpvk8Q,Swiss Haus Cafe & Pastry Bar,Philadelphia,PA,1,1,0,0.9998296499252319,100.0
+vD2jzpPv4iyOLKzITscGvA,Farmhaus Restaurant,Saint Louis,MO,1,1,0,0.9991114735603333,100.0
+vDiD0bskBRmJMawAK2YWNg,The Liacouras Center,Philadelphia,PA,1,1,0,0.9986695051193237,100.0
+vF32KjPs8BgltSa484P1Yg,Euro Grill,Nashville,TN,1,1,0,0.9996539354324341,100.0
+vG9aD-fvsIimgo-l7u8-AA,P.F. Chang's,Franklin,TN,1,1,0,0.9481635689735413,100.0
+vHAjYdA3c4G3E7HKMl3OgQ,Barrister's Bagels,Royersford,PA,1,0,1,0.9984351992607117,0.0
+vLpLGCbAtuxFzu2ka138aA,Barnet Fair,Philadelphia,PA,1,1,0,0.9998233914375305,100.0
+vN6v8m4DO45Z4pp8yxxF_w,Surrey's Café & Juice Bar,New Orleans,LA,9,7,2,0.9650400545861986,77.77777777777777
+vOgQnvKbE4nMopFTjoL8Gg,Watermark Restaurant,Nashville,TN,2,1,1,0.9281545579433441,50.0
+vUrTGX_7HxqeoQ_6QCVz6g,Suraya,Philadelphia,PA,1,1,0,0.9997739195823669,100.0
+vZp-KUODRmP_6mb7AliDDg,The Outdoor Kitchen Store,Tampa,FL,1,0,1,0.9998083710670471,0.0
+vcAHsailT7pS8Macwgvasg,Old Made Good,Nashville,TN,1,1,0,0.9998247027397156,100.0
+vdpxxb6fxjYtJMnW_V0GZg,Lucky Goat Coffeehouse,Philadelphia,PA,1,1,0,0.9995946288108826,100.0
+vfQtETvyZOi5iZZHMq0dKQ,Luca Pizza,Indianapolis,IN,1,1,0,0.9996175765991211,100.0
+vfmHUg7jWnfzLb90vcuLSg,Galatoire's 33 Bar & Steak,New Orleans,LA,1,1,0,0.9998462200164795,100.0
+vje0KIiE7vtpx7JzmBx5LQ,The Pearl,Treasure Island,FL,1,1,0,0.999679446220398,100.0
+vsrryxBR2Jykl71qa1H6SQ,Caffe Primo,Santa Barbara,CA,1,1,0,0.939056932926178,100.0
+vuAI70USd3my2Kb9_9zajw,Joey B's On The Hill,Saint Louis,MO,1,0,1,0.9911006093025208,0.0
+vvRTTZl4ERtVnBEWv7KzzQ,Gizmo's Galleria,Brownsburg,IN,1,0,1,0.9881828427314758,0.0
+vz1hsP-CN-wEhwcLv-7UVg,Midcity Wax + Spa,New Orleans,LA,1,1,0,0.9998819828033447,100.0
+w0lcP2ngFaUpBGi5yzlYDw,Yah Mon,Tampa,FL,1,1,0,0.9998194575309753,100.0
+w0teKWyqZMzR0f6mNZ57yQ,Styleout Bar,Tampa,FL,1,1,0,0.9998674392700195,100.0
+w18LqIckdMOK7-PU49KBsQ,Taco Bell,Sparks,NV,1,0,1,0.9997764229774475,0.0
+w4GXOtpCDsCuXesj7bISmA,World Sports Grille,Tuscon,AZ,1,0,1,0.9784550070762634,0.0
+w4eWSjuQ75RluGFyPrkbYw,Beef 'O' Brady's,St. Pete Beach,FL,1,0,1,0.9988036155700684,0.0
+w520vYWEpEYBf90rSr9NVA,The Smiling Elephant,Nashville,TN,3,2,1,0.9892356197039286,66.66666666666667
+w6z28easvQLND722s4pNvw,MK's Asian Persuasion,St. Louis,MO,1,1,0,0.9995691180229187,100.0
+wFES5bGDiPANW13hNHnXOQ,Sakana Sushi Bar & Japanese,Santa Barbara,CA,1,1,0,0.9522507190704346,100.0
+wJmyu7W1K9A_gE8Ed4Bc9w,Trident Grill,Tucson,AZ,2,2,0,0.998893141746521,100.0
+wQJbr_xIrLBnpqICoJWHFA,DoubleTree by Hilton Hotel Downtown Wilmington - Legal District,Wilmington,DE,1,0,1,0.9878556132316589,0.0
+wUnLSg_GKfEIQ5CQQ770_g,Vetri Cucina,Philadelphia,PA,1,1,0,0.9971711039543152,100.0
+wa_bwyY57etHjtJ2Fw0E3g,Pita Jungle,Tucson,AZ,2,2,0,0.9951243996620178,100.0
+wh9WMoi0ukhQy-kvjpC4uQ,Apex Inspections,Philadelphia,PA,1,0,1,0.9993003606796265,0.0
+wi4F4NUvxn7UWHvQ1Iiz7w,Annex,Saint Petersburg,FL,1,1,0,0.9715731143951416,100.0
+wlha6rggeoywiXS1C3D-HA,Babylon Music & Sports Bar,Metairie,LA,1,1,0,0.9991650581359863,100.0
+wwHswDU1t8T-8DAuKI3WdQ,Robbi's Custom Leather Goods,Saint Louis,MO,1,1,0,0.9998063445091248,100.0
+wxNrsZt7towVK4LgjjEo1g,Osteria,Moorestown,NJ,1,1,0,0.9997410178184509,100.0
+wzE61ThXOdrSegvwSOzf5w,Biscuit Love: Hillsboro Village,Nashville,TN,1,1,0,0.9996121525764465,100.0
+x-O0dIeIVaVBEhTu_w56DQ,Sahara Sam's Water Park,West Berlin,NJ,2,0,2,0.762191653251648,0.0
+x-SCuOwghy4GlZdVOKjt4g,Twisted Twig Fine Florals,Santa Barbara,CA,1,1,0,0.9997597336769104,100.0
+x4XDkWR9fgP4TItqMr8A8A,Hollygrove Market & Farm,New Orleans,LA,1,1,0,0.9998180270195007,100.0
+x4XdNhp0Xn8lOivzc77J-g,Thai Place Restaurant,Phoenixville,PA,1,1,0,0.9998444318771362,100.0
+x6ByESFVanIYcomQsXQYGw,19 Blue Salon,Santa Barbara,CA,2,2,0,0.9993758201599121,100.0
+x7_p5O3ChQa7shdHCcLHZQ,Olivier's Creole Restaurant,New Orleans,LA,1,1,0,0.8314909338951111,100.0
+xCW-s1hBP23-HkyqW-kngA,Italian Kitchen & Cafe,Riverview,FL,1,1,0,0.9998810291290283,100.0
+xCXGV3wEvYd4xBGx8ZRFQA,La Va Cafe,Philadelphia,PA,2,1,1,0.9962107241153717,50.0
+xDEee0p41GueCDN0EAp-YA,Phone Repair Philly - Center City,Philadelphia,PA,1,1,0,0.9995891451835632,100.0
+xFJ4R9nKQt_JoD5CXgyFjw,Northside Shoe Repair,Santa Barbara,CA,1,0,1,0.9984065890312195,0.0
+xGUAa3xa8KsmbolC3XboQg,Xtreme Tacos,Tampa,FL,1,1,0,0.999574601650238,100.0
+xJ3NSwE0xhdtA-tB_y_rNQ,Jack Dempsey's Restaurant & Bar,New Orleans,LA,1,1,0,0.9996670484542847,100.0
+xJIeT5--AiPdvPb5BRflyQ,East Coast Pizza,Riverview,FL,1,0,1,0.5410159230232239,0.0
+xJyp6RLqNRv3tSu6njPKxQ,World of Beer,Exton,PA,1,1,0,0.9721088409423828,100.0
+xT41eqUSsM_MDE1Vjhq20A,SoFresh,Tampa,FL,1,1,0,0.9998822212219238,100.0
+xUAFZts8ULcAxJZICEAxaQ,AutoZone Auto Parts,Reno,NV,1,1,0,0.9925096035003662,100.0
+xYmyJQiCnsMdxHpMQomxqQ,McDonald's,Avon,IN,1,1,0,0.9997871518135071,100.0
+xbRbvXSAVZBEwaUUn3mzbg,Lee Roy Selmon's,Tampa,FL,1,0,1,0.9965985417366028,0.0
+xjHAl5eQqyO0YK7pXDx7Hw,Westside Pizza,Boise,ID,1,0,1,0.9964739680290222,0.0
+xruWHK8Z5N0JWyQubLHjgA,Potito's Italian American Pastries,Philadelphia,PA,1,1,0,0.997681736946106,100.0
+xsTiT3S9J87uYB1P8DHLgQ,The Studio,Reno,NV,2,2,0,0.9994393587112427,100.0
+xvdsyHdYsEbm_Cqs0BgdEw,DoubleTree Suites by Hilton Hotel Nashville Airport,Nashville,TN,1,0,1,0.9996299743652344,0.0
+xwKYBPO0ByGlkvNcr8FdqQ,Le Rendez-vous,Tucson,AZ,1,1,0,0.9898838996887207,100.0
+xwmdDSPBvFAM9D74ftcYsw,Copper Top Pub,Tampa,FL,1,1,0,0.9998526573181152,100.0
+xz1AMpCo1UpWxdOVyGtIoQ,Bicycle Hospital,Indianapolis,IN,1,1,0,0.9981993436813354,100.0
+y--UQiSyVPAmWjRkZ9tdPQ,Pep Boys,Philadelphia,PA,1,1,0,0.9996020197868347,100.0
+y44MbCvvtmg1FpkNGSWisw,Tony's Luke,Philadelphia,PA,2,1,1,0.9984169602394104,50.0
+y5o2VSvj42KrXrotY3GTgA,Guo Bin Chinese Restaurant,Saint Louis,MO,1,1,0,0.9972894191741943,100.0
+yCircN2ybEcUrWUzqfXlew,West Coast Optical,Philadelphia,PA,1,1,0,0.999626636505127,100.0
+yDHINEt7By47My7x4Mb8oA,The Gypsy Saloon,West Conshohocken,PA,1,0,1,0.999679446220398,0.0
+yE1raqkLX7OZsjmX3qKIKg,Butcher & Bee,Nashville,TN,2,2,0,0.9905891418457031,100.0
+yS0TsUzKBQlHQCZZeBrxww,Tortas El Guero,Indianapolis,IN,1,1,0,0.9956510663032532,100.0
+ydY1FKBgpgXvhxpVPMbinA,Numa,Philadelphia,PA,1,1,0,0.5988082885742188,100.0
+ydhQU-w03WwrGhXPs9tRVQ,Sun Stop of Tampa,Tampa,FL,1,1,0,0.9996601343154907,100.0
+yeHLiKNp0hyR-ig4M6us-w,Livery - Indianapolis,Indianapolis,IN,7,7,0,0.9998088138444083,100.0
+yf1fXCSYCKvUGUgv5KaInA,David's Bridal,Springfield,PA,1,0,1,0.9991377592086792,0.0
+yfZN25vP-9WPIdyDd7jOrA,Bob’s Discount Furniture and Mattress Store,Deptford Township,NJ,1,0,1,0.9979696869850159,0.0
+yip92_y6BgpQdcX486b_RQ,Sabino Canyon,Tucson,AZ,2,2,0,0.9985173940658569,100.0
+ymoEdJB5NE56sWw74uyX7A,Sushi Bar,Indianapolis,IN,2,2,0,0.9997559189796448,100.0
+ypXuDmnnPxnfP8a0qLsiEg,M.L.Rose Craft Beer & Burgers - Sylvan Park,Nashville,TN,3,3,0,0.9991545875867208,100.0
+yuW60QyweNNcyHa_3fkrYA,Izenberg's Catering & Cafe,Conshohocken,PA,2,1,1,0.9991117417812347,50.0
+ywXa1pDqHPe9tOPx0yJFUg,Otaco,Goleta,CA,1,0,1,0.9989558458328247,0.0
+z-s_l9SLZiqhAArcdkYOaw,Pia Esthetics Day Spa,St. Petersburg,FL,1,1,0,0.9998313188552856,100.0
+z680Aylt8wN2KAeFM1hy-A,Chatham Tap Mass. Ave.,Indianapolis,IN,2,2,0,0.9993263483047485,100.0
+zCGoQt3VCVP0iT6WtIeHZA,Sicilian Pasta Kitchen South,Edmonton,AB,1,1,0,0.9998136162757874,100.0
+zIDuAuwyaLmNwv4k18mbwA,India Palace,Indianapolis,IN,1,1,0,0.9993708729743958,100.0
+zJErbOQMKX-MwHs_ulV7DA,Philadelphia Marriott Old City,Philadelphia,PA,1,1,0,0.9996672868728638,100.0
+zLViSytSrWambgwGECNyZA,Philadelphia Eagles,Philadelphia,PA,1,1,0,0.9975377321243286,100.0
+zPhKgPnNHulWE5UoDPd8oA,CG Meyers Home Improvements,Warminster,PA,1,1,0,0.9998617172241211,100.0
+zSqTndm5Alq9dW1PyzbdTA,Grand Isle,New Orleans,LA,1,1,0,0.9997853636741638,100.0
+zVlhs7BVaouutt-rles-YA,Williams Sub Shop,Saint Petersburg,FL,1,1,0,0.9995163679122925,100.0
+zVoxVPHEt11_0GzqNuT2ZQ,Home Wine Kitchen,Saint Louis,MO,1,1,0,0.8803005814552307,100.0
+zYu2D8FzczailDkEMURExg,Jimmy Guana's,Indian Rocks Beach,FL,1,1,0,0.9995906949043274,100.0
+zaC6coZ5Gp8mLjeg7Slh6A,Speedy's Cantina,Edmonton,AB,1,1,0,0.9944319128990173,100.0
+zbvu8pRKcOQqdjqRGbncyQ,Cheddar's Scratch Kitchen,Hendersonville,TN,1,1,0,0.9766871929168701,100.0
+zdG9d52hqH0JIk65LQzcaA,McDonald's,Deptford,NJ,1,0,1,0.9997678399085999,0.0
+zdMh__ATXg8tHzKpXzoNFQ,Laziza,Edmonton,AB,1,1,0,0.9996626377105713,100.0
+zedtiorJSVxjpqMKdyp9TA,Bully's Sports Bar & Grill,Reno,NV,1,1,0,0.9988320469856262,100.0
+zgpjbobBY0fKvxAxOz7TkA,Apple Store - Christiana Mall,Newark,DE,1,0,1,0.5442081689834595,0.0
+zie_uvy3ln9rdTvA2e3gUg,IHOP,Williamstown,NJ,1,1,0,0.9972649812698364,100.0
+zjNcjqgQlPrbnn-pV5YCSg,Teavana,King of Prussia,PA,1,0,1,0.8017774820327759,0.0
+zrd6bulYNAKhCdSVtJ8aXQ,Texas Roadhouse,Sicklerville,NJ,2,2,0,0.9980727136135101,100.0
+zsDjnBHyJsYfkdry96x75g,Gold Coffee Pancake House,Indianapolis,IN,1,1,0,0.9989328980445862,100.0
+zseMBzx3aoFwswlqfukOvw,Denim and Smith,Edmonton,AB,1,1,0,0.9971204996109009,100.0
+zspnOaAN4jpseR3X7YtX5Q,Brownies Pub,Philadelphia,PA,1,1,0,0.999488115310669,100.0
+zu4p6IZLSVn2Noto-vcwzw,East Beach Grill,Santa Barbara,CA,1,1,0,0.999725878238678,100.0
+zun6IVJa7wYe3wAPqWnPGw,PokeDoke,St. Louis,MO,1,1,0,0.5070574879646301,100.0
+zwXT4m9svdg-xh2cKjEp-Q,Plaza Azteca - Kennett Square,Kennett Square,PA,1,1,0,0.9998722076416016,100.0
+zxY4DgtXsVHihSUpsmwamg,P & S Ravioli,Philadelphia,PA,1,1,0,0.999866247177124,100.0
+zxuVnNVAUm16Sro0dS_lmg,Roundabout Grill,Reno,NV,1,1,0,0.9988301396369934,100.0
